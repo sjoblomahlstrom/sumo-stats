@@ -1,0 +1,5370 @@
+{
+  "updatedAt": "2026-11-09T10:56:39.021476+00:00",
+  "source": "Sumo API",
+  "wrestlers": [
+    {
+      "id": 2,
+      "name": "Asanoyama",
+      "japaneseName": "朝乃山　広暉",
+      "rank": "Maegashira 1 East",
+      "heya": "Takasago",
+      "height": 188,
+      "weight": 172
+    },
+    {
+      "id": 3,
+      "name": "Hakunofuji",
+      "japaneseName": "伯乃富士　哲也",
+      "rank": "Maegashira 3 West",
+      "heya": "Isegahama",
+      "height": 181,
+      "weight": 162
+    },
+    {
+      "id": 4,
+      "name": "Kaizen",
+      "japaneseName": "魁禅(かいぜん)",
+      "rank": "Jonokuchi 1 East",
+      "heya": "Asakayama",
+      "height": 177,
+      "weight": 136
+    },
+    {
+      "id": 5,
+      "name": "Takerufuji",
+      "japaneseName": "尊富士　弥輝也",
+      "rank": "Maegashira 4 East",
+      "heya": "Isegahama",
+      "height": 186,
+      "weight": 149
+    },
+    {
+      "id": 6,
+      "name": "Kazenoumi",
+      "japaneseName": "風の湖(かぜのうみ)",
+      "rank": "Sandanme 6 West",
+      "heya": "Oshiogawa",
+      "height": 183.5,
+      "weight": 164.2
+    },
+    {
+      "id": 7,
+      "name": "Kirishima",
+      "japaneseName": "霧島　鐵力",
+      "rank": "Ozeki 2 East",
+      "heya": "Otowayama",
+      "height": 186,
+      "weight": 150
+    },
+    {
+      "id": 8,
+      "name": "Kotoshoho",
+      "japaneseName": "琴勝峰　吉成",
+      "rank": "Maegashira 6 East",
+      "heya": "Sadogatake",
+      "height": 189,
+      "weight": 170
+    },
+    {
+      "id": 9,
+      "name": "Daieisho",
+      "japaneseName": "大栄翔　勇人",
+      "rank": "Maegashira 4 West",
+      "heya": "Oitekaze",
+      "height": 182,
+      "weight": 163
+    },
+    {
+      "id": 11,
+      "name": "Ichiyamamoto",
+      "japaneseName": "一山本　大生",
+      "rank": "Maegashira 12 East",
+      "heya": "Hanaregoma",
+      "height": 190,
+      "weight": 160
+    },
+    {
+      "id": 12,
+      "name": "Wakatakakage",
+      "japaneseName": "若隆景　渥",
+      "rank": "Juryo 5 West",
+      "heya": "Arashio",
+      "height": 183,
+      "weight": 138
+    },
+    {
+      "id": 13,
+      "name": "Wakamotoharu",
+      "japaneseName": "若元春　港",
+      "rank": "Maegashira 7 East",
+      "heya": "Arashio",
+      "height": 186,
+      "weight": 149
+    },
+    {
+      "id": 14,
+      "name": "Tamawashi",
+      "japaneseName": "玉鷲　一朗",
+      "rank": "Maegashira 15 East",
+      "heya": "Kataonami",
+      "height": 189,
+      "weight": 178
+    },
+    {
+      "id": 15,
+      "name": "Ryuden",
+      "japaneseName": "竜電　剛至",
+      "rank": "Juryo 5 East",
+      "heya": "Takadagawa",
+      "height": 189,
+      "weight": 159
+    },
+    {
+      "id": 16,
+      "name": "Nishikigi",
+      "japaneseName": "錦木(にしきぎ)",
+      "rank": "Makushita 2 East",
+      "heya": "Isenoumi",
+      "height": 186,
+      "weight": 184
+    },
+    {
+      "id": 19,
+      "name": "Hoshoryu",
+      "japaneseName": "豊昇龍　智勝",
+      "rank": "Yokozuna 1 West",
+      "heya": "Tatsunami",
+      "height": 188,
+      "weight": 148
+    },
+    {
+      "id": 20,
+      "name": "Kotozakura",
+      "japaneseName": "琴櫻　将傑",
+      "rank": "Ozeki 1 West",
+      "heya": "Sadogatake",
+      "height": 189,
+      "weight": 177
+    },
+    {
+      "id": 21,
+      "name": "Tobizaru",
+      "japaneseName": "翔猿　正也",
+      "rank": "Juryo 2 West",
+      "heya": "Oitekaze",
+      "height": 173,
+      "weight": 135
+    },
+    {
+      "id": 22,
+      "name": "Abi",
+      "japaneseName": "阿炎　政虎",
+      "rank": "Maegashira 12 West",
+      "heya": "Shikoroyama",
+      "height": 186,
+      "weight": 167
+    },
+    {
+      "id": 24,
+      "name": "Hiradoumi",
+      "japaneseName": "平戸海　雄貴",
+      "rank": "Maegashira 5 East",
+      "heya": "Sakaigawa",
+      "height": 178,
+      "weight": 142
+    },
+    {
+      "id": 26,
+      "name": "Mitakeumi",
+      "japaneseName": "御嶽海　久司",
+      "rank": "Juryo 9 East",
+      "heya": "Dewanoumi",
+      "height": 178,
+      "weight": 176
+    },
+    {
+      "id": 28,
+      "name": "Ura",
+      "japaneseName": "宇良　和輝",
+      "rank": "Maegashira 2 East",
+      "heya": "Kise",
+      "height": 173,
+      "weight": 138
+    },
+    {
+      "id": 29,
+      "name": "Kagayaki",
+      "japaneseName": "輝　大士",
+      "rank": "Juryo 3 East",
+      "heya": "Takadagawa",
+      "height": 192,
+      "weight": 169
+    },
+    {
+      "id": 33,
+      "name": "Shodai",
+      "japaneseName": "正代　直也",
+      "rank": "Juryo 3 West",
+      "heya": "Tokitsukaze",
+      "height": 184,
+      "weight": 168
+    },
+    {
+      "id": 34,
+      "name": "Midorifuji",
+      "japaneseName": "翠富士　一成",
+      "rank": "Juryo 8 East",
+      "heya": "Isegahama",
+      "height": 174,
+      "weight": 116
+    },
+    {
+      "id": 35,
+      "name": "Sadanoumi",
+      "japaneseName": "佐田の海　貴士",
+      "rank": "Juryo 11 West",
+      "heya": "Sakaigawa",
+      "height": 181,
+      "weight": 141
+    },
+    {
+      "id": 37,
+      "name": "Takanosho",
+      "japaneseName": "隆の勝　伸明",
+      "rank": "Maegashira 11 East",
+      "heya": "Tokiwayama",
+      "height": 184,
+      "weight": 176
+    },
+    {
+      "id": 38,
+      "name": "Meisei",
+      "japaneseName": "明生　力",
+      "rank": "Juryo 13 East",
+      "heya": "Tatsunami",
+      "height": 178,
+      "weight": 157
+    },
+    {
+      "id": 39,
+      "name": "Chiyoshoma",
+      "japaneseName": "千代翔馬　富士雄",
+      "rank": "Juryo 1 East",
+      "heya": "Kokonoe",
+      "height": 184,
+      "weight": 144
+    },
+    {
+      "id": 40,
+      "name": "Nishikifuji",
+      "japaneseName": "錦富士　隆聖",
+      "rank": "Maegashira 8 West",
+      "heya": "Isegahama",
+      "height": 184,
+      "weight": 155
+    },
+    {
+      "id": 41,
+      "name": "Oho",
+      "japaneseName": "王鵬　幸之介",
+      "rank": "Maegashira 10 West",
+      "heya": "Otake",
+      "height": 192,
+      "weight": 185
+    },
+    {
+      "id": 44,
+      "name": "Takayasu",
+      "japaneseName": "高安　晃",
+      "rank": "Maegashira 3 East",
+      "heya": "Tagonoura",
+      "height": 188,
+      "weight": 173
+    },
+    {
+      "id": 49,
+      "name": "Shonannoumi",
+      "japaneseName": "湘南乃海　桃太郎",
+      "rank": "Juryo 6 East",
+      "heya": "Takadagawa",
+      "height": 193,
+      "weight": 180
+    },
+    {
+      "id": 50,
+      "name": "Kinbozan",
+      "japaneseName": "金峰山　晴樹",
+      "rank": "Maegashira 7 West",
+      "heya": "Kise",
+      "height": 194,
+      "weight": 181
+    },
+    {
+      "id": 52,
+      "name": "Bushozan",
+      "japaneseName": "武将山(ぶしょうざん)",
+      "rank": "Sandanme 10 West",
+      "heya": "Fujishima",
+      "height": 171.5,
+      "weight": 168.6
+    },
+    {
+      "id": 54,
+      "name": "Tohakuryu",
+      "japaneseName": "東白龍　雅士",
+      "rank": "Juryo 8 West",
+      "heya": "Tamanoi",
+      "height": 182,
+      "weight": 136
+    },
+    {
+      "id": 55,
+      "name": "Roga",
+      "japaneseName": "狼雅　外喜義",
+      "rank": "Maegashira 8 East",
+      "heya": "Futagoyama",
+      "height": 185,
+      "weight": 159
+    },
+    {
+      "id": 56,
+      "name": "Gonoyama",
+      "japaneseName": "豪ノ山　登輝",
+      "rank": "Maegashira 5 West",
+      "heya": "Takekuma",
+      "height": 178,
+      "weight": 163
+    },
+    {
+      "id": 57,
+      "name": "Shimazuumi",
+      "japaneseName": "島津海(しまづうみ)",
+      "rank": "Makushita 26 West",
+      "heya": "Hanaregoma",
+      "height": 175,
+      "weight": 152.6
+    },
+    {
+      "id": 58,
+      "name": "Tsushimanada",
+      "japaneseName": "對馬洋(つしまなだ)",
+      "rank": "Makushita 6 East",
+      "heya": "Sakaigawa",
+      "height": 185,
+      "weight": 140.4
+    },
+    {
+      "id": 59,
+      "name": "Hakuyozan",
+      "japaneseName": "白鷹山(はくようざん)",
+      "rank": "Makushita 50 West",
+      "heya": "Takadagawa",
+      "height": 187.9,
+      "weight": 168.6
+    },
+    {
+      "id": 61,
+      "name": "Oshoma",
+      "japaneseName": "欧勝馬　出気",
+      "rank": "Maegashira 9 East",
+      "heya": "Naruto",
+      "height": 190,
+      "weight": 162
+    },
+    {
+      "id": 62,
+      "name": "Enho",
+      "japaneseName": "炎鵬　友哉",
+      "rank": "Juryo 10 East",
+      "heya": "Isegahama",
+      "height": 167,
+      "weight": 107
+    },
+    {
+      "id": 63,
+      "name": "Takakento",
+      "japaneseName": "貴健斗(たかけんと)",
+      "rank": "Makushita 34 East",
+      "heya": "Tokiwayama",
+      "height": 179,
+      "weight": 148.5
+    },
+    {
+      "id": 65,
+      "name": "Shimanoumi",
+      "japaneseName": "志摩ノ海(しまのうみ)",
+      "rank": "Makushita 21 East",
+      "heya": "Kise",
+      "height": 179,
+      "weight": 148.2
+    },
+    {
+      "id": 66,
+      "name": "Kitanowaka",
+      "japaneseName": "北の若　大輔",
+      "rank": "Maegashira 15 West",
+      "heya": "Hakkaku",
+      "height": 191,
+      "weight": 159
+    },
+    {
+      "id": 69,
+      "name": "Kaisho",
+      "japaneseName": "魁勝(かいしょう)",
+      "rank": "Makushita 45 East",
+      "heya": "Asakayama",
+      "height": 180.4,
+      "weight": 163.6
+    },
+    {
+      "id": 70,
+      "name": "Kotokuzan",
+      "japaneseName": "荒篤山(こうとくざん)",
+      "rank": "Makushita 16 East",
+      "heya": "Arashio",
+      "height": 181,
+      "weight": 175.9
+    },
+    {
+      "id": 71,
+      "name": "Churanoumi",
+      "japaneseName": "美ノ海　義久",
+      "rank": "Komusubi 1 East",
+      "heya": "Kise",
+      "height": 176,
+      "weight": 157
+    },
+    {
+      "id": 72,
+      "name": "Tochimusashi",
+      "japaneseName": "栃武蔵(とちむさし)",
+      "rank": "Makushita 20 West",
+      "heya": "Kasugano",
+      "height": 184,
+      "weight": 168.3
+    },
+    {
+      "id": 73,
+      "name": "Akua",
+      "japaneseName": "天空海(あくあ)",
+      "rank": "Makushita 25 West",
+      "heya": "Tatsunami",
+      "height": 185,
+      "weight": 160
+    },
+    {
+      "id": 74,
+      "name": "Atamifuji",
+      "japaneseName": "熱海富士　朔太郎",
+      "rank": "Sekiwake 1 West",
+      "heya": "Isegahama",
+      "height": 185,
+      "weight": 198
+    },
+    {
+      "id": 75,
+      "name": "Mineyaiba",
+      "japaneseName": "峰刃(みねやいば)",
+      "rank": "Makushita 36 East",
+      "heya": "Shikoroyama",
+      "height": 189,
+      "weight": 148.9
+    },
+    {
+      "id": 77,
+      "name": "Hatsuyama",
+      "japaneseName": "羽出山　将",
+      "rank": "Juryo 14 East",
+      "heya": "Tamanoi",
+      "height": 195,
+      "weight": 134
+    },
+    {
+      "id": 78,
+      "name": "Kazekeno",
+      "japaneseName": "風賢央　厳太",
+      "rank": "Juryo 2 East",
+      "heya": "Oshiogawa",
+      "height": 187,
+      "weight": 158
+    },
+    {
+      "id": 80,
+      "name": "Hatooka",
+      "japaneseName": "鳩岡(はとおか)",
+      "rank": "Jonidan 19 East",
+      "heya": "Kise",
+      "height": 184,
+      "weight": 151.2
+    },
+    {
+      "id": 81,
+      "name": "Tochitaikai",
+      "japaneseName": "栃大海(とちたいかい)",
+      "rank": "Makushita 3 West",
+      "heya": "Kasugano",
+      "height": 193,
+      "weight": 161
+    },
+    {
+      "id": 82,
+      "name": "Fujiseiun",
+      "japaneseName": "藤青雲　龍輝",
+      "rank": "Maegashira 2 West",
+      "heya": "Fujishima",
+      "height": 185,
+      "weight": 149
+    },
+    {
+      "id": 83,
+      "name": "Tokihayate",
+      "japaneseName": "時疾風　秀喜",
+      "rank": "Maegashira 14 East",
+      "heya": "Tokitsukaze",
+      "height": 179,
+      "weight": 135
+    },
+    {
+      "id": 84,
+      "name": "Hananofuji",
+      "japaneseName": "花の富士(はなのふじ)",
+      "rank": "Makushita 26 East",
+      "heya": "Isegahama",
+      "height": 173,
+      "weight": 120.2
+    },
+    {
+      "id": 85,
+      "name": "Mienofuji",
+      "japaneseName": "三重ノ富士(みえのふじ)",
+      "rank": "Makushita 35 West",
+      "heya": "Isegahama",
+      "height": 179.5,
+      "weight": 164.5
+    },
+    {
+      "id": 86,
+      "name": "Shishi",
+      "japaneseName": "獅司　大",
+      "rank": "Maegashira 10 East",
+      "heya": "Ikazuchi",
+      "height": 193,
+      "weight": 182
+    },
+    {
+      "id": 87,
+      "name": "Miyanokaze",
+      "japaneseName": "宮乃風(みやのかぜ)",
+      "rank": "Sandanme 32 East",
+      "heya": "Nakamura",
+      "height": 172,
+      "weight": 113.1
+    },
+    {
+      "id": 88,
+      "name": "Gojinyu",
+      "japaneseName": "豪刃雄(ごうじんゆう)",
+      "rank": "Makushita 3 East",
+      "heya": "Takekuma",
+      "height": 189.6,
+      "weight": 148
+    },
+    {
+      "id": 89,
+      "name": "Nishinoryu",
+      "japaneseName": "西ノ龍(にしのりゅう)",
+      "rank": "Makushita 5 West",
+      "heya": "Sakaigawa",
+      "height": 182,
+      "weight": 140
+    },
+    {
+      "id": 90,
+      "name": "Higonoumi",
+      "japaneseName": "肥後ノ海(ひごのうみ)",
+      "rank": "Sandanme 4 East",
+      "heya": "Kise",
+      "height": 182,
+      "weight": 140.7
+    },
+    {
+      "id": 91,
+      "name": "Mudoho",
+      "japaneseName": "夢道鵬(むどうほう)",
+      "rank": "Makushita 4 West",
+      "heya": "Otake",
+      "height": 186,
+      "weight": 148.6
+    },
+    {
+      "id": 93,
+      "name": "Hokutenkai",
+      "japaneseName": "北天海(ほくてんかい)",
+      "rank": "Makushita 13 East",
+      "heya": "Onoe",
+      "height": 180,
+      "weight": 138.1
+    },
+    {
+      "id": 95,
+      "name": "Oshoumi",
+      "japaneseName": "欧勝海(おうしょううみ)",
+      "rank": "Makushita 42 West",
+      "heya": "Naruto",
+      "height": 184,
+      "weight": 140.1
+    },
+    {
+      "id": 96,
+      "name": "Akinoyama",
+      "japaneseName": "安芸乃山(あきのやま)",
+      "rank": "Sandanme 66 West",
+      "heya": "Takadagawa",
+      "height": 177.1,
+      "weight": 196.2
+    },
+    {
+      "id": 97,
+      "name": "Asagyokusei",
+      "japaneseName": "朝玉勢(あさぎょくせい)",
+      "rank": "Makushita 52 East",
+      "heya": "Takasago",
+      "height": 181,
+      "weight": 139.5
+    },
+    {
+      "id": 98,
+      "name": "Shirokuma",
+      "japaneseName": "白熊　優太",
+      "rank": "Juryo 9 West",
+      "heya": "Nishonoseki",
+      "height": 185,
+      "weight": 161
+    },
+    {
+      "id": 100,
+      "name": "Kurohimeyama",
+      "japaneseName": "黒姫山(くろひめやま)",
+      "rank": "Makushita 17 West",
+      "heya": "Sakaigawa",
+      "height": 183.5,
+      "weight": 129.8
+    },
+    {
+      "id": 101,
+      "name": "Tamashoho",
+      "japaneseName": "玉正鳳　萬平",
+      "rank": "Juryo 12 West",
+      "heya": "Kataonami",
+      "height": 189,
+      "weight": 123
+    },
+    {
+      "id": 102,
+      "name": "Tomokaze",
+      "japaneseName": "友風　想大",
+      "rank": "Juryo 11 East",
+      "heya": "Nakamura",
+      "height": 185,
+      "weight": 173
+    },
+    {
+      "id": 107,
+      "name": "Tochimaru",
+      "japaneseName": "栃丸(とちまる)",
+      "rank": "Makushita 21 West",
+      "heya": "Kasugano",
+      "height": 172,
+      "weight": 162.5
+    },
+    {
+      "id": 110,
+      "name": "Kiryuko",
+      "japaneseName": "木竜皇(きりゅうこう)",
+      "rank": "Sandanme 2 West",
+      "heya": "Tatsunami",
+      "height": 177,
+      "weight": 137.7
+    },
+    {
+      "id": 111,
+      "name": "Hitoshi",
+      "japaneseName": "日翔志　英忠",
+      "rank": "Juryo 7 West",
+      "heya": "Oitekaze",
+      "height": 182,
+      "weight": 158
+    },
+    {
+      "id": 112,
+      "name": "Kotoeiho",
+      "japaneseName": "琴栄峰　央起",
+      "rank": "Maegashira 6 West",
+      "heya": "Sadogatake",
+      "height": 184,
+      "weight": 140
+    },
+    {
+      "id": 113,
+      "name": "Tokunomusashi",
+      "japaneseName": "徳之武藏(とくのむさし)",
+      "rank": "Makushita 43 East",
+      "heya": "Musashigawa",
+      "height": 192,
+      "weight": 146.1
+    },
+    {
+      "id": 116,
+      "name": "Tochinobori",
+      "japaneseName": "栃登(とちのぼり)",
+      "rank": "Sandanme 22 West",
+      "heya": "Kasugano",
+      "height": 183,
+      "weight": 132.6
+    },
+    {
+      "id": 117,
+      "name": "Nabatame",
+      "japaneseName": "生田目　竜也",
+      "rank": "Juryo 6 West",
+      "heya": "Futagoyama",
+      "height": 177,
+      "weight": 176
+    },
+    {
+      "id": 118,
+      "name": "Ikawasakura",
+      "japaneseName": "井川桜良(いかわさくら)",
+      "rank": "Makushita 41 East",
+      "heya": "Nakamura",
+      "height": 184,
+      "weight": 142
+    },
+    {
+      "id": 119,
+      "name": "Akitoba",
+      "japaneseName": "諒兎馬(あきとば)",
+      "rank": "Sandanme 10 East",
+      "heya": "Minato",
+      "height": 174,
+      "weight": 135.4
+    },
+    {
+      "id": 120,
+      "name": "Osanai",
+      "japaneseName": "長内(おさない)",
+      "rank": "Makushita 11 West",
+      "heya": "Takasago",
+      "height": 178,
+      "weight": 113
+    },
+    {
+      "id": 121,
+      "name": "Fujiazuma",
+      "japaneseName": "富士東(ふじあずま)",
+      "rank": "Sandanme 62 East",
+      "heya": "Tamanoi",
+      "height": 180.4,
+      "weight": 154
+    },
+    {
+      "id": 122,
+      "name": "Kazuto",
+      "japaneseName": "一翔(かずと)",
+      "rank": "Jonidan 12 West",
+      "heya": "Tatsunami",
+      "height": 178,
+      "weight": 121.8
+    },
+    {
+      "id": 123,
+      "name": "Tosamidori",
+      "japaneseName": "土佐緑(とさみどり)",
+      "rank": "Sandanme 11 East",
+      "heya": "Onomatsu",
+      "height": 181,
+      "weight": 131
+    },
+    {
+      "id": 124,
+      "name": "Kitaharima",
+      "japaneseName": "北はり磨(きたはりま)",
+      "rank": "Makushita 39 West",
+      "heya": "Yamahibiki",
+      "height": 182,
+      "weight": 129.5
+    },
+    {
+      "id": 125,
+      "name": "Tsurubayashi",
+      "japaneseName": "つる林(つるばやし)",
+      "rank": "Makushita 48 West",
+      "heya": "Kise",
+      "height": 180,
+      "weight": 139.5
+    },
+    {
+      "id": 126,
+      "name": "Chiyooga",
+      "japaneseName": "千代大牙(ちよおおが)",
+      "rank": "Jonidan 77 West",
+      "heya": "Kokonoe",
+      "height": 173,
+      "weight": 124
+    },
+    {
+      "id": 128,
+      "name": "Asakoki",
+      "japaneseName": "朝興貴(あさこうき)",
+      "rank": "Makushita 54 West",
+      "heya": "Takasago",
+      "height": 187,
+      "weight": 130.9
+    },
+    {
+      "id": 129,
+      "name": "Nionoumi",
+      "japaneseName": "鳰の湖(におのうみ)",
+      "rank": "Sandanme 23 East",
+      "heya": "Yamahibiki",
+      "height": 173.5,
+      "weight": 158.8
+    },
+    {
+      "id": 130,
+      "name": "Okinohama",
+      "japaneseName": "隠岐の浜(おきのはま)",
+      "rank": "Sandanme 16 West",
+      "heya": "Hakkaku",
+      "height": 183.2,
+      "weight": 168.5
+    },
+    {
+      "id": 131,
+      "name": "Toseiryu",
+      "japaneseName": "東誠竜(とうせいりゅう)",
+      "rank": "Makushita 33 West",
+      "heya": "Tamanoi",
+      "height": 184.5,
+      "weight": 143.6
+    },
+    {
+      "id": 132,
+      "name": "Chiyoraizan",
+      "japaneseName": "千代雷山(ちよらいざん)",
+      "rank": "Sandanme 44 West",
+      "heya": "Kokonoe",
+      "height": 189.2,
+      "weight": 152.8
+    },
+    {
+      "id": 135,
+      "name": "Dewanoryu",
+      "japaneseName": "出羽ノ龍　和希",
+      "rank": "Maegashira 14 West",
+      "heya": "Dewanoumi",
+      "height": 181,
+      "weight": 154
+    },
+    {
+      "id": 136,
+      "name": "Tochiseiryu",
+      "japaneseName": "栃清龍(とちせいりゅう)",
+      "rank": "Makushita 56 West",
+      "heya": "Kasugano",
+      "height": 174.1,
+      "weight": 138.1
+    },
+    {
+      "id": 137,
+      "name": "Yoshiyasu",
+      "japaneseName": "良安(よしやす)",
+      "rank": "Makushita 44 West",
+      "heya": "Kise",
+      "height": 189.3,
+      "weight": 126
+    },
+    {
+      "id": 140,
+      "name": "Tokifudo",
+      "japaneseName": "時不動　虹",
+      "rank": "Juryo 13 West",
+      "heya": "Tokitsukaze",
+      "height": 179,
+      "weight": 177
+    },
+    {
+      "id": 141,
+      "name": "Kitadaichi",
+      "japaneseName": "北大地(きただいち)",
+      "rank": "Makushita 19 West",
+      "heya": "Tatsunami",
+      "height": 172,
+      "weight": 156.6
+    },
+    {
+      "id": 142,
+      "name": "Kayo",
+      "japaneseName": "嘉陽　快宗",
+      "rank": "Juryo 4 West",
+      "heya": "Nakamura",
+      "height": 174,
+      "weight": 168
+    },
+    {
+      "id": 143,
+      "name": "Kotodaigo",
+      "japaneseName": "琴太豪(ことだいごう)",
+      "rank": "Jonokuchi 8 East",
+      "heya": "Sadogatake",
+      "height": 187.6,
+      "weight": 135.1
+    },
+    {
+      "id": 145,
+      "name": "Nihonyanagi",
+      "japaneseName": "二本柳(にほんやなぎ)",
+      "rank": "Makushita 17 East",
+      "heya": "Onomatsu",
+      "height": 176.5,
+      "weight": 179.2
+    },
+    {
+      "id": 150,
+      "name": "Asazenshin",
+      "japaneseName": "朝前進(あさぜんしん)",
+      "rank": "Sandanme 64 East",
+      "heya": "Takasago",
+      "height": 183.3,
+      "weight": 120.4
+    },
+    {
+      "id": 151,
+      "name": "Onojo",
+      "japaneseName": "大野城(おおのじょう)",
+      "rank": "Jonokuchi 21 East",
+      "heya": "Takadagawa",
+      "height": 183.3,
+      "weight": 148.5
+    },
+    {
+      "id": 152,
+      "name": "Nobehara",
+      "japaneseName": "延原(のべはら)",
+      "rank": "Makushita 14 West",
+      "heya": "Futagoyama",
+      "height": 178,
+      "weight": 154.5
+    },
+    {
+      "id": 154,
+      "name": "Dewataikai",
+      "japaneseName": "出羽大海(でわたいかい)",
+      "rank": "Makushita 52 West",
+      "heya": "Dewanoumi",
+      "height": 186.7,
+      "weight": 125
+    },
+    {
+      "id": 155,
+      "name": "Ohata",
+      "japaneseName": "大畑(おおはた)",
+      "rank": "Makushita 51 East",
+      "heya": "Tokitsukaze",
+      "height": 187,
+      "weight": 163.3
+    },
+    {
+      "id": 156,
+      "name": "Sadanohikari",
+      "japaneseName": "佐田ノ輝(さだのひかり)",
+      "rank": "Sandanme 25 East",
+      "heya": "Sakaigawa",
+      "height": 187,
+      "weight": 140.3
+    },
+    {
+      "id": 159,
+      "name": "Daikisho",
+      "japaneseName": "大喜翔(だいきしょう)",
+      "rank": "Makushita 6 West",
+      "heya": "Oitekaze",
+      "height": 183.6,
+      "weight": 154.9
+    },
+    {
+      "id": 160,
+      "name": "Oginohama",
+      "japaneseName": "小城ノ浜(おぎのはま)",
+      "rank": "Sandanme 40 West",
+      "heya": "Dewanoumi",
+      "height": 181,
+      "weight": 155.1
+    },
+    {
+      "id": 161,
+      "name": "Tokinohira",
+      "japaneseName": "時乃平(ときのひら)",
+      "rank": "Sandanme 24 West",
+      "heya": "Tokitsukaze",
+      "height": 180.6,
+      "weight": 154.5
+    },
+    {
+      "id": 162,
+      "name": "Daihisho",
+      "japaneseName": "大飛翔(だいひしょう)",
+      "rank": "Sandanme 47 West",
+      "heya": "Oitekaze",
+      "height": 183,
+      "weight": 154.7
+    },
+    {
+      "id": 164,
+      "name": "Asakoryu",
+      "japaneseName": "朝紅龍　琢馬",
+      "rank": "Maegashira 9 West",
+      "heya": "Takasago",
+      "height": 178,
+      "weight": 122
+    },
+    {
+      "id": 165,
+      "name": "Kamito",
+      "japaneseName": "上戸(かみと)",
+      "rank": "Makushita 29 West",
+      "heya": "Tatsunami",
+      "height": 178,
+      "weight": 155.1
+    },
+    {
+      "id": 166,
+      "name": "Tochikodai",
+      "japaneseName": "栃幸大(とちこうだい)",
+      "rank": "Makushita 7 West",
+      "heya": "Kasugano",
+      "height": 178.8,
+      "weight": 133.8
+    },
+    {
+      "id": 167,
+      "name": "Otsuji",
+      "japaneseName": "大辻(おおつじ)",
+      "rank": "Makushita 9 West",
+      "heya": "Takadagawa",
+      "height": 181.5,
+      "weight": 145.4
+    },
+    {
+      "id": 169,
+      "name": "Chiyonokatsu",
+      "japaneseName": "千代の勝(ちよのかつ)",
+      "rank": "Sandanme 27 East",
+      "heya": "Kokonoe",
+      "height": 177.2,
+      "weight": 131
+    },
+    {
+      "id": 170,
+      "name": "Asanoryu",
+      "japaneseName": "朝ノ龍(あさのりゅう)",
+      "rank": "Makushita 27 East",
+      "heya": "Takasago",
+      "height": 181.3,
+      "weight": 134
+    },
+    {
+      "id": 172,
+      "name": "Kototsubasa",
+      "japaneseName": "琴翼(ことつばさ)",
+      "rank": "Makushita 49 East",
+      "heya": "Sadogatake",
+      "height": 178,
+      "weight": 135.5
+    },
+    {
+      "id": 175,
+      "name": "Oyamatoumi",
+      "japaneseName": "大和湖(おおやまとうみ)",
+      "rank": "Makushita 45 West",
+      "heya": "Yamahibiki",
+      "height": 180,
+      "weight": 133.3
+    },
+    {
+      "id": 176,
+      "name": "Awanokuni",
+      "japaneseName": "安房乃国(あわのくに)",
+      "rank": "Makushita 35 East",
+      "heya": "Takadagawa",
+      "height": 180,
+      "weight": 175.8
+    },
+    {
+      "id": 177,
+      "name": "Wakazakura",
+      "japaneseName": "和歌桜(わかざくら)",
+      "rank": "Sandanme 79 East",
+      "heya": "Kasugano",
+      "height": 181.5,
+      "weight": 125
+    },
+    {
+      "id": 178,
+      "name": "Kumanoryu",
+      "japaneseName": "隈ノ竜(くまのりゅう)",
+      "rank": "Jonidan 13 West",
+      "heya": "Takekuma",
+      "height": 177.2,
+      "weight": 110
+    },
+    {
+      "id": 179,
+      "name": "Kaiseijo",
+      "japaneseName": "魁清城(かいせいじょう)",
+      "rank": "Makushita 47 East",
+      "heya": "Asakayama",
+      "height": 179.5,
+      "weight": 124
+    },
+    {
+      "id": 180,
+      "name": "Kaishin",
+      "japaneseName": "海真(かいしん)",
+      "rank": "Makushita 38 West",
+      "heya": "Tagonoura",
+      "height": 184.9,
+      "weight": 176.9
+    },
+    {
+      "id": 181,
+      "name": "Hinataryu",
+      "japaneseName": "日向龍(ひなたりゅう)",
+      "rank": "Makushita 46 East",
+      "heya": "Musashigawa",
+      "height": 178.5,
+      "weight": 118
+    },
+    {
+      "id": 182,
+      "name": "Nishikikuni",
+      "japaneseName": "錦国(にしきくに)",
+      "rank": "Sandanme 53 West",
+      "heya": "Shibatayama",
+      "height": 180.3,
+      "weight": 150.4
+    },
+    {
+      "id": 183,
+      "name": "Wakenokaze",
+      "japaneseName": "和気乃風(わけのかぜ)",
+      "rank": "Sandanme 35 East",
+      "heya": "Nakamura",
+      "height": 181.3,
+      "weight": 171.7
+    },
+    {
+      "id": 184,
+      "name": "Chiyonoo",
+      "japaneseName": "千代ノ皇(ちよのおう)",
+      "rank": "Sandanme 21 West",
+      "heya": "Kokonoe",
+      "height": 179,
+      "weight": 140.1
+    },
+    {
+      "id": 185,
+      "name": "Chiyotora",
+      "japaneseName": "千代虎(ちよとら)",
+      "rank": "Makushita 49 West",
+      "heya": "Kokonoe",
+      "height": 177,
+      "weight": 140
+    },
+    {
+      "id": 187,
+      "name": "Shohoryu",
+      "japaneseName": "将豊竜(しょうほうりゅう)",
+      "rank": "Sandanme 27 West",
+      "heya": "Tokitsukaze",
+      "height": 171.5,
+      "weight": 154.7
+    },
+    {
+      "id": 188,
+      "name": "Asonoyama",
+      "japaneseName": "阿蘇ノ山(あそのやま)",
+      "rank": "Makushita 50 East",
+      "heya": "Sakaigawa",
+      "height": 176.5,
+      "weight": 164
+    },
+    {
+      "id": 190,
+      "name": "Hamayutaka",
+      "japaneseName": "濱豊(はまゆたか)",
+      "rank": "Makushita 59 West",
+      "heya": "Tokitsukaze",
+      "height": 182.6,
+      "weight": 136.7
+    },
+    {
+      "id": 194,
+      "name": "Oshoryu",
+      "japaneseName": "欧勝竜(おうしょうりゅう)",
+      "rank": "Makushita 30 East",
+      "heya": "Naruto",
+      "height": 178.6,
+      "weight": 175.6
+    },
+    {
+      "id": 195,
+      "name": "Wakanosho",
+      "japaneseName": "若ノ勝　栄道",
+      "rank": "Juryo 10 West",
+      "heya": "Minatogawa",
+      "height": 178,
+      "weight": 143
+    },
+    {
+      "id": 197,
+      "name": "Hananoumi",
+      "japaneseName": "花の海(はなのうみ)",
+      "rank": "Makushita 29 East",
+      "heya": "Nishonoseki",
+      "height": 173,
+      "weight": 149.1
+    },
+    {
+      "id": 200,
+      "name": "Tendozan",
+      "japaneseName": "天道山(てんどうざん)",
+      "rank": "Makushita 53 East",
+      "heya": "Fujishima",
+      "height": 182,
+      "weight": 158.6
+    },
+    {
+      "id": 202,
+      "name": "Tosashimizu",
+      "japaneseName": "土佐清水(とさしみず)",
+      "rank": "Sandanme 60 East",
+      "heya": "Tokitsukaze",
+      "height": 169,
+      "weight": 191.5
+    },
+    {
+      "id": 203,
+      "name": "Katsunofuji",
+      "japaneseName": "克乃富士(かつのふじ)",
+      "rank": "Sandanme 73 West",
+      "heya": "Sakaigawa",
+      "height": 181,
+      "weight": 147.2
+    },
+    {
+      "id": 204,
+      "name": "Tomiyutaka",
+      "japaneseName": "富豊(とみゆたか)",
+      "rank": "Sandanme 47 East",
+      "heya": "Tokitsukaze",
+      "height": 180.5,
+      "weight": 139.3
+    },
+    {
+      "id": 205,
+      "name": "Hoshuzan",
+      "japaneseName": "峰洲山(ほうしゅうざん)",
+      "rank": "Sandanme 44 East",
+      "heya": "Naruto",
+      "height": 172,
+      "weight": 175.1
+    },
+    {
+      "id": 206,
+      "name": "Toshoyama",
+      "japaneseName": "東照山(とうしょうやま)",
+      "rank": "Sandanme 51 East",
+      "heya": "Tamanoi",
+      "height": 182.4,
+      "weight": 157.3
+    },
+    {
+      "id": 208,
+      "name": "Chiyodaigo",
+      "japaneseName": "千代大豪(ちよだいごう)",
+      "rank": "Jonokuchi 15 West",
+      "heya": "Kokonoe",
+      "height": 185.5,
+      "weight": 141
+    },
+    {
+      "id": 209,
+      "name": "Ienoshima",
+      "japaneseName": "家の島(いえのしま)",
+      "rank": "Makushita 34 West",
+      "heya": "Yamahibiki",
+      "height": 181,
+      "weight": 161.2
+    },
+    {
+      "id": 210,
+      "name": "Seigo",
+      "japaneseName": "聖冴(せいご)",
+      "rank": "Makushita 41 West",
+      "heya": "Shikoroyama",
+      "height": 180,
+      "weight": 158.6
+    },
+    {
+      "id": 212,
+      "name": "Wakamiyabi",
+      "japaneseName": "若雅(わかみやび)",
+      "rank": "Makushita 10 East",
+      "heya": "Futagoyama",
+      "height": 185,
+      "weight": 151.1
+    },
+    {
+      "id": 214,
+      "name": "Oka",
+      "japaneseName": "鷹翔(おうか)",
+      "rank": "Sandanme 12 West",
+      "heya": "Minato",
+      "height": 191,
+      "weight": 169.5
+    },
+    {
+      "id": 215,
+      "name": "Kiyota",
+      "japaneseName": "清田(きよた)",
+      "rank": "Makushita 38 East",
+      "heya": "Dewanoumi",
+      "height": 179,
+      "weight": 132.4
+    },
+    {
+      "id": 217,
+      "name": "Daishinkai",
+      "japaneseName": "大新海(だいしんかい)",
+      "rank": "Makushita 43 West",
+      "heya": "Otake",
+      "height": 175.9,
+      "weight": 135.1
+    },
+    {
+      "id": 218,
+      "name": "Dairaido",
+      "japaneseName": "大雷童(だいらいどう)",
+      "rank": "Jonidan 29 East",
+      "heya": "Takadagawa",
+      "height": 173,
+      "weight": 149.8
+    },
+    {
+      "id": 219,
+      "name": "Sazanami",
+      "japaneseName": "漣(さざなみ)",
+      "rank": "Makushita 10 West",
+      "heya": "Isenoumi",
+      "height": 181.5,
+      "weight": 135
+    },
+    {
+      "id": 220,
+      "name": "Mikazuchiyama",
+      "japaneseName": "御雷山(みかづちやま)",
+      "rank": "Makushita 19 East",
+      "heya": "Shikoroyama",
+      "height": 173.7,
+      "weight": 155.4
+    },
+    {
+      "id": 221,
+      "name": "Kotetsu",
+      "japaneseName": "虎徹(こてつ)",
+      "rank": "Sandanme 20 West",
+      "heya": "Otake",
+      "height": 181.3,
+      "weight": 172.4
+    },
+    {
+      "id": 223,
+      "name": "Daishoki",
+      "japaneseName": "大翔樹(だいしょうき)",
+      "rank": "Jonidan 56 West",
+      "heya": "Oitekaze",
+      "height": 184,
+      "weight": 136.6
+    },
+    {
+      "id": 224,
+      "name": "Aratakayama",
+      "japaneseName": "新隆山(あらたかやま)",
+      "rank": "Makushita 28 East",
+      "heya": "Tokiwayama",
+      "height": 177,
+      "weight": 159.2
+    },
+    {
+      "id": 225,
+      "name": "Takataisho",
+      "japaneseName": "貴大将(たかたいしょう)",
+      "rank": "Jonidan 14 West",
+      "heya": "Tokiwayama",
+      "height": 174.5,
+      "weight": 141.4
+    },
+    {
+      "id": 226,
+      "name": "Komanokuni",
+      "japaneseName": "高麗の国(こまのくに)",
+      "rank": "Jonokuchi 21 East",
+      "heya": "Shibatayama",
+      "height": 175,
+      "weight": 216
+    },
+    {
+      "id": 227,
+      "name": "Toramusashi",
+      "japaneseName": "寅武蔵(とらむさし)",
+      "rank": "Jonokuchi 19 East",
+      "heya": "Musashigawa",
+      "height": 184.7,
+      "weight": 143.8
+    },
+    {
+      "id": 228,
+      "name": "Goseiryu",
+      "japaneseName": "豪正龍(ごうせいりゅう)",
+      "rank": "Sandanme 41 West",
+      "heya": "Takekuma",
+      "height": 182.5,
+      "weight": 116.6
+    },
+    {
+      "id": 229,
+      "name": "Churafuji",
+      "japaneseName": "美富士(ちゅらふじ)",
+      "rank": "Sandanme 29 East",
+      "heya": "Isegahama",
+      "height": 176.6,
+      "weight": 141.8
+    },
+    {
+      "id": 230,
+      "name": "Oyamada",
+      "japaneseName": "欧山田(おうやまだ)",
+      "rank": "Makushita 31 East",
+      "heya": "Naruto",
+      "height": 182.1,
+      "weight": 102
+    },
+    {
+      "id": 232,
+      "name": "Fujinowaka",
+      "japaneseName": "藤乃若(ふじのわか)",
+      "rank": "Sandanme 37 East",
+      "heya": "Fujishima",
+      "height": 176.3,
+      "weight": 148.2
+    },
+    {
+      "id": 233,
+      "name": "Shuji",
+      "japaneseName": "周志(しゅうじ)",
+      "rank": "Jonidan 59 East",
+      "heya": "Kise",
+      "height": 176,
+      "weight": 135.9
+    },
+    {
+      "id": 235,
+      "name": "Hokutoryu",
+      "japaneseName": "北勝龍(ほくとりゅう)",
+      "rank": "Sandanme 37 West",
+      "heya": "Hakkaku",
+      "height": 181.5,
+      "weight": 129.8
+    },
+    {
+      "id": 236,
+      "name": "Daishoryu",
+      "japaneseName": "大昇龍(だいしょうりゅう)",
+      "rank": "Jonidan 88 West",
+      "heya": "Yamahibiki",
+      "height": 178,
+      "weight": 121.2
+    },
+    {
+      "id": 238,
+      "name": "Kuranofuji",
+      "japaneseName": "蔵ノ富士(くらのふじ)",
+      "rank": "Sandanme 61 East",
+      "heya": "Isegahama",
+      "height": 171,
+      "weight": 168.8
+    },
+    {
+      "id": 240,
+      "name": "Naya",
+      "japaneseName": "納谷(なや)",
+      "rank": "Sandanme 1 East",
+      "heya": "Otake",
+      "height": 185.5,
+      "weight": 154.5
+    },
+    {
+      "id": 241,
+      "name": "Denuma",
+      "japaneseName": "出沼(でぬま)",
+      "rank": "Sandanme 14 West",
+      "heya": "Futagoyama",
+      "height": 178,
+      "weight": 170
+    },
+    {
+      "id": 242,
+      "name": "Obara",
+      "japaneseName": "小原(おばら)",
+      "rank": "Makushita 18 West",
+      "heya": "Asakayama",
+      "height": 190,
+      "weight": 162.8
+    },
+    {
+      "id": 243,
+      "name": "Harunishiki",
+      "japaneseName": "悠錦(はるにしき)",
+      "rank": "Sandanme 19 West",
+      "heya": "Asahiyama",
+      "height": 181,
+      "weight": 126.8
+    },
+    {
+      "id": 245,
+      "name": "Kirinryu",
+      "japaneseName": "麒麟龍(きりんりゅう)",
+      "rank": "Sandanme 8 East",
+      "heya": "Nishonoseki",
+      "height": 175,
+      "weight": 117.8
+    },
+    {
+      "id": 248,
+      "name": "Dogo",
+      "japaneseName": "道轟(どうごう)",
+      "rank": "Jonidan 22 West",
+      "heya": "Hanaregoma",
+      "height": 178.5,
+      "weight": 136.5
+    },
+    {
+      "id": 249,
+      "name": "Kyoda",
+      "japaneseName": "許田(きょだ)",
+      "rank": "Sandanme 38 West",
+      "heya": "Futagoyama",
+      "height": 176.3,
+      "weight": 162
+    },
+    {
+      "id": 250,
+      "name": "Shunrai",
+      "japaneseName": "春雷(しゅんらい)",
+      "rank": "Sandanme 18 East",
+      "heya": "Tatsunami",
+      "height": 180.5,
+      "weight": 136.2
+    },
+    {
+      "id": 251,
+      "name": "Toshunryu",
+      "japaneseName": "東俊隆(とうしゅんりゅう)",
+      "rank": "Makushita 14 East",
+      "heya": "Tamanoi",
+      "height": 174,
+      "weight": 103
+    },
+    {
+      "id": 252,
+      "name": "Goosho",
+      "japaneseName": "豪欧勝(ごうおうしょう)",
+      "rank": "Sandanme 8 West",
+      "heya": "Naruto",
+      "height": 169,
+      "weight": 138.3
+    },
+    {
+      "id": 253,
+      "name": "Rinko",
+      "japaneseName": "麟虎(りんこ)",
+      "rank": "Sandanme 13 West",
+      "heya": "Nishonoseki",
+      "height": 173,
+      "weight": 125
+    },
+    {
+      "id": 256,
+      "name": "Awanoumi",
+      "japaneseName": "淡の海(あわのうみ)",
+      "rank": "Sandanme 50 East",
+      "heya": "Naruto",
+      "height": 186,
+      "weight": 145.2
+    },
+    {
+      "id": 257,
+      "name": "Ryutsukasa",
+      "japaneseName": "龍司(りゅうつかさ)",
+      "rank": "Sandanme 67 East",
+      "heya": "Ikazuchi",
+      "height": 167.6,
+      "weight": 145.1
+    },
+    {
+      "id": 260,
+      "name": "Hokutosakae",
+      "japaneseName": "北勝栄(ほくとさかえ)",
+      "rank": "Sandanme 28 East",
+      "heya": "Hakkaku",
+      "height": 189.5,
+      "weight": 140.3
+    },
+    {
+      "id": 263,
+      "name": "Daiyusho",
+      "japaneseName": "大雄翔(だいゆうしょう)",
+      "rank": "Makushita 18 East",
+      "heya": "Oitekaze",
+      "height": 175.8,
+      "weight": 166.4
+    },
+    {
+      "id": 264,
+      "name": "Taranami",
+      "japaneseName": "多良浪(たらなみ)",
+      "rank": "Sandanme 58 West",
+      "heya": "Tatsunami",
+      "height": 180,
+      "weight": 154.6
+    },
+    {
+      "id": 267,
+      "name": "Nishiomoto",
+      "japaneseName": "西御許(にしおもと)",
+      "rank": "Makushita 31 West",
+      "heya": "Nakamura",
+      "height": 183,
+      "weight": 175.8
+    },
+    {
+      "id": 270,
+      "name": "Yurikisho",
+      "japaneseName": "優力勝(ゆりきしょう)",
+      "rank": "Sandanme 52 East",
+      "heya": "Tokiwayama",
+      "height": 168.5,
+      "weight": 151.8
+    },
+    {
+      "id": 271,
+      "name": "Fukutsuumi",
+      "japaneseName": "福津海(ふくつうみ)",
+      "rank": "Jonidan 2 West",
+      "heya": "Hakkaku",
+      "height": 185,
+      "weight": 116.4
+    },
+    {
+      "id": 272,
+      "name": "Koki",
+      "japaneseName": "昂輝(こうき)",
+      "rank": "Sandanme 52 West",
+      "heya": "Minato",
+      "height": 183,
+      "weight": 162.5
+    },
+    {
+      "id": 273,
+      "name": "Akatora",
+      "japaneseName": "赤虎(あかとら)",
+      "rank": "Jonidan 33 West",
+      "heya": "Shikihide",
+      "height": 168,
+      "weight": 97.2
+    },
+    {
+      "id": 274,
+      "name": "Gyokuozan",
+      "japaneseName": "玉欧山(ぎょくおうざん)",
+      "rank": "Makushita 24 West",
+      "heya": "Naruto",
+      "height": 184,
+      "weight": 182.4
+    },
+    {
+      "id": 275,
+      "name": "Oshozan",
+      "japaneseName": "欧翔山(おうしょうざん)",
+      "rank": "Jonidan 11 West",
+      "heya": "Naruto",
+      "height": 168.5,
+      "weight": 132.7
+    },
+    {
+      "id": 277,
+      "name": "Furanshisu",
+      "japaneseName": "冨蘭志壽(ふらんしす)",
+      "rank": "Jonidan 53 East",
+      "heya": "Shikihide",
+      "height": 174.8,
+      "weight": 113
+    },
+    {
+      "id": 278,
+      "name": "Chiyotaiho",
+      "japaneseName": "千代大宝(ちよたいほう)",
+      "rank": "Sandanme 39 East",
+      "heya": "Kokonoe",
+      "height": 174,
+      "weight": 159.6
+    },
+    {
+      "id": 280,
+      "name": "Hamanoumi",
+      "japaneseName": "濱ノ海(はまのうみ)",
+      "rank": "Makushita 57 East",
+      "heya": "Tokitsukaze",
+      "height": 186.5,
+      "weight": 166.7
+    },
+    {
+      "id": 281,
+      "name": "Akiyoshi",
+      "japaneseName": "秋良(あきよし)",
+      "rank": "Makushita 53 West",
+      "heya": "Onomatsu",
+      "height": 176.5,
+      "weight": 165.2
+    },
+    {
+      "id": 282,
+      "name": "Kotakiyama",
+      "japaneseName": "小滝山(こたきやま)",
+      "rank": "Sandanme 66 East",
+      "heya": "Futagoyama",
+      "height": 184.7,
+      "weight": 136.2
+    },
+    {
+      "id": 283,
+      "name": "Hodaka",
+      "japaneseName": "穂嵩(ほだか)",
+      "rank": "Sandanme 43 West",
+      "heya": "Onoe",
+      "height": 168.6,
+      "weight": 137.6
+    },
+    {
+      "id": 286,
+      "name": "Hakuonada",
+      "japaneseName": "白旺灘(はくおうなだ)",
+      "rank": "Makushita 59 East",
+      "heya": "Yamahibiki",
+      "height": 188.5,
+      "weight": 151.5
+    },
+    {
+      "id": 287,
+      "name": "Tanji",
+      "japaneseName": "丹治　純",
+      "rank": "Juryo 7 East",
+      "heya": "Arashio",
+      "height": 185,
+      "weight": 149
+    },
+    {
+      "id": 288,
+      "name": "Kenshin",
+      "japaneseName": "謙信(けんしん)",
+      "rank": "Sandanme 54 West",
+      "heya": "Sakaigawa",
+      "height": 173,
+      "weight": 124.4
+    },
+    {
+      "id": 290,
+      "name": "Kawamura",
+      "japaneseName": "川村(かわむら)",
+      "rank": "Makushita 58 West",
+      "heya": "Naruto",
+      "height": 180,
+      "weight": 134.6
+    },
+    {
+      "id": 292,
+      "name": "Hogasho",
+      "japaneseName": "豊雅将(ほうがしょう)",
+      "rank": "Makushita 56 East",
+      "heya": "Tokitsukaze",
+      "height": 179,
+      "weight": 204.9
+    },
+    {
+      "id": 293,
+      "name": "Kaigo",
+      "japaneseName": "魁郷(かいごう)",
+      "rank": "Makushita 32 East",
+      "heya": "Asakayama",
+      "height": 183.5,
+      "weight": 150.1
+    },
+    {
+      "id": 298,
+      "name": "Amakaze",
+      "japaneseName": "天風(あまかぜ)",
+      "rank": "Jonidan 15 West",
+      "heya": "Oshiogawa",
+      "height": 184,
+      "weight": 159.5
+    },
+    {
+      "id": 299,
+      "name": "Kayatoiwa",
+      "japaneseName": "夏野登岩(かやといわ)",
+      "rank": "Jonidan 1 West",
+      "heya": "Minato",
+      "height": 177.3,
+      "weight": 114
+    },
+    {
+      "id": 300,
+      "name": "Ieshima",
+      "japaneseName": "家島(いえしま)",
+      "rank": "Makushita 46 West",
+      "heya": "Yamahibiki",
+      "height": 177,
+      "weight": 148.5
+    },
+    {
+      "id": 301,
+      "name": "Asashinjo",
+      "japaneseName": "朝心誠(あさしんじょう)",
+      "rank": "Sandanme 18 West",
+      "heya": "Takasago",
+      "height": 170.3,
+      "weight": 130.6
+    },
+    {
+      "id": 304,
+      "name": "Hitachigo",
+      "japaneseName": "常陸號(ひたちごう)",
+      "rank": "Sandanme 74 East",
+      "heya": "Fujishima",
+      "height": 182.9,
+      "weight": 143.6
+    },
+    {
+      "id": 308,
+      "name": "Kojikara",
+      "japaneseName": "小力(こぢから)",
+      "rank": "Sandanme 30 West",
+      "heya": "Tagonoura",
+      "height": 184,
+      "weight": 154
+    },
+    {
+      "id": 312,
+      "name": "Rakanji",
+      "japaneseName": "羅漢児(らかんじ)",
+      "rank": "Sandanme 26 West",
+      "heya": "Nishonoseki",
+      "height": 178,
+      "weight": 134.5
+    },
+    {
+      "id": 313,
+      "name": "Asatenmai",
+      "japaneseName": "朝天舞(あさてんまい)",
+      "rank": "Jonidan 90 West",
+      "heya": "Takasago",
+      "height": 171,
+      "weight": 108.4
+    },
+    {
+      "id": 314,
+      "name": "Kototaiga",
+      "japaneseName": "琴大河(ことたいが)",
+      "rank": "Jonidan 10 West",
+      "heya": "Sadogatake",
+      "height": 184.5,
+      "weight": 129.4
+    },
+    {
+      "id": 316,
+      "name": "Kiboho",
+      "japaneseName": "喜望鵬(きぼうほう)",
+      "rank": "Sandanme 45 West",
+      "heya": "Otake",
+      "height": 171,
+      "weight": 99.7
+    },
+    {
+      "id": 317,
+      "name": "Kisenoumi",
+      "japaneseName": "木瀬の海(きせのうみ)",
+      "rank": "Sandanme 78 West",
+      "heya": "Kise",
+      "height": 184,
+      "weight": 144.5
+    },
+    {
+      "id": 318,
+      "name": "Dewanosora",
+      "japaneseName": "出羽の空(でわのそら)",
+      "rank": "Jonidan 14 East",
+      "heya": "Dewanoumi",
+      "height": 178.5,
+      "weight": 144.7
+    },
+    {
+      "id": 321,
+      "name": "Kaiyuma",
+      "japaneseName": "魁佑馬(かいゆうま)",
+      "rank": "Jonidan 48 West",
+      "heya": "Asakayama",
+      "height": 172.5,
+      "weight": 184.9
+    },
+    {
+      "id": 322,
+      "name": "Tenei",
+      "japaneseName": "天惠(てんえい)",
+      "rank": "Sandanme 2 East",
+      "heya": "Takadagawa",
+      "height": 177.2,
+      "weight": 162.7
+    },
+    {
+      "id": 323,
+      "name": "Asakiryu",
+      "japaneseName": "朝氣龍(あさきりゅう)",
+      "rank": "Sandanme 70 East",
+      "heya": "Takasago",
+      "height": 170,
+      "weight": 93.8
+    },
+    {
+      "id": 324,
+      "name": "Amao",
+      "japaneseName": "尼王(あまおう)",
+      "rank": "Sandanme 11 West",
+      "heya": "Nishonoseki",
+      "height": 182,
+      "weight": 142.1
+    },
+    {
+      "id": 326,
+      "name": "Hokutoshu",
+      "japaneseName": "北勝就(ほくとしゅう)",
+      "rank": "Sandanme 59 West",
+      "heya": "Hakkaku",
+      "height": 184.2,
+      "weight": 135.2
+    },
+    {
+      "id": 328,
+      "name": "Hakuomaru",
+      "japaneseName": "柏王丸(はくおうまる)",
+      "rank": "Sandanme 49 East",
+      "heya": "Tokitsukaze",
+      "height": 172.6,
+      "weight": 222.7
+    },
+    {
+      "id": 329,
+      "name": "Ebisumaru",
+      "japaneseName": "恵比寿丸(えびすまる)",
+      "rank": "Sandanme 62 West",
+      "heya": "Takadagawa",
+      "height": 181,
+      "weight": 141.8
+    },
+    {
+      "id": 330,
+      "name": "Kotodaishin",
+      "japaneseName": "琴大進(ことだいしん)",
+      "rank": "Sandanme 28 West",
+      "heya": "Sadogatake",
+      "height": 187,
+      "weight": 151.6
+    },
+    {
+      "id": 331,
+      "name": "Amane",
+      "japaneseName": "天(あまね)",
+      "rank": "Sandanme 12 East",
+      "heya": "Shikoroyama",
+      "height": 183,
+      "weight": 162.5
+    },
+    {
+      "id": 333,
+      "name": "Tenryuyama",
+      "japaneseName": "天竜山(てんりゅうやま)",
+      "rank": "Sandanme 63 East",
+      "heya": "Dewanoumi",
+      "height": 168,
+      "weight": 117.8
+    },
+    {
+      "id": 334,
+      "name": "Shoji",
+      "japaneseName": "庄司(しょうじ)",
+      "rank": "Sandanme 50 West",
+      "heya": "Musashigawa",
+      "height": 191.6,
+      "weight": 138.3
+    },
+    {
+      "id": 335,
+      "name": "Toukiryu",
+      "japaneseName": "東輝龍(とうきりゅう)",
+      "rank": "Sandanme 72 West",
+      "heya": "Tamanoi",
+      "height": 174.8,
+      "weight": 124
+    },
+    {
+      "id": 336,
+      "name": "Kyokushori",
+      "japaneseName": "旭将里(きょくしょうり)",
+      "rank": "Jonidan 24 East",
+      "heya": "Oshima",
+      "height": 168.5,
+      "weight": 186.2
+    },
+    {
+      "id": 337,
+      "name": "Asanojo",
+      "japaneseName": "朝乃丈(あさのじょう)",
+      "rank": "Jonidan 60 East",
+      "heya": "Takasago",
+      "height": 175,
+      "weight": 122.8
+    },
+    {
+      "id": 338,
+      "name": "Yutakasho",
+      "japaneseName": "豊翔(ゆたかしょう)",
+      "rank": "Sandanme 33 East",
+      "heya": "Sakaigawa",
+      "height": 173,
+      "weight": 126
+    },
+    {
+      "id": 339,
+      "name": "Wakaterumoto",
+      "japaneseName": "若輝元(わかてるもと)",
+      "rank": "Sandanme 22 East",
+      "heya": "Shikoroyama",
+      "height": 186.5,
+      "weight": 138.8
+    },
+    {
+      "id": 342,
+      "name": "Kiyonoumi",
+      "japaneseName": "清乃海(きよのうみ)",
+      "rank": "Sandanme 16 East",
+      "heya": "Tamanoi",
+      "height": 183,
+      "weight": 185
+    },
+    {
+      "id": 345,
+      "name": "Araoyama",
+      "japaneseName": "荒雄山(あらおやま)",
+      "rank": "Sandanme 32 West",
+      "heya": "Onomatsu",
+      "height": 175,
+      "weight": 137.7
+    },
+    {
+      "id": 346,
+      "name": "Hamadayama",
+      "japaneseName": "浜田山(はまだやま)",
+      "rank": "Jonidan 3 West",
+      "heya": "Shibatayama",
+      "height": 171.4,
+      "weight": 126.5
+    },
+    {
+      "id": 347,
+      "name": "Asashiyu",
+      "japaneseName": "朝志雄(あさしゆう)",
+      "rank": "Jonokuchi 16 East",
+      "heya": "Takasago",
+      "height": 183.5,
+      "weight": 138.3
+    },
+    {
+      "id": 348,
+      "name": "Sekizuka",
+      "japaneseName": "関塚(せきづか)",
+      "rank": "Jonidan 4 West",
+      "heya": "Tagonoura",
+      "height": 183.5,
+      "weight": 128.5
+    },
+    {
+      "id": 349,
+      "name": "Yoshiazuma",
+      "japaneseName": "芳東(よしあずま)",
+      "rank": "Jonidan 51 East",
+      "heya": "Tamanoi",
+      "height": 195.5,
+      "weight": 162.3
+    },
+    {
+      "id": 350,
+      "name": "Tsugaruumi",
+      "japaneseName": "津軽海(つがるうみ)",
+      "rank": "Sandanme 75 West",
+      "heya": "Tamanoi",
+      "height": 175.2,
+      "weight": 102.4
+    },
+    {
+      "id": 351,
+      "name": "Hidano",
+      "japaneseName": "飛騨野(ひだの)",
+      "rank": "Jonidan 33 East",
+      "heya": "Arashio",
+      "height": 178.5,
+      "weight": 134
+    },
+    {
+      "id": 352,
+      "name": "Inaba",
+      "japaneseName": "稲葉(いなば)",
+      "rank": "Sandanme 76 West",
+      "heya": "Onomatsu",
+      "height": 173,
+      "weight": 137.5
+    },
+    {
+      "id": 353,
+      "name": "Musashiumi",
+      "japaneseName": "武蔵海(むさしうみ)",
+      "rank": "Jonidan 23 West",
+      "heya": "Fujishima",
+      "height": 181.6,
+      "weight": 136.8
+    },
+    {
+      "id": 354,
+      "name": "Mihamaumi",
+      "japaneseName": "美浜海(みはまうみ)",
+      "rank": "Jonidan 10 East",
+      "heya": "Tamanoi",
+      "height": 173.6,
+      "weight": 128.2
+    },
+    {
+      "id": 355,
+      "name": "Marusho",
+      "japaneseName": "丸勝(まるしょう)",
+      "rank": "Makushita 51 West",
+      "heya": "Naruto",
+      "height": 176.5,
+      "weight": 149.1
+    },
+    {
+      "id": 356,
+      "name": "Seido",
+      "japaneseName": "誠道(せいどう)",
+      "rank": "Sandanme 54 East",
+      "heya": "Minato",
+      "height": 179,
+      "weight": 134.1
+    },
+    {
+      "id": 357,
+      "name": "Tenshoma",
+      "japaneseName": "天照馬(てんしょうま)",
+      "rank": "Sandanme 3 West",
+      "heya": "Arashio",
+      "height": 185.2,
+      "weight": 137.6
+    },
+    {
+      "id": 358,
+      "name": "Oginosho",
+      "japaneseName": "小城ノ正(おぎのしょう)",
+      "rank": "Jonidan 13 East",
+      "heya": "Dewanoumi",
+      "height": 182.2,
+      "weight": 119.4
+    },
+    {
+      "id": 359,
+      "name": "Sadanokuni",
+      "japaneseName": "佐田ノ国(さだのくに)",
+      "rank": "Jonidan 66 West",
+      "heya": "Sakaigawa",
+      "height": 183,
+      "weight": 110.3
+    },
+    {
+      "id": 360,
+      "name": "Sakabayashi",
+      "japaneseName": "坂林(さかばやし)",
+      "rank": "Jonidan 16 East",
+      "heya": "Onoe",
+      "height": 176.5,
+      "weight": 123.9
+    },
+    {
+      "id": 361,
+      "name": "Yokomaru",
+      "japaneseName": "陽孔丸(ようこうまる)",
+      "rank": "Jonidan 77 East",
+      "heya": "Musashigawa",
+      "height": 178,
+      "weight": 135.3
+    },
+    {
+      "id": 364,
+      "name": "Daisho",
+      "japaneseName": "大翔(だいしょう)",
+      "rank": "Jonidan 72 West",
+      "heya": "Oitekaze",
+      "height": 171.2,
+      "weight": 150.7
+    },
+    {
+      "id": 365,
+      "name": "Kaishinmaru",
+      "japaneseName": "魁新丸(かいしんまる)",
+      "rank": "Sandanme 46 East",
+      "heya": "Asakayama",
+      "height": 170,
+      "weight": 164.6
+    },
+    {
+      "id": 366,
+      "name": "Suio",
+      "japaneseName": "翠桜(すいおう)",
+      "rank": "Jonidan 31 West",
+      "heya": "Dewanoumi",
+      "height": 181,
+      "weight": 111.6
+    },
+    {
+      "id": 369,
+      "name": "Buomaru",
+      "japaneseName": "武旺丸(ぶおうまる)",
+      "rank": "Jonidan 49 East",
+      "heya": "Musashigawa",
+      "height": 178,
+      "weight": 185.5
+    },
+    {
+      "id": 371,
+      "name": "Shotaimu",
+      "japaneseName": "翔大夢(しょうたいむ)",
+      "rank": "Jonidan 32 East",
+      "heya": "Shikoroyama",
+      "height": 176.5,
+      "weight": 152
+    },
+    {
+      "id": 375,
+      "name": "Shimanishiki",
+      "japaneseName": "志摩錦(しまにしき)",
+      "rank": "Jonidan 25 West",
+      "heya": "Asahiyama",
+      "height": 186.3,
+      "weight": 136.6
+    },
+    {
+      "id": 376,
+      "name": "Yamato",
+      "japaneseName": "山藤(やまとう)",
+      "rank": "Makushita 48 East",
+      "heya": "Dewanoumi",
+      "height": 177.5,
+      "weight": 82.4
+    },
+    {
+      "id": 378,
+      "name": "Daiseizan",
+      "japaneseName": "大青山　大介",
+      "rank": "Maegashira 17 East",
+      "heya": "Arashio",
+      "height": 191,
+      "weight": 171
+    },
+    {
+      "id": 380,
+      "name": "Otsuna",
+      "japaneseName": "大綱(おおつな)",
+      "rank": "Sandanme 39 West",
+      "heya": "Isenoumi",
+      "height": 175.6,
+      "weight": 125.4
+    },
+    {
+      "id": 381,
+      "name": "Kotoryu",
+      "japaneseName": "弘騰龍(こうとうりゅう)",
+      "rank": "Jonokuchi 20 East",
+      "heya": "Kise",
+      "height": 177,
+      "weight": 168.2
+    },
+    {
+      "id": 382,
+      "name": "Ikazuchido",
+      "japaneseName": "雷道(いかづちどう)",
+      "rank": "Makushita 23 East",
+      "heya": "Ikazuchi",
+      "height": 182,
+      "weight": 113.4
+    },
+    {
+      "id": 383,
+      "name": "Banju",
+      "japaneseName": "磐受(ばんじゅ)",
+      "rank": "Jonidan 83 West",
+      "heya": "Isegahama",
+      "height": 178,
+      "weight": 135.2
+    },
+    {
+      "id": 385,
+      "name": "Maniwayama",
+      "japaneseName": "真庭山(まにわやま)",
+      "rank": "Jonidan 81 East",
+      "heya": "Takadagawa",
+      "height": 177,
+      "weight": 127.9
+    },
+    {
+      "id": 386,
+      "name": "Chiyoyamato",
+      "japaneseName": "千代大和(ちよやまと)",
+      "rank": "Sandanme 70 West",
+      "heya": "Kokonoe",
+      "height": 181.5,
+      "weight": 145.8
+    },
+    {
+      "id": 387,
+      "name": "Shinyashiki",
+      "japaneseName": "新屋敷(しんやしき)",
+      "rank": "Sandanme 41 East",
+      "heya": "Otake",
+      "height": 171.3,
+      "weight": 115.5
+    },
+    {
+      "id": 388,
+      "name": "Hagane",
+      "japaneseName": "鋼(はがね)",
+      "rank": "Jonidan 92 West",
+      "heya": "Otowayama",
+      "height": 178,
+      "weight": 144.2
+    },
+    {
+      "id": 390,
+      "name": "Chiyotaisei",
+      "japaneseName": "千代大聖(ちよたいせい)",
+      "rank": "Jonidan 49 West",
+      "heya": "Kokonoe",
+      "height": 179.7,
+      "weight": 143.3
+    },
+    {
+      "id": 392,
+      "name": "Biganzan",
+      "japaneseName": "備巌山(びがんざん)",
+      "rank": "Jonidan 8 West",
+      "heya": "Yamahibiki",
+      "height": 186.6,
+      "weight": 179.4
+    },
+    {
+      "id": 393,
+      "name": "Hokuyozan",
+      "japaneseName": "北洋山(ほくようざん)",
+      "rank": "Jonidan 46 East",
+      "heya": "Tatsunami",
+      "height": 180,
+      "weight": 137.1
+    },
+    {
+      "id": 394,
+      "name": "Daikinryu",
+      "japaneseName": "大錦龍(だいきんりゅう)",
+      "rank": "Jonidan 61 West",
+      "heya": "Sakaigawa",
+      "height": 173,
+      "weight": 111.9
+    },
+    {
+      "id": 397,
+      "name": "Tochimitsuru",
+      "japaneseName": "栃満(とちみつる)",
+      "rank": "Sandanme 75 East",
+      "heya": "Kasugano",
+      "height": 172.5,
+      "weight": 121
+    },
+    {
+      "id": 398,
+      "name": "Asaazuma",
+      "japaneseName": "朝東(あさあずま)",
+      "rank": "Jonidan 47 West",
+      "heya": "Takasago",
+      "height": 183.2,
+      "weight": 128.9
+    },
+    {
+      "id": 399,
+      "name": "Sawayaka",
+      "japaneseName": "爽(さわやか)",
+      "rank": "Jonidan 65 West",
+      "heya": "Shikihide",
+      "height": 171.2,
+      "weight": 102.7
+    },
+    {
+      "id": 400,
+      "name": "Takanoryu",
+      "japaneseName": "隆の龍(たかのりゅう)",
+      "rank": "Sandanme 34 West",
+      "heya": "Tagonoura",
+      "height": 171.8,
+      "weight": 147.7
+    },
+    {
+      "id": 402,
+      "name": "Fujimusashi",
+      "japaneseName": "藤武蔵(ふじむさし)",
+      "rank": "Jonidan 2 East",
+      "heya": "Musashigawa",
+      "height": 166.5,
+      "weight": 132.5
+    },
+    {
+      "id": 405,
+      "name": "Matsugi",
+      "japaneseName": "松木(まつぎ)",
+      "rank": "Sandanme 48 East",
+      "heya": "Tagonoura",
+      "height": 180.8,
+      "weight": 101.5
+    },
+    {
+      "id": 406,
+      "name": "Kyokutaiga",
+      "japaneseName": "旭大海(きょくたいが)",
+      "rank": "Sandanme 60 West",
+      "heya": "Oshima",
+      "height": 171.5,
+      "weight": 161
+    },
+    {
+      "id": 407,
+      "name": "Ai",
+      "japaneseName": "藍(あい)",
+      "rank": "Jonidan 62 West",
+      "heya": "Takadagawa",
+      "height": 177.7,
+      "weight": 110.2
+    },
+    {
+      "id": 408,
+      "name": "Asasorai",
+      "japaneseName": "朝走雷(あさそうらい)",
+      "rank": "Jonidan 30 West",
+      "heya": "Takasago",
+      "height": 163.5,
+      "weight": 97.1
+    },
+    {
+      "id": 409,
+      "name": "Teraosho",
+      "japaneseName": "寺尾松(てらおしょう)",
+      "rank": "Sandanme 21 East",
+      "heya": "Shikoroyama",
+      "height": 176,
+      "weight": 165.2
+    },
+    {
+      "id": 412,
+      "name": "Jokoki",
+      "japaneseName": "城皓貴(じょうこうき)",
+      "rank": "Jonokuchi 18 West",
+      "heya": "Musashigawa",
+      "height": 177.4,
+      "weight": 135.8
+    },
+    {
+      "id": 413,
+      "name": "Tochihayate",
+      "japaneseName": "栃颯(とちはやて)",
+      "rank": "Jonidan 79 East",
+      "heya": "Kasugano",
+      "height": 168,
+      "weight": 187.2
+    },
+    {
+      "id": 414,
+      "name": "Tokio",
+      "japaneseName": "鬨王(ときおう)",
+      "rank": "Jonidan 61 East",
+      "heya": "Isenoumi",
+      "height": 176.3,
+      "weight": 98.6
+    },
+    {
+      "id": 415,
+      "name": "Kaihiryu",
+      "japaneseName": "魁陽龍(かいひりゅう)",
+      "rank": "Sandanme 71 West",
+      "heya": "Asakayama",
+      "height": 182.5,
+      "weight": 119.4
+    },
+    {
+      "id": 416,
+      "name": "Kassho",
+      "japaneseName": "滑翔(かっしょう)",
+      "rank": "Sandanme 17 West",
+      "heya": "Yamahibiki",
+      "height": 176,
+      "weight": 137
+    },
+    {
+      "id": 417,
+      "name": "Shoketsu",
+      "japaneseName": "翔傑(しょうけつ)",
+      "rank": "Jonidan 21 East",
+      "heya": "Shibatayama",
+      "height": 183.3,
+      "weight": 165
+    },
+    {
+      "id": 418,
+      "name": "Fukushoryu",
+      "japaneseName": "福生龍(ふくしょうりゅう)",
+      "rank": "Jonidan 72 East",
+      "heya": "Minato",
+      "height": 182,
+      "weight": 140.5
+    },
+    {
+      "id": 419,
+      "name": "Hienriki",
+      "japaneseName": "飛燕力(ひえんりき)",
+      "rank": "Jonidan 12 East",
+      "heya": "Oshiogawa",
+      "height": 178.5,
+      "weight": 121.1
+    },
+    {
+      "id": 420,
+      "name": "Masakifuji",
+      "japaneseName": "柾富士(まさきふじ)",
+      "rank": "Jonidan 28 West",
+      "heya": "Isegahama",
+      "height": 173,
+      "weight": 116.8
+    },
+    {
+      "id": 421,
+      "name": "Ishiazuma",
+      "japaneseName": "石東(いしあずま)",
+      "rank": "Sandanme 71 East",
+      "heya": "Tamanoi",
+      "height": 166,
+      "weight": 136.9
+    },
+    {
+      "id": 422,
+      "name": "Tochigidake",
+      "japaneseName": "栃岐岳(とちぎだけ)",
+      "rank": "Jonidan 42 East",
+      "heya": "Kasugano",
+      "height": 174,
+      "weight": 139.1
+    },
+    {
+      "id": 425,
+      "name": "Kiyonohana",
+      "japaneseName": "清の花(きよのはな)",
+      "rank": "Sandanme 24 East",
+      "heya": "Dewanoumi",
+      "height": 177,
+      "weight": 105.7
+    },
+    {
+      "id": 426,
+      "name": "Ryuseiyama",
+      "japaneseName": "龍成山(りゅうせいやま)",
+      "rank": "Jonidan 36 West",
+      "heya": "Dewanoumi",
+      "height": 172.5,
+      "weight": 142.8
+    },
+    {
+      "id": 429,
+      "name": "Tsugunohana",
+      "japaneseName": "禎ノ花(つぐのはな)",
+      "rank": "Sandanme 73 East",
+      "heya": "Onomatsu",
+      "height": 187,
+      "weight": 134.9
+    },
+    {
+      "id": 431,
+      "name": "Tokikenryu",
+      "japaneseName": "時健龍(ときけんりゅう)",
+      "rank": "Sandanme 45 East",
+      "heya": "Tokitsukaze",
+      "height": 175.8,
+      "weight": 99.8
+    },
+    {
+      "id": 432,
+      "name": "Kototaiho",
+      "japaneseName": "琴太豊(ことたいほう)",
+      "rank": "Sandanme 46 West",
+      "heya": "Sadogatake",
+      "height": 175.5,
+      "weight": 125
+    },
+    {
+      "id": 433,
+      "name": "Terutaka",
+      "japaneseName": "照寶(てるたか)",
+      "rank": "Jonidan 84 East",
+      "heya": "Onoe",
+      "height": 176,
+      "weight": 137.4
+    },
+    {
+      "id": 434,
+      "name": "Asahabataki",
+      "japaneseName": "朝翔(あさはばたき)",
+      "rank": "Sandanme 30 East",
+      "heya": "Takasago",
+      "height": 179,
+      "weight": 155.8
+    },
+    {
+      "id": 435,
+      "name": "Hokutoyoshi",
+      "japaneseName": "北勝伊(ほくとよし)",
+      "rank": "Jonidan 26 East",
+      "heya": "Hakkaku",
+      "height": 179,
+      "weight": 151.3
+    },
+    {
+      "id": 436,
+      "name": "Suyama",
+      "japaneseName": "須山(すやま)",
+      "rank": "Sandanme 36 East",
+      "heya": "Kise",
+      "height": 182,
+      "weight": 122.2
+    },
+    {
+      "id": 438,
+      "name": "Oatari",
+      "japaneseName": "大当利(おおあたり)",
+      "rank": "Jonidan 56 East",
+      "heya": "Shikihide",
+      "height": 176.6,
+      "weight": 141.8
+    },
+    {
+      "id": 439,
+      "name": "Tsukioka",
+      "japaneseName": "月岡(つきおか)",
+      "rank": "Sandanme 78 East",
+      "heya": "Futagoyama",
+      "height": 168.6,
+      "weight": 107.8
+    },
+    {
+      "id": 440,
+      "name": "Shoran",
+      "japaneseName": "松蘭(しょうらん)",
+      "rank": "Sandanme 43 East",
+      "heya": "Hanaregoma",
+      "height": 176.5,
+      "weight": 115.1
+    },
+    {
+      "id": 442,
+      "name": "Tokazan",
+      "japaneseName": "東華山(とうかざん)",
+      "rank": "Jonidan 6 West",
+      "heya": "Tamanoi",
+      "height": 183.5,
+      "weight": 140.1
+    },
+    {
+      "id": 444,
+      "name": "Tsuyasato",
+      "japaneseName": "艶郷(つやさと)",
+      "rank": "Jonidan 89 East",
+      "heya": "Minato",
+      "height": 168.3,
+      "weight": 166.5
+    },
+    {
+      "id": 445,
+      "name": "Satsumasho",
+      "japaneseName": "薩摩翔(さつましょう)",
+      "rank": "Jonidan 22 East",
+      "heya": "Oitekaze",
+      "height": 184,
+      "weight": 151.2
+    },
+    {
+      "id": 450,
+      "name": "Chiyokozan",
+      "japaneseName": "千代煌山(ちよこうざん)",
+      "rank": "Jonidan 48 East",
+      "heya": "Kokonoe",
+      "height": 175.5,
+      "weight": 144
+    },
+    {
+      "id": 452,
+      "name": "Ojiyama",
+      "japaneseName": "応時山(おうじやま)",
+      "rank": "Jonidan 18 East",
+      "heya": "Tagonoura",
+      "height": 192.1,
+      "weight": 132
+    },
+    {
+      "id": 453,
+      "name": "Gokishin",
+      "japaneseName": "豪鬼神(ごうきしん)",
+      "rank": "Jonokuchi 1 West",
+      "heya": "Shikihide",
+      "height": 164.5,
+      "weight": 149.7
+    },
+    {
+      "id": 454,
+      "name": "Adachi",
+      "japaneseName": "足立(あだち)",
+      "rank": "Jonokuchi 16 East",
+      "heya": "Nishonoseki",
+      "height": 182.1,
+      "weight": 200.9
+    },
+    {
+      "id": 457,
+      "name": "Kirinohana",
+      "japaneseName": "霧乃華(きりのはな)",
+      "rank": "Jonidan 30 East",
+      "heya": "Arashio",
+      "height": 180,
+      "weight": 109.1
+    },
+    {
+      "id": 458,
+      "name": "Shinseido",
+      "japaneseName": "信正道(しんせいどう)",
+      "rank": "Jonidan 11 East",
+      "heya": "Yamahibiki",
+      "height": 170.3,
+      "weight": 100.1
+    },
+    {
+      "id": 461,
+      "name": "Hishuyama",
+      "japaneseName": "肥州山(ひしゅうやま)",
+      "rank": "Jonidan 94 West",
+      "heya": "Sakaigawa",
+      "height": 170.2,
+      "weight": 120.2
+    },
+    {
+      "id": 462,
+      "name": "Shishimaru",
+      "japaneseName": "獅子丸(ししまる)",
+      "rank": "Jonidan 69 West",
+      "heya": "Tagonoura",
+      "height": 174,
+      "weight": 124.9
+    },
+    {
+      "id": 465,
+      "name": "Koga",
+      "japaneseName": "厚雅(こうが)",
+      "rank": "Jonidan 80 West",
+      "heya": "Futagoyama",
+      "height": 177,
+      "weight": 122.5
+    },
+    {
+      "id": 466,
+      "name": "Souga",
+      "japaneseName": "颯雅(そうが)",
+      "rank": "Jonidan 9 East",
+      "heya": "Futagoyama",
+      "height": 180,
+      "weight": 170
+    },
+    {
+      "id": 467,
+      "name": "Kyokumizuno",
+      "japaneseName": "旭水野(きょくみずの)",
+      "rank": "Makushita 22 West",
+      "heya": "Oshima",
+      "height": 171.5,
+      "weight": 152.1
+    },
+    {
+      "id": 468,
+      "name": "Aron",
+      "japaneseName": "阿龍(あーろん)",
+      "rank": "Sandanme 36 West",
+      "heya": "Nakamura",
+      "height": 186,
+      "weight": 161.4
+    },
+    {
+      "id": 469,
+      "name": "Fujiyuho",
+      "japaneseName": "藤雄峰(ふじゆうほう)",
+      "rank": "Sandanme 69 West",
+      "heya": "Fujishima",
+      "height": 178.7,
+      "weight": 133.5
+    },
+    {
+      "id": 471,
+      "name": "Genbumaru",
+      "japaneseName": "玄武丸(げんぶまる)",
+      "rank": "Jonidan 21 West",
+      "heya": "Onoe",
+      "height": 171.6,
+      "weight": 148.3
+    },
+    {
+      "id": 473,
+      "name": "Harimao",
+      "japaneseName": "播磨皇(はりまおう)",
+      "rank": "Jonidan 78 West",
+      "heya": "Yamahibiki",
+      "height": 173.5,
+      "weight": 116.2
+    },
+    {
+      "id": 476,
+      "name": "Taniguchi",
+      "japaneseName": "谷口(たにぐち)",
+      "rank": "Sandanme 56 East",
+      "heya": "Nishonoseki",
+      "height": 169.2,
+      "weight": 155.9
+    },
+    {
+      "id": 477,
+      "name": "Aoifuji",
+      "japaneseName": "蒼富士(あおいふじ)",
+      "rank": "Jonidan 55 East",
+      "heya": "Isegahama",
+      "height": 166.4,
+      "weight": 107
+    },
+    {
+      "id": 478,
+      "name": "Kyokuhayate",
+      "japaneseName": "旭疾風(きょくはやて)",
+      "rank": "Jonidan 51 West",
+      "heya": "Oshima",
+      "height": 170.6,
+      "weight": 94.9
+    },
+    {
+      "id": 479,
+      "name": "Mikinosato",
+      "japaneseName": "幹希の里(みきのさと)",
+      "rank": "Jonidan 74 East",
+      "heya": "Nishiiwa",
+      "height": 182,
+      "weight": 126.4
+    },
+    {
+      "id": 480,
+      "name": "Yukiamami",
+      "japaneseName": "幸奄美(ゆきあまみ)",
+      "rank": "Jonidan 46 West",
+      "heya": "Tatsunami",
+      "height": 186,
+      "weight": 163.5
+    },
+    {
+      "id": 485,
+      "name": "Kokuryunami",
+      "japaneseName": "刻竜浪(こくりゅうなみ)",
+      "rank": "Jonokuchi 2 West",
+      "heya": "Tatsunami",
+      "height": 178.5,
+      "weight": 110.8
+    },
+    {
+      "id": 486,
+      "name": "Fujinoteru",
+      "japaneseName": "富士の輝(ふじのてる)",
+      "rank": "Jonidan 86 West",
+      "heya": "Onoe",
+      "height": 167,
+      "weight": 97
+    },
+    {
+      "id": 487,
+      "name": "Zuitenryu",
+      "japaneseName": "瑞天龍(ずいてんりゅう)",
+      "rank": "Sandanme 67 West",
+      "heya": "Sakaigawa",
+      "height": 179,
+      "weight": 139.5
+    },
+    {
+      "id": 489,
+      "name": "Daishimatsu",
+      "japaneseName": "大志松(だいしまつ)",
+      "rank": "Sandanme 80 East",
+      "heya": "Onomatsu",
+      "height": 177,
+      "weight": 176.6
+    },
+    {
+      "id": 490,
+      "name": "Akinishiki",
+      "japaneseName": "安芸錦(あきにしき)",
+      "rank": "Jonidan 42 West",
+      "heya": "Asahiyama",
+      "height": 161.5,
+      "weight": 83.5
+    },
+    {
+      "id": 492,
+      "name": "Wakaonehara",
+      "japaneseName": "若大根原(わかおおねはら)",
+      "rank": "Jonokuchi 9 East",
+      "heya": "Nishiiwa",
+      "height": 171,
+      "weight": 97.2
+    },
+    {
+      "id": 494,
+      "name": "Chiyooume",
+      "japaneseName": "千代青梅(ちよおうめ)",
+      "rank": "Jonokuchi 14 East",
+      "heya": "Kokonoe",
+      "height": 173.5,
+      "weight": 100.7
+    },
+    {
+      "id": 496,
+      "name": "Hokutoshin",
+      "japaneseName": "北勝真(ほくとしん)",
+      "rank": "Jonidan 75 West",
+      "heya": "Hakkaku",
+      "height": 172.5,
+      "weight": 142.5
+    },
+    {
+      "id": 498,
+      "name": "Dairinzan",
+      "japaneseName": "大凜山(だいりんざん)",
+      "rank": "Sandanme 7 East",
+      "heya": "Arashio",
+      "height": 183,
+      "weight": 153.2
+    },
+    {
+      "id": 499,
+      "name": "Hirose",
+      "japaneseName": "廣瀬(ひろせ)",
+      "rank": "Jonokuchi 1 East",
+      "heya": "Arashio",
+      "height": 176.9,
+      "weight": 129.3
+    },
+    {
+      "id": 500,
+      "name": "Takaarashi",
+      "japaneseName": "隆嵐(たかあらし)",
+      "rank": "Sandanme 42 East",
+      "heya": "Tagonoura",
+      "height": 175.1,
+      "weight": 138.4
+    },
+    {
+      "id": 501,
+      "name": "Bakukoshin",
+      "japaneseName": "爆虎神(ばくこしん)",
+      "rank": "Jonokuchi 3 East",
+      "heya": "Shikihide",
+      "height": 169.5,
+      "weight": 91.7
+    },
+    {
+      "id": 504,
+      "name": "Matsugashima",
+      "japaneseName": "松ヶ島(まつがしま)",
+      "rank": "Jonidan 31 East",
+      "heya": "Takadagawa",
+      "height": 178.3,
+      "weight": 130.6
+    },
+    {
+      "id": 505,
+      "name": "Ibuki",
+      "japaneseName": "揖武貴(いぶき)",
+      "rank": "Jonidan 17 West",
+      "heya": "Musashigawa",
+      "height": 183,
+      "weight": 181.1
+    },
+    {
+      "id": 506,
+      "name": "Takashoki",
+      "japaneseName": "隆勝生(たかしょうき)",
+      "rank": "Sandanme 14 East",
+      "heya": "Tokiwayama",
+      "height": 193,
+      "weight": 159.2
+    },
+    {
+      "id": 508,
+      "name": "Najima",
+      "japaneseName": "名島(なじま)",
+      "rank": "Sandanme 56 West",
+      "heya": "Minato",
+      "height": 180,
+      "weight": 108.6
+    },
+    {
+      "id": 509,
+      "name": "Okuniyama",
+      "japaneseName": "大國山(おおくにやま)",
+      "rank": "Jonokuchi 8 West",
+      "heya": "Asahiyama",
+      "height": 188.5,
+      "weight": 137.4
+    },
+    {
+      "id": 510,
+      "name": "Naniwamusashi",
+      "japaneseName": "浪速武蔵(なにわむさし)",
+      "rank": "Jonidan 62 East",
+      "heya": "Musashigawa",
+      "height": 175,
+      "weight": 88.8
+    },
+    {
+      "id": 511,
+      "name": "Azumanami",
+      "japaneseName": "東浪(あずまなみ)",
+      "rank": "Jonidan 87 West",
+      "heya": "Tamanoi",
+      "height": 174,
+      "weight": 157.3
+    },
+    {
+      "id": 512,
+      "name": "Sonoshun",
+      "japaneseName": "蒼乃駿(そうのしゅん)",
+      "rank": "Jonidan 96 East",
+      "heya": "Arashio",
+      "height": 169.5,
+      "weight": 99.7
+    },
+    {
+      "id": 513,
+      "name": "Dewanowaka",
+      "japaneseName": "出羽乃若(でわのわか)",
+      "rank": "Jonidan 38 East",
+      "heya": "Dewanoumi",
+      "height": 174,
+      "weight": 88.7
+    },
+    {
+      "id": 516,
+      "name": "Chiyotaiyo",
+      "japaneseName": "千代太陽(ちよたいよう)",
+      "rank": "Sandanme 31 West",
+      "heya": "Kokonoe",
+      "height": 175,
+      "weight": 103
+    },
+    {
+      "id": 517,
+      "name": "Hokutoizumi",
+      "japaneseName": "北勝泉(ほくといずみ)",
+      "rank": "Jonidan 88 East",
+      "heya": "Hakkaku",
+      "height": 174.2,
+      "weight": 127.2
+    },
+    {
+      "id": 518,
+      "name": "Kukio",
+      "japaneseName": "九鬼王(くきおう)",
+      "rank": "Jonidan 59 West",
+      "heya": "Onoe",
+      "height": 175,
+      "weight": 147.4
+    },
+    {
+      "id": 519,
+      "name": "Wakahizen",
+      "japaneseName": "若肥前(わかひぜん)",
+      "rank": "Jonidan 60 West",
+      "heya": "Shibatayama",
+      "height": 170,
+      "weight": 129.9
+    },
+    {
+      "id": 522,
+      "name": "Takasu",
+      "japaneseName": "高須(たかす)",
+      "rank": "Jonidan 27 East",
+      "heya": "Tagonoura",
+      "height": 175.7,
+      "weight": 158.1
+    },
+    {
+      "id": 523,
+      "name": "Onbashira",
+      "japaneseName": "御柱(おんばしら)",
+      "rank": "Jonidan 15 East",
+      "heya": "Nishonoseki",
+      "height": 172.4,
+      "weight": 129.5
+    },
+    {
+      "id": 524,
+      "name": "Tenichi",
+      "japaneseName": "天一(てんいち)",
+      "rank": "Jonidan 98 West",
+      "heya": "Yamahibiki",
+      "height": 171,
+      "weight": 140.3
+    },
+    {
+      "id": 525,
+      "name": "Okuni",
+      "japaneseName": "大國(おおくに)",
+      "rank": "Jonidan 68 West",
+      "heya": "Oitekaze",
+      "height": 185.3,
+      "weight": 120
+    },
+    {
+      "id": 527,
+      "name": "Tochikasuga",
+      "japaneseName": "栃春日(とちかすが)",
+      "rank": "Jonidan 71 East",
+      "heya": "Kasugano",
+      "height": 175.5,
+      "weight": 144.2
+    },
+    {
+      "id": 529,
+      "name": "Higonoryu",
+      "japaneseName": "肥後ノ龍(ひごのりゅう)",
+      "rank": "Jonokuchi 13 East",
+      "heya": "Kise",
+      "height": 172,
+      "weight": 180.7
+    },
+    {
+      "id": 531,
+      "name": "Suigafuji",
+      "japaneseName": "翠河富士(すいがふじ)",
+      "rank": "Sandanme 58 East",
+      "heya": "Isegahama",
+      "height": 170,
+      "weight": 112.1
+    },
+    {
+      "id": 533,
+      "name": "Tsurunoumi",
+      "japaneseName": "鶴ノ海(つるのうみ)",
+      "rank": "Jonidan 17 East",
+      "heya": "Shikoroyama",
+      "height": 174.5,
+      "weight": 86.2
+    },
+    {
+      "id": 535,
+      "name": "Daitensho",
+      "japaneseName": "大典翔(だいてんしょう)",
+      "rank": "Jonidan 34 East",
+      "heya": "Oitekaze",
+      "height": 173,
+      "weight": 125.6
+    },
+    {
+      "id": 536,
+      "name": "Wakaikki",
+      "japaneseName": "若一輝(わかいっき)",
+      "rank": "Jonidan 97 West",
+      "heya": "Hanaregoma",
+      "height": 173.5,
+      "weight": 126.1
+    },
+    {
+      "id": 537,
+      "name": "Matsuzawa",
+      "japaneseName": "松澤(まつざわ)",
+      "rank": "Jonidan 25 East",
+      "heya": "Tagonoura",
+      "height": 169.9,
+      "weight": 107.6
+    },
+    {
+      "id": 540,
+      "name": "Chiyofuku",
+      "japaneseName": "千代福(ちよふく)",
+      "rank": "Jonidan 54 West",
+      "heya": "Kokonoe",
+      "height": 172,
+      "weight": 164.7
+    },
+    {
+      "id": 541,
+      "name": "Tamanotora",
+      "japaneseName": "玉の寅(たまのとら)",
+      "rank": "Jonidan 86 East",
+      "heya": "Kataonami",
+      "height": 176,
+      "weight": 115.1
+    },
+    {
+      "id": 542,
+      "name": "Terunosato",
+      "japaneseName": "輝の里(てるのさと)",
+      "rank": "Jonokuchi 11 East",
+      "heya": "Tagonoura",
+      "height": 170,
+      "weight": 180.1
+    },
+    {
+      "id": 543,
+      "name": "Kotofuno",
+      "japaneseName": "琴布野(ことふの)",
+      "rank": "Jonidan 57 East",
+      "heya": "Sadogatake",
+      "height": 175,
+      "weight": 154.7
+    },
+    {
+      "id": 544,
+      "name": "Urutora",
+      "japaneseName": "宇瑠寅(うるとら)",
+      "rank": "Jonokuchi 4 East",
+      "heya": "Shikihide",
+      "height": 165.3,
+      "weight": 60.4
+    },
+    {
+      "id": 547,
+      "name": "Tsukubayama",
+      "japaneseName": "筑波山(つくばやま)",
+      "rank": "Jonidan 20 East",
+      "heya": "Tatsunami",
+      "height": 184,
+      "weight": 148.4
+    },
+    {
+      "id": 552,
+      "name": "Daitenshin",
+      "japaneseName": "大天真(だいてんしん)",
+      "rank": "Jonidan 5 East",
+      "heya": "Onomatsu",
+      "height": 171.8,
+      "weight": 120.2
+    },
+    {
+      "id": 554,
+      "name": "Watatani",
+      "japaneseName": "綿谷(わたたに)",
+      "rank": "Jonidan 91 West",
+      "heya": "Arashio",
+      "height": 174.5,
+      "weight": 98.8
+    },
+    {
+      "id": 555,
+      "name": "Wakaarata",
+      "japaneseName": "若花新(わかあらた)",
+      "rank": "Jonidan 94 East",
+      "heya": "Nishiiwa",
+      "height": 167,
+      "weight": 116.3
+    },
+    {
+      "id": 557,
+      "name": "Izumifuji",
+      "japaneseName": "泉富士(いずみふじ)",
+      "rank": "Makushita 60 West",
+      "heya": "Isegahama",
+      "height": 188,
+      "weight": 146.4
+    },
+    {
+      "id": 558,
+      "name": "Kyonosato",
+      "japaneseName": "京の里(きょうのさと)",
+      "rank": "Jonokuchi 12 West",
+      "heya": "Isenoumi",
+      "height": 185,
+      "weight": 152.6
+    },
+    {
+      "id": 561,
+      "name": "Minorufuji",
+      "japaneseName": "実富士(みのるふじ)",
+      "rank": "Sandanme 38 East",
+      "heya": "Isegahama",
+      "height": 174.6,
+      "weight": 117.6
+    },
+    {
+      "id": 563,
+      "name": "Chiyotsurugi",
+      "japaneseName": "千代剣(ちよつるぎ)",
+      "rank": "Jonidan 68 East",
+      "heya": "Kokonoe",
+      "height": 170.3,
+      "weight": 108.8
+    },
+    {
+      "id": 564,
+      "name": "Fukuazuma",
+      "japaneseName": "福東(ふくあずま)",
+      "rank": "Jonidan 23 East",
+      "heya": "Tamanoi",
+      "height": 174.4,
+      "weight": 155.2
+    },
+    {
+      "id": 565,
+      "name": "Chiyoaoi",
+      "japaneseName": "千代葵(ちよあおい)",
+      "rank": "Jonidan 76 East",
+      "heya": "Kokonoe",
+      "height": 171.2,
+      "weight": 107.2
+    },
+    {
+      "id": 569,
+      "name": "Sachinofuji",
+      "japaneseName": "幸乃富士(さちのふじ)",
+      "rank": "Jonidan 19 West",
+      "heya": "Isegahama",
+      "height": 172,
+      "weight": 101.7
+    },
+    {
+      "id": 573,
+      "name": "Motoazuma",
+      "japaneseName": "本東(もとあずま)",
+      "rank": "Jonidan 91 East",
+      "heya": "Tamanoi",
+      "height": 170.5,
+      "weight": 120.7
+    },
+    {
+      "id": 576,
+      "name": "Ryubumaru",
+      "japaneseName": "流武丸(りゅうぶまる)",
+      "rank": "Jonidan 87 East",
+      "heya": "Musashigawa",
+      "height": 183,
+      "weight": 159.7
+    },
+    {
+      "id": 577,
+      "name": "Kototaiko",
+      "japaneseName": "琴泰広(ことたいこう)",
+      "rank": "Sandanme 25 West",
+      "heya": "Sadogatake",
+      "height": 178,
+      "weight": 166
+    },
+    {
+      "id": 578,
+      "name": "Gohakuun",
+      "japaneseName": "豪白雲(ごうはくうん)",
+      "rank": "Sandanme 31 East",
+      "heya": "Takekuma",
+      "height": 173.5,
+      "weight": 132
+    },
+    {
+      "id": 579,
+      "name": "Hakuda",
+      "japaneseName": "白蛇(はくだ)",
+      "rank": "Sandanme 48 West",
+      "heya": "Asahiyama",
+      "height": 182,
+      "weight": 156.6
+    },
+    {
+      "id": 580,
+      "name": "Fujinoshin",
+      "japaneseName": "藤ノ進(ふじのしん)",
+      "rank": "Sandanme 57 West",
+      "heya": "Fujishima",
+      "height": 179.5,
+      "weight": 144
+    },
+    {
+      "id": 581,
+      "name": "Azumayama",
+      "japaneseName": "東山(あずまやま)",
+      "rank": "Jonidan 70 East",
+      "heya": "Tamanoi",
+      "height": 183.7,
+      "weight": 122.4
+    },
+    {
+      "id": 582,
+      "name": "Sadanojo",
+      "japaneseName": "佐田の城(さだのじょう)",
+      "rank": "Jonokuchi 6 West",
+      "heya": "Sakaigawa",
+      "height": 169.5,
+      "weight": 137.5
+    },
+    {
+      "id": 584,
+      "name": "Fubu",
+      "japaneseName": "風武(ふうぶ)",
+      "rank": "Jonidan 64 West",
+      "heya": "Musashigawa",
+      "height": 178.8,
+      "weight": 114.1
+    },
+    {
+      "id": 585,
+      "name": "Gonowaka",
+      "japaneseName": "豪乃若(ごうのわか)",
+      "rank": "Sandanme 35 West",
+      "heya": "Takekuma",
+      "height": 177.1,
+      "weight": 128
+    },
+    {
+      "id": 586,
+      "name": "Kazeeidai",
+      "japaneseName": "風栄大(かぜえいだい)",
+      "rank": "Makushita 57 West",
+      "heya": "Oshiogawa",
+      "height": 182.5,
+      "weight": 110.3
+    },
+    {
+      "id": 591,
+      "name": "Anzakura",
+      "japaneseName": "安櫻(あんざくら)",
+      "rank": "Jonokuchi 17 West",
+      "heya": "Ajigawa",
+      "height": 175.5,
+      "weight": 103.7
+    },
+    {
+      "id": 592,
+      "name": "Kitanosho",
+      "japaneseName": "北乃庄(きたのしょう)",
+      "rank": "Sandanme 33 West",
+      "heya": "Hanaregoma",
+      "height": 192,
+      "weight": 137
+    },
+    {
+      "id": 594,
+      "name": "Moriurara",
+      "japaneseName": "森麗(もりうらら)",
+      "rank": "Jonokuchi 15 East",
+      "heya": "Otake",
+      "height": 167.8,
+      "weight": 129
+    },
+    {
+      "id": 595,
+      "name": "Itakozakura",
+      "japaneseName": "潮来桜(いたこざくら)",
+      "rank": "Jonokuchi 13 West",
+      "heya": "Shikihide",
+      "height": 177,
+      "weight": 106.3
+    },
+    {
+      "id": 597,
+      "name": "Kanryu",
+      "japaneseName": "寛龍(かんりゅう)",
+      "rank": "Sandanme 65 East",
+      "heya": "Arashio",
+      "height": 178,
+      "weight": 117.6
+    },
+    {
+      "id": 598,
+      "name": "Aratobi",
+      "japaneseName": "荒飛(あらとび)",
+      "rank": "Jonidan 93 West",
+      "heya": "Isenoumi",
+      "height": 178,
+      "weight": 100.5
+    },
+    {
+      "id": 599,
+      "name": "Takatairiku",
+      "japaneseName": "隆太陸(たかたいりく)",
+      "rank": "Jonidan 79 West",
+      "heya": "Tokiwayama",
+      "height": 167,
+      "weight": 132.2
+    },
+    {
+      "id": 601,
+      "name": "Ryuma",
+      "japaneseName": "流馬(りゅうま)",
+      "rank": "Sandanme 59 East",
+      "heya": "Hanaregoma",
+      "height": 183,
+      "weight": 149.7
+    },
+    {
+      "id": 603,
+      "name": "Fujinonami",
+      "japaneseName": "藤乃波(ふじのなみ)",
+      "rank": "Jonidan 50 West",
+      "heya": "Fujishima",
+      "height": 167,
+      "weight": 110.2
+    },
+    {
+      "id": 607,
+      "name": "Asahakuryu",
+      "japaneseName": "朝白龍　太郎",
+      "rank": "Maegashira 11 West",
+      "heya": "Takasago",
+      "height": 185,
+      "weight": 157
+    },
+    {
+      "id": 609,
+      "name": "Satorufuji",
+      "japaneseName": "聖富士(さとるふじ)",
+      "rank": "Sandanme 1 West",
+      "heya": "Isegahama",
+      "height": 178,
+      "weight": 169.5
+    },
+    {
+      "id": 610,
+      "name": "Agora",
+      "japaneseName": "安強羅(あごうら)",
+      "rank": "Sandanme 40 East",
+      "heya": "Ajigawa",
+      "height": 185,
+      "weight": 157.8
+    },
+    {
+      "id": 611,
+      "name": "Himukamaru",
+      "japaneseName": "日向丸(ひむかまる)",
+      "rank": "Makushita 8 West",
+      "heya": "Kise",
+      "height": 173.5,
+      "weight": 144.2
+    },
+    {
+      "id": 612,
+      "name": "Kobayashi",
+      "japaneseName": "小林(こばやし)",
+      "rank": "Makushita 23 West",
+      "heya": "Kasugano",
+      "height": 179,
+      "weight": 144.5
+    },
+    {
+      "id": 613,
+      "name": "Gonoumi",
+      "japaneseName": "豪ノ湖(ごうのうみ)",
+      "rank": "Makushita 60 East",
+      "heya": "Takekuma",
+      "height": 180,
+      "weight": 143.5
+    },
+    {
+      "id": 614,
+      "name": "Daitengu",
+      "japaneseName": "大天狗(だいてんぐ)",
+      "rank": "Jonidan 26 West",
+      "heya": "Takadagawa",
+      "height": 178.5,
+      "weight": 109.4
+    },
+    {
+      "id": 615,
+      "name": "Fujinokawa",
+      "japaneseName": "藤ノ川　成剛",
+      "rank": "Sekiwake 1 East",
+      "heya": "Isenoumi",
+      "height": 177,
+      "weight": 125
+    },
+    {
+      "id": 623,
+      "name": "Yamane",
+      "japaneseName": "山根(やまね)",
+      "rank": "Jonidan 1 East",
+      "heya": "Naruto",
+      "height": 175.3,
+      "weight": 130.8
+    },
+    {
+      "id": 8850,
+      "name": "Onosato",
+      "japaneseName": "大の里　泰輝",
+      "rank": "Yokozuna 1 East",
+      "heya": "Nishonoseki",
+      "height": 190,
+      "weight": 188
+    },
+    {
+      "id": 8851,
+      "name": "Shimizuumi",
+      "japaneseName": "清水海(しみずうみ)",
+      "rank": "Sandanme 4 West",
+      "heya": "Sakaigawa",
+      "height": 177,
+      "weight": 133.4
+    },
+    {
+      "id": 8852,
+      "name": "Goseizan",
+      "japaneseName": "豪聖山(ごうせいざん)",
+      "rank": "Makushita 58 East",
+      "heya": "Takekuma",
+      "height": 187,
+      "weight": 150.8
+    },
+    {
+      "id": 8853,
+      "name": "Onokatsu",
+      "japaneseName": "阿武剋　一弘",
+      "rank": "Juryo 1 West",
+      "heya": "Onomatsu",
+      "height": 184,
+      "weight": 165
+    },
+    {
+      "id": 8854,
+      "name": "Aonishiki",
+      "japaneseName": "安青錦　新大",
+      "rank": "Ozeki 1 East",
+      "heya": "Ajigawa",
+      "height": 182,
+      "weight": 142
+    },
+    {
+      "id": 8855,
+      "name": "Kyokukaiyu",
+      "japaneseName": "旭海雄　蓮",
+      "rank": "Maegashira 16 West",
+      "heya": "Oshima",
+      "height": 183,
+      "weight": 165
+    },
+    {
+      "id": 8856,
+      "name": "Mita",
+      "japaneseName": "三田(みた)",
+      "rank": "Makushita 9 East",
+      "heya": "Futagoyama",
+      "height": 173,
+      "weight": 121
+    },
+    {
+      "id": 8857,
+      "name": "Yoshinofuji",
+      "japaneseName": "義ノ富士　直哉",
+      "rank": "Komusubi 1 West",
+      "heya": "Isegahama",
+      "height": 185,
+      "weight": 162
+    },
+    {
+      "id": 8858,
+      "name": "Arashifuji",
+      "japaneseName": "嵐富士　奏凪人",
+      "rank": "Maegashira 16 East",
+      "heya": "Isegahama",
+      "height": 172,
+      "weight": 123
+    },
+    {
+      "id": 8859,
+      "name": "Asasuiryu",
+      "japaneseName": "朝翠龍　涼馬",
+      "rank": "Maegashira 13 West",
+      "heya": "Takasago",
+      "height": 175,
+      "weight": 120
+    },
+    {
+      "id": 8860,
+      "name": "Inami",
+      "japaneseName": "伊波(いなみ)",
+      "rank": "Makushita 1 East",
+      "heya": "Onoe",
+      "height": 191.5,
+      "weight": 161.6
+    },
+    {
+      "id": 8861,
+      "name": "Tokitenran",
+      "japaneseName": "時天嵐(ときてんらん)",
+      "rank": "Makushita 55 East",
+      "heya": "Tokitsukaze",
+      "height": 172.5,
+      "weight": 122.7
+    },
+    {
+      "id": 8862,
+      "name": "Haruyama",
+      "japaneseName": "春山(はるやま)",
+      "rank": "Makushita 12 West",
+      "heya": "Onoe",
+      "height": 181,
+      "weight": 147
+    },
+    {
+      "id": 8863,
+      "name": "Anosho",
+      "japaneseName": "安大翔(あんおおしょう)",
+      "rank": "Makushita 28 West",
+      "heya": "Ajigawa",
+      "height": 175,
+      "weight": 168.9
+    },
+    {
+      "id": 8864,
+      "name": "Shiroma",
+      "japaneseName": "城間(しろま)",
+      "rank": "Makushita 36 West",
+      "heya": "Onoe",
+      "height": 182,
+      "weight": 177.9
+    },
+    {
+      "id": 8865,
+      "name": "Kazuma",
+      "japaneseName": "一意　虎風",
+      "rank": "Juryo 4 East",
+      "heya": "Kise",
+      "height": 185,
+      "weight": 202
+    },
+    {
+      "id": 8866,
+      "name": "Toshinofuji",
+      "japaneseName": "寿之富士　大聖",
+      "rank": "Maegashira 13 East",
+      "heya": "Isegahama",
+      "height": 195,
+      "weight": 156
+    },
+    {
+      "id": 8867,
+      "name": "Daikosho",
+      "japaneseName": "大皇翔(だいこうしょう)",
+      "rank": "Makushita 16 West",
+      "heya": "Oitekaze",
+      "height": 189,
+      "weight": 173.4
+    },
+    {
+      "id": 8868,
+      "name": "Okaryu",
+      "japaneseName": "大花竜(おおかりゅう)",
+      "rank": "Makushita 8 East",
+      "heya": "Tatsunami",
+      "height": 177.5,
+      "weight": 160.7
+    },
+    {
+      "id": 8869,
+      "name": "Daimasakari",
+      "japaneseName": "大斧(だいまさかり)",
+      "rank": "Makushita 42 East",
+      "heya": "Oitekaze",
+      "height": 169,
+      "weight": 156.4
+    },
+    {
+      "id": 8870,
+      "name": "Fujiso",
+      "japaneseName": "藤宗(ふじそう)",
+      "rank": "Sandanme 69 East",
+      "heya": "Nishonoseki",
+      "height": 187.2,
+      "weight": 140.4
+    },
+    {
+      "id": 8871,
+      "name": "Soma",
+      "japaneseName": "相馬(そうま)",
+      "rank": "Sandanme 3 East",
+      "heya": "Futagoyama",
+      "height": 179,
+      "weight": 154.9
+    },
+    {
+      "id": 8872,
+      "name": "Kuwae",
+      "japaneseName": "桑江(くわえ)",
+      "rank": "Jonidan 64 East",
+      "heya": "Futagoyama",
+      "height": 172.7,
+      "weight": 122
+    },
+    {
+      "id": 8873,
+      "name": "Daigoyama",
+      "japaneseName": "醍醐山(だいごやま)",
+      "rank": "Sandanme 19 East",
+      "heya": "Isenoumi",
+      "height": 183,
+      "weight": 129.2
+    },
+    {
+      "id": 8874,
+      "name": "Fujisodai",
+      "japaneseName": "藤壮大(ふじそうだい)",
+      "rank": "Makushita 12 East",
+      "heya": "Fujishima",
+      "height": 186,
+      "weight": 130.6
+    },
+    {
+      "id": 8875,
+      "name": "Suzunofuji",
+      "japaneseName": "鈴ノ富士(すずのふじ)",
+      "rank": "Sandanme 9 East",
+      "heya": "Isegahama",
+      "height": 182.4,
+      "weight": 146
+    },
+    {
+      "id": 8876,
+      "name": "Anhibiki",
+      "japaneseName": "安響(あんひびき)",
+      "rank": "Makushita 20 East",
+      "heya": "Ajigawa",
+      "height": 184.5,
+      "weight": 152.4
+    },
+    {
+      "id": 8877,
+      "name": "Ryuji",
+      "japaneseName": "隆志(りゅうじ)",
+      "rank": "Makushita 33 East",
+      "heya": "Onomatsu",
+      "height": 187.7,
+      "weight": 121.4
+    },
+    {
+      "id": 8878,
+      "name": "Shimabukuro",
+      "japaneseName": "島袋(しまぶくろ)",
+      "rank": "Jonidan 76 West",
+      "heya": "Hanaregoma",
+      "height": 176,
+      "weight": 121.5
+    },
+    {
+      "id": 8879,
+      "name": "Sekimoto",
+      "japaneseName": "関本(せきもと)",
+      "rank": "Sandanme 77 West",
+      "heya": "Onomatsu",
+      "height": 168,
+      "weight": 116.7
+    },
+    {
+      "id": 8880,
+      "name": "Ayanofuji",
+      "japaneseName": "絢ノ富士(あやのふじ)",
+      "rank": "Sandanme 49 West",
+      "heya": "Isegahama",
+      "height": 184,
+      "weight": 164.2
+    },
+    {
+      "id": 8881,
+      "name": "Higonomaru",
+      "japaneseName": "肥後ノ丸(ひごのまる)",
+      "rank": "Sandanme 15 West",
+      "heya": "Kise",
+      "height": 186,
+      "weight": 148.7
+    },
+    {
+      "id": 8882,
+      "name": "Inanoyama",
+      "japaneseName": "猪名の山(いなのやま)",
+      "rank": "Makushita 47 West",
+      "heya": "Nishonoseki",
+      "height": 181,
+      "weight": 131.2
+    },
+    {
+      "id": 8883,
+      "name": "Anryukai",
+      "japaneseName": "安琉海(あんりゅうかい)",
+      "rank": "Sandanme 61 West",
+      "heya": "Ajigawa",
+      "height": 175,
+      "weight": 99.2
+    },
+    {
+      "id": 8884,
+      "name": "Kyokutairyu",
+      "japaneseName": "旭大龍(きょくたいりゅう)",
+      "rank": "Sandanme 15 East",
+      "heya": "Oshima",
+      "height": 178,
+      "weight": 140.9
+    },
+    {
+      "id": 8885,
+      "name": "Ikazuchiarashi",
+      "japaneseName": "雷嵐(いかづちあらし)",
+      "rank": "Sandanme 13 East",
+      "heya": "Ikazuchi",
+      "height": 172,
+      "weight": 135.9
+    },
+    {
+      "id": 8886,
+      "name": "Kyokutendo",
+      "japaneseName": "旭天道(きょくてんどう)",
+      "rank": "Sandanme 23 West",
+      "heya": "Oshima",
+      "height": 178,
+      "weight": 179.8
+    },
+    {
+      "id": 8887,
+      "name": "Kikushoki",
+      "japaneseName": "菊昇基(きくしょうき)",
+      "rank": "Jonidan 47 East",
+      "heya": "Hidenoyama",
+      "height": 178.5,
+      "weight": 154.7
+    },
+    {
+      "id": 8888,
+      "name": "Miyafuji",
+      "japaneseName": "宮富士(みやふじ)",
+      "rank": "Jonokuchi 7 East",
+      "heya": "Isegahama",
+      "height": 175.6,
+      "weight": 140.7
+    },
+    {
+      "id": 8889,
+      "name": "Musubiyama",
+      "japaneseName": "結山(むすびやま)",
+      "rank": "Sandanme 5 East",
+      "heya": "Hanaregoma",
+      "height": 190,
+      "weight": 133.2
+    },
+    {
+      "id": 8890,
+      "name": "Masarufuji",
+      "japaneseName": "優富士(まさるふじ)",
+      "rank": "Jonidan 43 West",
+      "heya": "Isegahama",
+      "height": 176,
+      "weight": 114.5
+    },
+    {
+      "id": 8891,
+      "name": "Tsurugifuji",
+      "japaneseName": "都留樹富士(つるぎふじ)",
+      "rank": "Jonidan 41 West",
+      "heya": "Takadagawa",
+      "height": 185.2,
+      "weight": 136.4
+    },
+    {
+      "id": 8892,
+      "name": "Uzumasa",
+      "japaneseName": "太秦(うずまさ)",
+      "rank": "Makushita 40 West",
+      "heya": "Isenoumi",
+      "height": 187,
+      "weight": 140.7
+    },
+    {
+      "id": 8893,
+      "name": "Keiga",
+      "japaneseName": "恵雅(けいが)",
+      "rank": "Jonidan 28 East",
+      "heya": "Futagoyama",
+      "height": 185.5,
+      "weight": 130.4
+    },
+    {
+      "id": 8894,
+      "name": "Karino",
+      "japaneseName": "狩野(かりの)",
+      "rank": "Jonidan 16 West",
+      "heya": "Naruto",
+      "height": 185,
+      "weight": 149.5
+    },
+    {
+      "id": 8895,
+      "name": "Kazeyuki",
+      "japaneseName": "風佑城(かぜゆうき)",
+      "rank": "Sandanme 64 West",
+      "heya": "Oshiogawa",
+      "height": 167.3,
+      "weight": 135.7
+    },
+    {
+      "id": 8896,
+      "name": "Kiyonoyama",
+      "japaneseName": "清の山(きよのやま)",
+      "rank": "Sandanme 63 West",
+      "heya": "Dewanoumi",
+      "height": 176,
+      "weight": 106.1
+    },
+    {
+      "id": 8897,
+      "name": "Daishoheki",
+      "japaneseName": "大翔碧(だいしょうへき)",
+      "rank": "Jonidan 80 East",
+      "heya": "Oitekaze",
+      "height": 181,
+      "weight": 157.7
+    },
+    {
+      "id": 8898,
+      "name": "Datenoumi",
+      "japaneseName": "達ノ海(だてのうみ)",
+      "rank": "Sandanme 65 West",
+      "heya": "Isenoumi",
+      "height": 195,
+      "weight": 160.1
+    },
+    {
+      "id": 8899,
+      "name": "Togyokuko",
+      "japaneseName": "東玉康(とうぎょくこう)",
+      "rank": "Jonokuchi 9 West",
+      "heya": "Tamanoi",
+      "height": 172.2,
+      "weight": 144.6
+    },
+    {
+      "id": 8901,
+      "name": "Asasakurai",
+      "japaneseName": "朝櫻井(あささくらい)",
+      "rank": "Jonidan 45 West",
+      "heya": "Takasago",
+      "height": 173.4,
+      "weight": 156.4
+    },
+    {
+      "id": 8902,
+      "name": "Seiyu",
+      "japaneseName": "誠雄(せいゆう)",
+      "rank": "Makushita 55 West",
+      "heya": "Hidenoyama",
+      "height": 173,
+      "weight": 128.4
+    },
+    {
+      "id": 8903,
+      "name": "Tochiaoi",
+      "japaneseName": "栃葵(とちあおい)",
+      "rank": "Sandanme 51 West",
+      "heya": "Kasugano",
+      "height": 183,
+      "weight": 135.1
+    },
+    {
+      "id": 8904,
+      "name": "Shoryu",
+      "japaneseName": "象竜(しょうりゅう)",
+      "rank": "Makushita 37 East",
+      "heya": "Otowayama",
+      "height": 191.5,
+      "weight": 146.3
+    },
+    {
+      "id": 8905,
+      "name": "Yumenofuji",
+      "japaneseName": "夢之富士(ゆめのふじ)",
+      "rank": "Makushita 22 East",
+      "heya": "Isegahama",
+      "height": 183.5,
+      "weight": 156.8
+    },
+    {
+      "id": 8906,
+      "name": "Kaihakusho",
+      "japaneseName": "魁白猩(かいはくしょう)",
+      "rank": "Jonidan 67 West",
+      "heya": "Asakayama",
+      "height": 178.5,
+      "weight": 120
+    },
+    {
+      "id": 8907,
+      "name": "Hakuryu",
+      "japaneseName": "白竜(はくりゅう)",
+      "rank": "Jonidan 37 East",
+      "heya": "Otowayama",
+      "height": 183,
+      "weight": 156.4
+    },
+    {
+      "id": 8908,
+      "name": "Daibasho",
+      "japaneseName": "大馬翔(だいばしょう)",
+      "rank": "Jonidan 74 West",
+      "heya": "Oitekaze",
+      "height": 166.6,
+      "weight": 92.6
+    },
+    {
+      "id": 8909,
+      "name": "Kakuho",
+      "japaneseName": "鶴峰(かくほう)",
+      "rank": "Jonidan 5 West",
+      "heya": "Otowayama",
+      "height": 173,
+      "weight": 115.8
+    },
+    {
+      "id": 8910,
+      "name": "Datenomori",
+      "japaneseName": "達ノ森(だてのもり)",
+      "rank": "Jonidan 73 West",
+      "heya": "Isenoumi",
+      "height": 192,
+      "weight": 167.4
+    },
+    {
+      "id": 8911,
+      "name": "Kosei",
+      "japaneseName": "康誠(こうせい)",
+      "rank": "Jonidan 20 West",
+      "heya": "Hidenoyama",
+      "height": 166,
+      "weight": 81.2
+    },
+    {
+      "id": 8912,
+      "name": "Amidaishin",
+      "japaneseName": "阿見大心(あみだいしん)",
+      "rank": "Jonidan 32 West",
+      "heya": "Nishonoseki",
+      "height": 176,
+      "weight": 136
+    },
+    {
+      "id": 8914,
+      "name": "Daigozakura",
+      "japaneseName": "醍醐桜(だいござくら)",
+      "rank": "Jonidan 24 West",
+      "heya": "Takadagawa",
+      "height": 174.5,
+      "weight": 141
+    },
+    {
+      "id": 8915,
+      "name": "Bishomaru",
+      "japaneseName": "美勝丸(びしょうまる)",
+      "rank": "Jonidan 90 East",
+      "heya": "Musashigawa",
+      "height": 182,
+      "weight": 123.3
+    },
+    {
+      "id": 8917,
+      "name": "Shibuya",
+      "japaneseName": "澁谷(しぶや)",
+      "rank": "Jonidan 95 West",
+      "heya": "Nishonoseki",
+      "height": 184.6,
+      "weight": 128.1
+    },
+    {
+      "id": 8918,
+      "name": "Sachinoyama",
+      "japaneseName": "祥乃山(さちのやま)",
+      "rank": "Jonidan 93 East",
+      "heya": "Takadagawa",
+      "height": 170.1,
+      "weight": 94
+    },
+    {
+      "id": 8919,
+      "name": "Kato",
+      "japaneseName": "加藤(かとう)",
+      "rank": "Jonidan 85 East",
+      "heya": "Nakamura",
+      "height": 185,
+      "weight": 140.4
+    },
+    {
+      "id": 8920,
+      "name": "Kikunoshiro",
+      "japaneseName": "菊ノ城(きくのしろ)",
+      "rank": "Sandanme 57 East",
+      "heya": "Hidenoyama",
+      "height": 183,
+      "weight": 148
+    },
+    {
+      "id": 8921,
+      "name": "Kaiso",
+      "japaneseName": "魁蒼(かいそう)",
+      "rank": "Jonidan 69 East",
+      "heya": "Asakayama",
+      "height": 177.2,
+      "weight": 128.1
+    },
+    {
+      "id": 8923,
+      "name": "Wakahomura",
+      "japaneseName": "若焔(わかほむら)",
+      "rank": "Jonidan 35 West",
+      "heya": "Shikoroyama",
+      "height": 174,
+      "weight": 93.5
+    },
+    {
+      "id": 8924,
+      "name": "Sanukiryu",
+      "japaneseName": "讃岐竜(さぬきりゅう)",
+      "rank": "Jonidan 82 East",
+      "heya": "Otowayama",
+      "height": 173.5,
+      "weight": 128.2
+    },
+    {
+      "id": 8925,
+      "name": "Kaigyokusei",
+      "japaneseName": "魁玉聖(かいぎょくせい)",
+      "rank": "Jonidan 96 West",
+      "heya": "Asakayama",
+      "height": 179.5,
+      "weight": 125.4
+    },
+    {
+      "id": 8926,
+      "name": "Soseizan",
+      "japaneseName": "総勢山(そうせいざん)",
+      "rank": "Sandanme 80 West",
+      "heya": "Nishonoseki",
+      "height": 187.5,
+      "weight": 140.7
+    },
+    {
+      "id": 8928,
+      "name": "Yonezawaryu",
+      "japaneseName": "米沢龍(よねざわりゅう)",
+      "rank": "Makushita 24 East",
+      "heya": "Sakaigawa",
+      "height": 190,
+      "weight": 136.8
+    },
+    {
+      "id": 8930,
+      "name": "Chiyonoteru",
+      "japaneseName": "千代の輝(ちよのてる)",
+      "rank": "Jonidan 45 East",
+      "heya": "Kokonoe",
+      "height": 179,
+      "weight": 120
+    },
+    {
+      "id": 8931,
+      "name": "Furuta",
+      "japaneseName": "古田(ふるた)",
+      "rank": "Jonidan 6 East",
+      "heya": "Nishonoseki",
+      "height": 180.3,
+      "weight": 107.3
+    },
+    {
+      "id": 8932,
+      "name": "Kumanishiki",
+      "japaneseName": "隈錦(くまにしき)",
+      "rank": "Jonidan 99 West",
+      "heya": "Takekuma",
+      "height": 184.2,
+      "weight": 154
+    },
+    {
+      "id": 8933,
+      "name": "Kikuchi",
+      "japaneseName": "菊池(きくち)",
+      "rank": "Jonidan 38 West",
+      "heya": "Futagoyama",
+      "height": 180.1,
+      "weight": 126.3
+    },
+    {
+      "id": 8934,
+      "name": "Fukufukumaru",
+      "japaneseName": "福福丸(ふくふくまる)",
+      "rank": "Jonidan 81 West",
+      "heya": "Tagonoura",
+      "height": 175,
+      "weight": 160.2
+    },
+    {
+      "id": 8935,
+      "name": "Daishisho",
+      "japaneseName": "大志翔(だいししょう)",
+      "rank": "Jonidan 50 East",
+      "heya": "Oitekaze",
+      "height": 171.5,
+      "weight": 112.3
+    },
+    {
+      "id": 8936,
+      "name": "Yamada",
+      "japaneseName": "山田(やまだ)",
+      "rank": "Jonokuchi 4 West",
+      "heya": "Nishonoseki",
+      "height": 174,
+      "weight": 84.1
+    },
+    {
+      "id": 8937,
+      "name": "Hara",
+      "japaneseName": "原(はら)",
+      "rank": "Jonokuchi 16 West",
+      "heya": "Hakkaku",
+      "height": 173,
+      "weight": 128.2
+    },
+    {
+      "id": 8940,
+      "name": "Seiseigo",
+      "japaneseName": "西勢郷(せいせいごう)",
+      "rank": "Jonidan 98 East",
+      "heya": "Nishonoseki",
+      "height": 168.5,
+      "weight": 135.5
+    },
+    {
+      "id": 8941,
+      "name": "Wakasasaki",
+      "japaneseName": "若佐々木(わかささき)",
+      "rank": "Jonokuchi 6 East",
+      "heya": "Nishiiwa",
+      "height": 174,
+      "weight": 124.3
+    },
+    {
+      "id": 8943,
+      "name": "Gonosho",
+      "japaneseName": "豪ノ勝(ごうのしょう)",
+      "rank": "Makushita 54 East",
+      "heya": "Takekuma",
+      "height": 189.2,
+      "weight": 148
+    },
+    {
+      "id": 8944,
+      "name": "Ideno",
+      "japaneseName": "出野(いでの)",
+      "rank": "Jonidan 39 West",
+      "heya": "Hidenoyama",
+      "height": 173,
+      "weight": 122.8
+    },
+    {
+      "id": 8945,
+      "name": "Okada",
+      "japaneseName": "岡田(おかだ)",
+      "rank": "Sandanme 5 West",
+      "heya": "Takadagawa",
+      "height": 172,
+      "weight": 174.8
+    },
+    {
+      "id": 8946,
+      "name": "Wakaikazuchi",
+      "japaneseName": "若雷(わかいかづち)",
+      "rank": "Sandanme 34 East",
+      "heya": "Ikazuchi",
+      "height": 185.5,
+      "weight": 113.5
+    },
+    {
+      "id": 8947,
+      "name": "Ikazuchihayate",
+      "japaneseName": "雷颯(いかづちはやて)",
+      "rank": "Sandanme 68 West",
+      "heya": "Ikazuchi",
+      "height": 188,
+      "weight": 106
+    },
+    {
+      "id": 8948,
+      "name": "Goseimaru",
+      "japaneseName": "豪清丸(ごうせいまる)",
+      "rank": "Jonidan 43 East",
+      "heya": "Takekuma",
+      "height": 169,
+      "weight": 117.2
+    },
+    {
+      "id": 8951,
+      "name": "Ikarigata",
+      "japaneseName": "碇潟(いかりがた)",
+      "rank": "Makushita 2 West",
+      "heya": "Isenoumi",
+      "height": 174,
+      "weight": 127.1
+    },
+    {
+      "id": 9039,
+      "name": "Tenrosei",
+      "japaneseName": "天狼星(てんろうせい)",
+      "rank": "Makushita 39 East",
+      "heya": "Shikoroyama",
+      "height": 187,
+      "weight": 124.1
+    },
+    {
+      "id": 9040,
+      "name": "Sunasaka",
+      "japaneseName": "砂坂(すなさか)",
+      "rank": "Jonidan 4 East",
+      "heya": "Takasago",
+      "height": 178,
+      "weight": 144.6
+    },
+    {
+      "id": 9041,
+      "name": "Hikarumusashi",
+      "japaneseName": "光武蔵(ひかるむさし)",
+      "rank": "Sandanme 68 East",
+      "heya": "Musashigawa",
+      "height": 183,
+      "weight": 137.1
+    },
+    {
+      "id": 9045,
+      "name": "Tsurunofuji",
+      "japaneseName": "鶴ノ富士(つるのふじ)",
+      "rank": "Jonidan 54 East",
+      "heya": "Isegahama",
+      "height": 174.5,
+      "weight": 129.5
+    },
+    {
+      "id": 9048,
+      "name": "Akenoyama",
+      "japaneseName": "安氣乃山(あけのやま)",
+      "rank": "Jonokuchi 10 East",
+      "heya": "Ajigawa",
+      "height": 180,
+      "weight": 117.9
+    },
+    {
+      "id": 9049,
+      "name": "Asakawasumi",
+      "japaneseName": "朝河隅(あさかわすみ)",
+      "rank": "Jonidan 95 East",
+      "heya": "Takasago",
+      "height": 178,
+      "weight": 96.2
+    },
+    {
+      "id": 9050,
+      "name": "Fujitensei",
+      "japaneseName": "藤天晴(ふじてんせい)",
+      "rank": "Makushita 4 East",
+      "heya": "Fujishima",
+      "height": 172,
+      "weight": 141.9
+    },
+    {
+      "id": 9051,
+      "name": "Fujiryoga",
+      "japaneseName": "藤凌駕　雅治",
+      "rank": "Maegashira 1 West",
+      "heya": "Fujishima",
+      "height": 180,
+      "weight": 184
+    },
+    {
+      "id": 9052,
+      "name": "Kazekodai",
+      "japaneseName": "風紅大(かぜこうだい)",
+      "rank": "Jonidan 40 East",
+      "heya": "Oshiogawa",
+      "height": 175,
+      "weight": 136.5
+    },
+    {
+      "id": 9053,
+      "name": "Kazeoki",
+      "japaneseName": "風桜輝(かぜおうき)",
+      "rank": "Jonidan 66 East",
+      "heya": "Oshiogawa",
+      "height": 173,
+      "weight": 130
+    },
+    {
+      "id": 9054,
+      "name": "Shunta",
+      "japaneseName": "駿太(しゅんた)",
+      "rank": "Sandanme 76 East",
+      "heya": "Futagoyama",
+      "height": 177,
+      "weight": 150.9
+    },
+    {
+      "id": 9055,
+      "name": "Tsurunosato",
+      "japaneseName": "鶴の里(つるのさと)",
+      "rank": "Jonidan 9 West",
+      "heya": "Nishiiwa",
+      "height": 174,
+      "weight": 114.4
+    },
+    {
+      "id": 9056,
+      "name": "Uchima",
+      "japaneseName": "内間(うちま)",
+      "rank": "Sandanme 72 East",
+      "heya": "Nishonoseki",
+      "height": 184,
+      "weight": 158.7
+    },
+    {
+      "id": 9057,
+      "name": "Kakusho",
+      "japaneseName": "鶴翔(かくしょう)",
+      "rank": "Jonidan 7 West",
+      "heya": "Otowayama",
+      "height": 179,
+      "weight": 121.5
+    },
+    {
+      "id": 9058,
+      "name": "Asarikimaru",
+      "japaneseName": "朝力丸(あさりきまる)",
+      "rank": "Jonidan 44 East",
+      "heya": "Takasago",
+      "height": 184.2,
+      "weight": 126.2
+    },
+    {
+      "id": 9059,
+      "name": "Koseiryu",
+      "japaneseName": "光星竜(こうせいりゅう)",
+      "rank": "Makushita 15 East",
+      "heya": "Otowayama",
+      "height": 174,
+      "weight": 130.6
+    },
+    {
+      "id": 9061,
+      "name": "Komanofuji",
+      "japaneseName": "駒ノ富士(こまのふじ)",
+      "rank": "Jonidan 70 West",
+      "heya": "Isegahama",
+      "height": 176,
+      "weight": 123.8
+    },
+    {
+      "id": 9062,
+      "name": "Shironoryu",
+      "japaneseName": "城乃龍(しろのりゅう)",
+      "rank": "Sandanme 55 West",
+      "heya": "Sakaigawa",
+      "height": 172.5,
+      "weight": 147.6
+    },
+    {
+      "id": 9063,
+      "name": "Satomatsunaga",
+      "japaneseName": "里松永(さとまつなが)",
+      "rank": "Jonidan 82 West",
+      "heya": "Nishiiwa",
+      "height": 170.5,
+      "weight": 138.5
+    },
+    {
+      "id": 9064,
+      "name": "Umeyama",
+      "japaneseName": "梅山(うめやま)",
+      "rank": "Jonidan 63 East",
+      "heya": "Futagoyama",
+      "height": 177,
+      "weight": 135.8
+    },
+    {
+      "id": 9065,
+      "name": "Wakahasegawa",
+      "japaneseName": "若長谷川(わかはせがわ)",
+      "rank": "Jonidan 52 West",
+      "heya": "Nishiiwa",
+      "height": 174.2,
+      "weight": 115.2
+    },
+    {
+      "id": 9066,
+      "name": "Kazeoka",
+      "japaneseName": "風凰花(かぜおうか)",
+      "rank": "Jonidan 55 West",
+      "heya": "Oshiogawa",
+      "height": 177.5,
+      "weight": 183
+    },
+    {
+      "id": 9067,
+      "name": "Ikazuchishu",
+      "japaneseName": "雷修(いかづちしゅう)",
+      "rank": "Sandanme 77 East",
+      "heya": "Ikazuchi",
+      "height": 173,
+      "weight": 127.8
+    },
+    {
+      "id": 9068,
+      "name": "Hokutonada",
+      "japaneseName": "北斗洋(ほくとなだ)",
+      "rank": "Jonidan 40 West",
+      "heya": "Hanaregoma",
+      "height": 175,
+      "weight": 132.2
+    },
+    {
+      "id": 9069,
+      "name": "Ikazuchiarata",
+      "japaneseName": "雷新(いかづちあらた)",
+      "rank": "Jonokuchi 2 East",
+      "heya": "Ikazuchi",
+      "height": 175.2,
+      "weight": 149.1
+    },
+    {
+      "id": 9071,
+      "name": "Mitsurufuji",
+      "japaneseName": "満富士(みつるふじ)",
+      "rank": "Jonidan 34 West",
+      "heya": "Isegahama",
+      "height": 186,
+      "weight": 114.2
+    },
+    {
+      "id": 9073,
+      "name": "Ryugi",
+      "japaneseName": "隆葵(りゅうぎ)",
+      "rank": "Jonidan 63 West",
+      "heya": "Tagonoura",
+      "height": 175.6,
+      "weight": 164.7
+    },
+    {
+      "id": 9074,
+      "name": "Kido",
+      "japaneseName": "城戸(きど)",
+      "rank": "Jonidan 52 East",
+      "heya": "Tamanoi",
+      "height": 173.5,
+      "weight": 146.2
+    },
+    {
+      "id": 9075,
+      "name": "Yamauchi",
+      "japaneseName": "山内(やまうち)",
+      "rank": "Jonidan 97 East",
+      "heya": "Tagonoura",
+      "height": 171.2,
+      "weight": 120.5
+    },
+    {
+      "id": 9076,
+      "name": "Sumiyoshi",
+      "japaneseName": "住吉(すみよし)",
+      "rank": "Jonidan 57 West",
+      "heya": "Nishonoseki",
+      "height": 166,
+      "weight": 117.3
+    },
+    {
+      "id": 9077,
+      "name": "Kototerao",
+      "japaneseName": "琴寺尾(ことてらお)",
+      "rank": "Jonidan 100 West",
+      "heya": "Sadogatake",
+      "height": 177.3,
+      "weight": 108.8
+    },
+    {
+      "id": 9078,
+      "name": "Futagawa",
+      "japaneseName": "二川(ふたがわ)",
+      "rank": "Jonidan 92 East",
+      "heya": "Nishikido",
+      "height": 168,
+      "weight": 127.6
+    },
+    {
+      "id": 9079,
+      "name": "Toranomaru",
+      "japaneseName": "寅ノ丸(とらのまる)",
+      "rank": "Jonidan 100 East",
+      "heya": "Onoe",
+      "height": 163.6,
+      "weight": 124.3
+    },
+    {
+      "id": 9081,
+      "name": "Kazenohana",
+      "japaneseName": "風ノ華(かぜのはな)",
+      "rank": "Jonokuchi 10 West",
+      "heya": "Oshiogawa",
+      "height": 174,
+      "weight": 81.3
+    },
+    {
+      "id": 9083,
+      "name": "Usagifuji",
+      "japaneseName": "兎富士(うさぎふじ)",
+      "rank": "Jonokuchi 5 West",
+      "heya": "Isegahama",
+      "height": 181.8,
+      "weight": 127.5
+    },
+    {
+      "id": 9084,
+      "name": "Gyotoku",
+      "japaneseName": "行徳(ぎょうとく)",
+      "rank": "Makushita 13 West",
+      "heya": "Tamanoi",
+      "height": 177,
+      "weight": 141.4
+    },
+    {
+      "id": 9085,
+      "name": "Hanahibiki",
+      "japaneseName": "花響(はなひびき)",
+      "rank": "Makushita 15 West",
+      "heya": "Sakaigawa",
+      "height": 180.7,
+      "weight": 127.9
+    },
+    {
+      "id": 9086,
+      "name": "Kakueizan",
+      "japaneseName": "鶴英山(かくえいざん)",
+      "rank": "Makushita 40 East",
+      "heya": "Otowayama",
+      "height": 184,
+      "weight": 173.9
+    },
+    {
+      "id": 9087,
+      "name": "Yabugasaki",
+      "japaneseName": "藪ヶ崎(やぶがさき)",
+      "rank": "Sandanme 9 West",
+      "heya": "Yamahibiki",
+      "height": 181.6,
+      "weight": 151.2
+    },
+    {
+      "id": 9088,
+      "name": "Kaki",
+      "japaneseName": "可貴(かき)",
+      "rank": "Makushita 30 West",
+      "heya": "Oitekaze",
+      "height": 191,
+      "weight": 143.8
+    },
+    {
+      "id": 9089,
+      "name": "Iinoryu",
+      "japaneseName": "飯の竜(いいのりゅう)",
+      "rank": "Jonidan 44 West",
+      "heya": "Sakaigawa",
+      "height": 172.5,
+      "weight": 104.8
+    },
+    {
+      "id": 9090,
+      "name": "Tanaka",
+      "japaneseName": "田中(たなか)",
+      "rank": "Jonidan 29 West",
+      "heya": "Nishonoseki",
+      "height": 173.3,
+      "weight": 138
+    },
+    {
+      "id": 9092,
+      "name": "Tomimaru",
+      "japaneseName": "冨丸(とみまる)",
+      "rank": "Jonidan 89 West",
+      "heya": "Sakaigawa",
+      "height": 175,
+      "weight": 146.5
+    },
+    {
+      "id": 9093,
+      "name": "Tosoumi",
+      "japaneseName": "東颯海(とうそううみ)",
+      "rank": "Jonidan 53 West",
+      "heya": "Tamanoi",
+      "height": 168,
+      "weight": 117.4
+    },
+    {
+      "id": 9094,
+      "name": "Azuma",
+      "japaneseName": "安寿真(あずま)",
+      "rank": "Jonidan 27 West",
+      "heya": "Ajigawa",
+      "height": 168,
+      "weight": 116
+    },
+    {
+      "id": 9096,
+      "name": "Minami",
+      "japaneseName": "美浪(みなみ)",
+      "rank": "Jonokuchi 7 West",
+      "heya": "Hidenoyama",
+      "height": 178,
+      "weight": 120.6
+    },
+    {
+      "id": 9097,
+      "name": "Ryusho",
+      "japaneseName": "竜翔(りゅうしょう)",
+      "rank": "Makushita 7 East",
+      "heya": "Oitekaze",
+      "height": 186,
+      "weight": 125.2
+    },
+    {
+      "id": 9098,
+      "name": "Takahara",
+      "japaneseName": "高原(たかはら)",
+      "rank": "Makushita 32 West",
+      "heya": "Futagoyama",
+      "height": 173.3,
+      "weight": 127.9
+    },
+    {
+      "id": 9099,
+      "name": "Ryuho",
+      "japaneseName": "竜鳳　和真",
+      "rank": "Juryo 14 West",
+      "heya": "Otowayama",
+      "height": 175,
+      "weight": 160.1
+    },
+    {
+      "id": 9100,
+      "name": "Tatsubayama",
+      "japaneseName": "龍葉山(たつばやま)",
+      "rank": "Makushita 25 East",
+      "heya": "Tokitsukaze",
+      "height": 189,
+      "weight": 162.3
+    },
+    {
+      "id": 9101,
+      "name": "Sato",
+      "japaneseName": "佐藤(さとう)",
+      "rank": "Jonidan 75 East",
+      "heya": "Arashio",
+      "height": 175,
+      "weight": 120.4
+    },
+    {
+      "id": 9102,
+      "name": "Kazemitsuki",
+      "japaneseName": "風光希(かぜみつき)",
+      "rank": "Sandanme 6 East",
+      "heya": "Oshiogawa",
+      "height": 176,
+      "weight": 136.8
+    },
+    {
+      "id": 9103,
+      "name": "Asahifuji",
+      "japaneseName": "旭富士　英毅",
+      "rank": "Juryo 12 East",
+      "heya": "Isegahama",
+      "height": 187,
+      "weight": 152.3
+    },
+    {
+      "id": 9104,
+      "name": "Tenshoyama",
+      "japaneseName": "天昇山(てんしょうやま)",
+      "rank": "Makushita 1 West",
+      "heya": "Tamanoi",
+      "height": 197,
+      "weight": 172
+    },
+    {
+      "id": 9105,
+      "name": "Sekishoryu",
+      "japaneseName": "関将竜(せきしょうりゅう)",
+      "rank": "Sandanme 17 East",
+      "heya": "Sakaigawa",
+      "height": 173,
+      "weight": 88
+    },
+    {
+      "id": 9107,
+      "name": "Wakanofuji",
+      "japaneseName": "和歌ノ富士(わかのふじ)",
+      "rank": "Sandanme 29 West",
+      "heya": "Kasugano",
+      "height": 185,
+      "weight": 132.5
+    },
+    {
+      "id": 9108,
+      "name": "Asasubaru",
+      "japaneseName": "朝昴(あさすばる)",
+      "rank": "Sandanme 53 East",
+      "heya": "Takasago",
+      "height": 176.5,
+      "weight": 145.7
+    },
+    {
+      "id": 9109,
+      "name": "Shosei",
+      "japaneseName": "翔盛(しょうせい)",
+      "rank": "Makushita 27 West",
+      "heya": "Nakamura",
+      "height": 175,
+      "weight": 157.8
+    },
+    {
+      "id": 9110,
+      "name": "Kyokugosei",
+      "japaneseName": "旭轟星(きょくごうせい)",
+      "rank": "Jonidan 41 East",
+      "heya": "Oshima",
+      "height": 177,
+      "weight": 128.7
+    },
+    {
+      "id": 9112,
+      "name": "Kyokurenma",
+      "japaneseName": "旭漣眞(きょくれんま)",
+      "rank": "Jonidan 84 West",
+      "heya": "Oshima",
+      "height": 174,
+      "weight": 142.5
+    },
+    {
+      "id": 9113,
+      "name": "Kyokutaiyo",
+      "japaneseName": "旭大陽(きょくたいよう)",
+      "rank": "Jonidan 71 West",
+      "heya": "Oshima",
+      "height": 173,
+      "weight": 104.9
+    },
+    {
+      "id": 9114,
+      "name": "Chiyoshinzan",
+      "japaneseName": "千代真山(ちよしんざん)",
+      "rank": "Jonokuchi 14 West",
+      "heya": "Kokonoe",
+      "height": 183,
+      "weight": 114.2
+    },
+    {
+      "id": 9115,
+      "name": "Fudoho",
+      "japaneseName": "不動豊(ふどうほう)",
+      "rank": "Makushita 5 East",
+      "heya": "Tokitsukaze",
+      "height": 183,
+      "weight": 154.1
+    },
+    {
+      "id": 9116,
+      "name": "Kaida",
+      "japaneseName": "甲斐田(かいだ)",
+      "rank": "Sandanme 7 West",
+      "heya": "Kasugano",
+      "height": 192,
+      "weight": 147.7
+    },
+    {
+      "id": 9117,
+      "name": "Kawazoe",
+      "japaneseName": "川副(かわぞえ)",
+      "rank": "Sandanme 20 East",
+      "heya": "Ajigawa",
+      "height": 170,
+      "weight": 147.1
+    },
+    {
+      "id": 9118,
+      "name": "Goto",
+      "japaneseName": "後藤(ごとう)",
+      "rank": "Jonidan 39 East",
+      "heya": "Nishonoseki",
+      "height": 175,
+      "weight": 152.2
+    },
+    {
+      "id": 9119,
+      "name": "Nojima",
+      "japaneseName": "野島(のじま)",
+      "rank": "Sandanme 55 East",
+      "heya": "Nishonoseki",
+      "height": 164,
+      "weight": 100.9
+    },
+    {
+      "id": 9120,
+      "name": "Setonoryu",
+      "japaneseName": "瀬戸ノ竜(せとのりゅう)",
+      "rank": "Jonidan 67 East",
+      "heya": "Otowayama",
+      "height": 176,
+      "weight": 116
+    },
+    {
+      "id": 9121,
+      "name": "Hakugetsuro",
+      "japaneseName": "白月狼(はくげつろう)",
+      "rank": "Makushita 44 East",
+      "heya": "Asahiyama",
+      "height": 178,
+      "weight": 136.4
+    },
+    {
+      "id": 9122,
+      "name": "Hanenoyama",
+      "japaneseName": "跳乃山(はねのやま)",
+      "rank": "Jonidan 3 East",
+      "heya": "Hanaregoma",
+      "height": 174,
+      "weight": 146.6
+    },
+    {
+      "id": 9123,
+      "name": "Soedayama",
+      "japaneseName": "添田山(そえだやま)",
+      "rank": "Jonidan 8 East",
+      "heya": "Hidenoyama",
+      "height": 181,
+      "weight": 133.1
+    },
+    {
+      "id": 9124,
+      "name": "Ryusei",
+      "japaneseName": "隆晟(りゅうせい)",
+      "rank": "Sandanme 42 West",
+      "heya": "Kise",
+      "height": 172,
+      "weight": 142.6
+    },
+    {
+      "id": 9125,
+      "name": "Kotohiranuma",
+      "japaneseName": "琴平沼(ことひらぬま)",
+      "rank": "Jonokuchi 3 West",
+      "heya": "Sadogatake",
+      "height": 190,
+      "weight": 128.3
+    },
+    {
+      "id": 9126,
+      "name": "Nakazawa",
+      "japaneseName": "中澤(なかざわ)",
+      "rank": "Sandanme 79 West",
+      "heya": "Kise",
+      "height": 177,
+      "weight": 129
+    },
+    {
+      "id": 9127,
+      "name": "Kokubo",
+      "japaneseName": "小久保(こくぼ)",
+      "rank": "Jonokuchi 5 East",
+      "heya": "Asakayama",
+      "height": 178,
+      "weight": 168.7
+    },
+    {
+      "id": 9128,
+      "name": "Somanoshin",
+      "japaneseName": "杣乃心(そまのしん)",
+      "rank": "Jonokuchi 17 East",
+      "heya": "Hidenoyama",
+      "height": 166,
+      "weight": 107.4
+    },
+    {
+      "id": 9129,
+      "name": "Kotokawabuchi",
+      "japaneseName": "琴川渕(ことかわぶち)",
+      "rank": "Jonidan 73 East",
+      "heya": "Sadogatake",
+      "height": 167,
+      "weight": 90.7
+    },
+    {
+      "id": 9130,
+      "name": "Kotoishida",
+      "japaneseName": "琴石田(こといしだ)",
+      "rank": "Jonokuchi 12 East",
+      "heya": "Sadogatake",
+      "height": 171,
+      "weight": 124.5
+    },
+    {
+      "id": 9131,
+      "name": "Kotoyoshino",
+      "japaneseName": "琴芳野(ことよしの)",
+      "rank": "Jonidan 99 East",
+      "heya": "Sadogatake",
+      "height": 163,
+      "weight": 87
+    },
+    {
+      "id": 9132,
+      "name": "Shimano",
+      "japaneseName": "島野(しまの)",
+      "rank": "Jonidan 78 East",
+      "heya": "Arashio",
+      "height": 180,
+      "weight": 95.2
+    },
+    {
+      "id": 9133,
+      "name": "Honda",
+      "japaneseName": "本多(ほんだ)",
+      "rank": "Jonokuchi 21 West",
+      "heya": "Shikoroyama",
+      "height": 190,
+      "weight": 139.9
+    },
+    {
+      "id": 9135,
+      "name": "Omori",
+      "japaneseName": "大森(おおもり)",
+      "rank": "Makushita 11 East",
+      "heya": "Oitekaze",
+      "height": 185,
+      "weight": 119.5
+    },
+    {
+      "id": 9136,
+      "name": "Honoikazuchi",
+      "japaneseName": "火雷(ほのいかづち)",
+      "rank": "Makushita 37 West",
+      "heya": "Ikazuchi",
+      "height": 190,
+      "weight": 157.6
+    },
+    {
+      "id": 9137,
+      "name": "Kakizoe",
+      "japaneseName": "垣添(かきぞえ)",
+      "rank": "Sandanme 26 East",
+      "heya": "Ikazuchi",
+      "height": 180,
+      "weight": 119.6
+    },
+    {
+      "id": 9138,
+      "name": "Uza",
+      "japaneseName": "宇座(うざ)",
+      "rank": "Jonidan 58 East",
+      "heya": "Onoe",
+      "height": 176,
+      "weight": 174.5
+    },
+    {
+      "id": 9139,
+      "name": "Ogawa",
+      "japaneseName": "小川(おがわ)",
+      "rank": "Sandanme 74 West",
+      "heya": "Tamanoi",
+      "height": 181,
+      "weight": 143.8
+    },
+    {
+      "id": 9140,
+      "name": "Chiyonotaka",
+      "japaneseName": "千代の貴(ちよのたか)",
+      "rank": "Jonidan 58 West",
+      "heya": "Kokonoe",
+      "height": 169,
+      "weight": 91.6
+    },
+    {
+      "id": 9141,
+      "name": "Ibata",
+      "japaneseName": "井畑(いばた)",
+      "rank": "Jonidan 37 West",
+      "heya": "Sakaigawa",
+      "height": 175,
+      "weight": 128.4
+    },
+    {
+      "id": 9143,
+      "name": "Sawada",
+      "japaneseName": "澤田(さわだ)",
+      "rank": "Jonidan 18 West",
+      "heya": "Sakaigawa",
+      "height": 172,
+      "weight": 128.8
+    },
+    {
+      "id": 9144,
+      "name": "Joshoyu",
+      "japaneseName": "城勝雄(じょうしょうゆう)",
+      "rank": "Jonidan 7 East",
+      "heya": "Minatogawa",
+      "height": 177,
+      "weight": 125.8
+    },
+    {
+      "id": 9145,
+      "name": "Eisei",
+      "japaneseName": "栄誠(えいせい)",
+      "rank": "Jonidan 83 East",
+      "heya": "Minato",
+      "height": 187,
+      "weight": 129.9
+    },
+    {
+      "id": 9146,
+      "name": "Hokuto",
+      "japaneseName": "北勝(ほくと)",
+      "rank": "Jonidan 35 East",
+      "heya": "Hakkaku",
+      "height": 181,
+      "weight": 149.3
+    },
+    {
+      "id": 9147,
+      "name": "Taiga",
+      "japaneseName": "泰我(たいが)",
+      "rank": "Jonidan 36 East",
+      "heya": "Kise",
+      "height": 189,
+      "weight": 162.1
+    },
+    {
+      "id": 9148,
+      "name": "Tengakufuji",
+      "japaneseName": "天岳富士(てんがくふじ)",
+      "rank": "Jonidan 65 East",
+      "heya": "Isegahama",
+      "height": 180,
+      "weight": 138.1
+    },
+    {
+      "id": 9149,
+      "name": "Chiyoshinkai",
+      "japaneseName": "千代心海(ちよしんかい)",
+      "rank": "Jonidan 85 West",
+      "heya": "Kokonoe",
+      "height": 174,
+      "weight": 98.4
+    },
+    {
+      "id": 9150,
+      "name": "Tadokoro",
+      "japaneseName": "田所(たどころ)",
+      "rank": "Jonokuchi 11 West",
+      "heya": "Nishonoseki",
+      "height": 182,
+      "weight": 149.7
+    },
+    {
+      "id": 9151,
+      "name": "Matsunosato",
+      "japaneseName": "松の里(まつのさと)",
+      "rank": "Jonokuchi 18 East",
+      "heya": "Nishonoseki",
+      "height": 188,
+      "weight": 165
+    },
+    {
+      "id": 9152,
+      "name": "Sunamusashi",
+      "japaneseName": "砂武蔵(すなむさし)",
+      "rank": "Jonokuchi 19 West",
+      "heya": "Musashigawa",
+      "height": 187,
+      "weight": 122
+    },
+    {
+      "id": 9153,
+      "name": "Shinmichi",
+      "japaneseName": "新道(しんみち)",
+      "rank": "Jonokuchi 20 West",
+      "heya": "Takadagawa",
+      "height": 165,
+      "weight": 57
+    },
+    {
+      "id": 9154,
+      "name": "Hajime",
+      "japaneseName": "一元(はじめ)",
+      "rank": "Jonokuchi 22 East",
+      "heya": "Kise",
+      "height": 176,
+      "weight": 110
+    }
+  ]
+}

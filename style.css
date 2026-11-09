@@ -1,0 +1,479 @@
+:root {
+    --bg: #111827;
+    --panel: #202b3b;
+    --red: #991b1b;
+    --gold: #f4c76a;
+    --text: #ffffff;
+    --muted: #d1d5db;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+}
+
+header {
+    background: #171f2e;
+    border-bottom: 2px solid var(--red);
+    padding: 20px;
+}
+
+nav {
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: var(--gold);
+    font-weight: bold;
+    font-size: 22px;
+}
+
+main {
+    max-width: 1100px;
+    margin: auto;
+    padding: 30px 20px;
+}
+
+.hero {
+    padding: 45px 0;
+}
+
+h1 {
+    font-size: clamp(32px, 6vw, 54px);
+    margin-bottom: 12px;
+}
+
+h2 {
+    color: var(--gold);
+}
+
+p {
+    color: var(--muted);
+    line-height: 1.6;
+}
+
+.divisions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 25px 0;
+}
+
+button {
+    background: #293244;
+    color: white;
+    border: 1px solid #455064;
+    border-radius: 6px;
+    padding: 12px 16px;
+    cursor: pointer;
+}
+
+button:hover,
+button.active {
+    background: var(--red);
+}
+
+.panel {
+    background: var(--panel);
+    padding: 24px;
+    border-radius: 12px;
+    margin-top: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 14px;
+    text-align: left;
+    border-bottom: 1px solid #455064;
+}
+
+th {
+    color: var(--gold);
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+@media (max-width: 600px) {
+    nav {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .panel {
+        padding: 15px;
+    }
+}
+
+/* Tournament selector */
+.tournament-section {
+    margin-bottom: 32px;
+}
+
+#tournament-label {
+    display: block;
+    margin-bottom: 12px;
+    color: #ffbf47;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#tournament-select {
+    width: 100%;
+    max-width: 320px;
+    padding: 13px 16px;
+    background-color: #222d40;
+    color: #ffffff;
+    border: 1px solid #46536a;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#tournament-select:focus {
+    outline: 2px solid #ffbf47;
+    outline-offset: 2px;
+}
+
+#tournament-select:hover {
+    border-color: #ffbf47;
+}
+
+
+/* Search for sumo wrestlers */
+.search-section {
+    margin: 30px 0;
+}
+
+#search-label {
+    display: block;
+    margin-bottom: 12px;
+    color: #ffbf47;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#wrestler-search {
+    width: 100%;
+    max-width: 450px;
+    padding: 14px 16px;
+    background-color: #222d40;
+    color: #ffffff;
+    border: 1px solid #46536a;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+#wrestler-search:focus {
+    outline: 2px solid #ffbf47;
+    outline-offset: 2px;
+}
+
+#wrestler-search::placeholder {
+    color: #aab4c5;
+}
+
+
+/* Wrestler profile dialog */
+#wrestler-profile {
+    width: 90%;
+    max-width: 480px;
+    padding: 30px;
+    background-color: #222d40;
+    color: #ffffff;
+    border: 1px solid #46536a;
+    border-radius: 12px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+#wrestler-profile::backdrop {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.profile-content {
+    position: relative;
+}
+
+#profile-name {
+    color: #ffbf47;
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+#profile-japanese-name {
+    color: #aab4c5;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.profile-details p {
+    padding: 12px 0;
+    border-bottom: 1px solid #46536a;
+}
+
+.profile-details strong {
+    color: #ffbf47;
+}
+
+#close-profile {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#close-profile:hover {
+    color: #ffbf47;
+}
+
+
+/* Clickable wrestler names */
+.wrestler-name-button {
+    background: transparent;
+    border: none;
+    color: #ffbf47;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 4px 0;
+    text-align: left;
+}
+
+.wrestler-name-button:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.wrestler-name-button:focus-visible {
+    outline: 2px solid #ffbf47;
+    outline-offset: 4px;
+    border-radius: 3px;
+}
+
+
+/* Tournament history */
+#wrestler-profile {
+    max-width: 760px;
+    box-sizing: border-box;
+}
+
+.profile-history {
+    margin-top: 30px;
+}
+
+.profile-history h3 {
+    color: #ffbf47;
+    font-size: 21px;
+    margin-bottom: 15px;
+}
+
+.history-table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.profile-history table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.profile-history th {
+    background: #344158;
+    color: #ffbf47;
+    padding: 12px;
+    text-align: left;
+}
+
+.profile-history td {
+    padding: 12px;
+    border-bottom: 1px solid #46536a;
+}
+
+.profile-history tr:hover td {
+    background: #344158;
+}
+
+@media (max-width: 600px) {
+    #wrestler-profile {
+        width: 95%;
+        padding: 18px;
+    }
+
+    .profile-history table {
+        font-size: 12px;
+    }
+
+    .profile-history th,
+    .profile-history td {
+        padding: 8px;
+    }
+}
+
+
+/* Wrestler profile image and header */
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 25px;
+}
+
+.profile-header-text {
+    flex: 1;
+    min-width: 0;
+}
+
+#profile-image {
+    width: 150px;
+    height: 190px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 12px;
+    border: 2px solid #ffbf47;
+    background: #344158;
+    flex-shrink: 0;
+}
+
+#profile-image[hidden] {
+    display: none;
+}
+
+.profile-header-text h2 {
+    color: #ffbf47;
+    margin-bottom: 12px;
+}
+
+.profile-header-text p {
+    color: #aeb9cc;
+}
+
+/* Mobile layout */
+
+@media (max-width: 600px) {
+    .profile-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    #profile-image {
+        width: 120px;
+        height: 150px;
+    }
+}
+
+
+/* NHK World Japan YouTube section */
+
+.youtube-section {
+    margin: 35px 0;
+}
+
+.youtube-card {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 28px;
+    background: #222d40;
+    border: 1px solid #46536a;
+    border-radius: 14px;
+}
+
+.youtube-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 75px;
+    height: 75px;
+    background: #ff0033;
+    color: white;
+    border-radius: 18px;
+    font-size: 34px;
+}
+
+.youtube-content h2 {
+    color: #ffbf47;
+    margin-bottom: 10px;
+}
+
+.youtube-content p {
+    margin-bottom: 18px;
+    color: #ffffff;
+}
+
+.youtube-content a {
+    display: inline-block;
+    padding: 11px 18px;
+    background: #ff0033;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+.youtube-content a:hover {
+    background: #cc0029;
+}
+
+@media (max-width: 600px) {
+    .youtube-card {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 20px;
+    }
+}
+
+
+/* NHK WORLD-JAPAN navigation */
+
+.youtube-nav-link {
+    display: inline-block;
+    padding: 9px 14px;
+    margin-left: 8px;
+    background: #ff0033;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 13px;
+    transition: background 0.2s ease;
+}
+
+.youtube-nav-link:hover {
+    background: #cc0029;
+}
+
+@media (max-width: 600px) {
+    header nav {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .youtube-nav-link {
+        margin-left: 0;
+        font-size: 11px;
+        padding: 8px 10px;
+    }
+}
+

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sumo Rankings & Statistics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <div class="logo">相撲 SUMO STATS</div>
+        <div>
+            <button id="sv-btn" class="active">Svenska</button>
+            <button id="en-btn">English</button>
+            <a
+                id="youtube-nav-link"
+                class="youtube-nav-link"
+                href="https://www.youtube.com/watch?v=z1G9900AjYc&list=PLFEzXnIQVwV9JgQkOMJZM23G8g-wBBWKf"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Öppna NHK WORLD-JAPAN på YouTube"
+            >
+                ▶ NHK WORLD-JAPAN (YouTube) ↗
+            </a>
+        </div>
+    </nav>
+</header>
+
+<main>
+    <section class="hero">
+        <h1 id="main-title">Sumo Rankings & Statistics</h1>
+        <p id="welcome-text">
+            Upptäck sumobrottare, ranking och turneringsresultat.
+        </p>
+    </section>
+
+    <section class="tournament-section">
+        <label for="tournament-select" id="tournament-label">
+            Välj sumoturnering
+        </label>
+
+        <select id="tournament-select">
+            <option value="202611">November 2026</option>
+            <option value="202609">September 2026</option>
+            <option value="202607">Juli 2026</option>
+            <option value="202605">Maj 2026</option>
+            <option value="202603">Mars 2026</option>
+            <option value="202601">Januari 2026</option>
+        </select>
+    </section>
+
+    <section>
+        <h2 id="division-title">Sumodivisioner</h2>
+
+        <div class="divisions">
+            <button class="active" data-division="Makuuchi">Makuuchi</button>
+            <button data-division="Juryo">Jūryō</button>
+            <button data-division="Makushita">Makushita</button>
+            <button data-division="Sandanme">Sandanme</button>
+            <button data-division="Jonidan">Jonidan</button>
+            <button data-division="Jonokuchi">Jonokuchi</button>
+        </div>
+    </section>
+
+    <section class="search-section">
+        <label for="wrestler-search" id="search-label">
+            Sök efter sumobrottare
+        </label>
+        <input
+            type="search"
+            id="wrestler-search"
+            placeholder="Skriv ett namn, t.ex. Onosato"
+            autocomplete="off"
+        >
+    </section>
+
+    <section class="panel">
+        <h2 id="ranking-title">Ranking – Makuuchi</h2>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th id="th-name">Sumobrottare</th>
+                        <th id="th-rank">Ranking</th>
+                        <th id="th-wins">Vinster</th>
+                        <th id="th-losses">Förluster</th>
+                    </tr>
+                </thead>
+                <tbody id="ranking-body">
+                    <tr>
+                        <td colspan="4">
+                            Turneringsresultat kommer snart.
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    
+    <section class="youtube-section">
+        <div class="youtube-card">
+            <div class="youtube-content">
+                <h2 id="youtube-title">Grand Sumo – Daily Highlights</h2>
+
+                <p id="youtube-description">
+                    Se dagliga sumohöjdpunkter från NHK WORLD-JAPAN.
+                </p>
+
+                <div class="youtube-player">
+                    <iframe
+                        src="https://www.youtube-nocookie.com/embed/videoseries?list=PLFEzXnIQVwV9JgQkOMJZM23G8g-wBBWKf"
+                        title="NHK WORLD-JAPAN Grand Sumo Highlights"
+                        allowfullscreen
+                        loading="lazy">
+                    </iframe>
+                </div>
+
+                <a
+                    id="youtube-link"
+                    href="https://www.youtube.com/watch?v=z1G9900AjYc&list=PLFEzXnIQVwV9JgQkOMJZM23G8g-wBBWKf"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    <span id="youtube-button-text">
+                        Öppna hela spellistan på YouTube
+                    </span>
+                    ↗
+                </a>
+            </div>
+        </div>
+    </section>
+
+
+</main>
+
+<!-- Wrestler profile -->
+<dialog id="wrestler-profile">
+    <div class="profile-content">
+        <button id="close-profile" type="button" aria-label="Stäng profil">
+            &times;
+        </button>
+
+        <div class="profile-header">
+            <img
+                id="profile-image"
+                alt=""
+                loading="lazy"
+                hidden
+            >
+
+            <div class="profile-header-text">
+                <h2 id="profile-name"></h2>
+                <p id="profile-japanese-name"></p>
+            </div>
+        </div>
+
+        <div class="profile-details">
+            <p><strong id="profile-rank-label">Ranking:</strong>
+               <span id="profile-rank"></span></p>
+
+            <p><strong id="profile-heya-label">Stall:</strong>
+               <span id="profile-heya"></span></p>
+
+            <p><strong id="profile-height-label">Längd:</strong>
+               <span id="profile-height"></span></p>
+
+            <p><strong id="profile-weight-label">Vikt:</strong>
+               <span id="profile-weight"></span></p>
+        </div>
+        <section class="profile-history">
+            <h3 id="profile-history-title">Turneringshistorik</h3>
+
+            <div class="history-table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th id="history-tournament">Turnering</th>
+                            <th id="history-rank">Ranking</th>
+                            <th id="history-wins">Vinster</th>
+                            <th id="history-losses">Förluster</th>
+                        </tr>
+                    </thead>
+                    <tbody id="profile-history-body"></tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+</dialog>
+
+<script src="script.js"></script>
+</body>
+</html>

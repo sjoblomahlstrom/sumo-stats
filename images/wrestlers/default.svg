@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500">
+  <rect width="400" height="500" fill="#0b1f3b"/>
+  <circle cx="200" cy="190" r="155" fill="#a83232"/>
+  <text x="200" y="105" text-anchor="middle"
+        font-size="65" fill="#f5e6c8">相撲</text>
+  <circle cx="200" cy="175" r="32" fill="#f5e6c8"/>
+  <path d="M130 230 Q200 160 270 230 L300 340 L100 340 Z"
+        fill="#f5e6c8"/>
+  <path d="M100 340 Q200 390 300 340"
+        stroke="#182b48" stroke-width="30" fill="none"/>
+  <text x="200" y="420" text-anchor="middle"
+        font-size="39" font-weight="bold" fill="#f5e6c8">SUMO</text>
+  <text x="200" y="465" text-anchor="middle"
+        font-size="34" font-weight="bold" fill="#f5e6c8">STATS</text>
+</svg>

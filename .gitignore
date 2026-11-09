@@ -1,0 +1,17 @@
+# Säkerhetskopior
+backups/
+*.before-*
+
+# Python
+__pycache__/
+*.pyc
+
+# Lokala testskript
+test_*.py
+download_test_images.py
+
+# Tillfälliga filer
+*.tmp
+*.log
+.env
+.env.*
