@@ -12,6 +12,7 @@
     <nav>
         <div class="logo">相撲 SUMO STATS</div>
         <div>
+            
             <button id="sv-btn" class="active">Svenska</button>
             <button id="en-btn">English</button>
             <a
@@ -24,6 +25,7 @@
             >
                 ▶ NHK WORLD-JAPAN (YouTube) ↗
             </a>
+<a href="#live-results" id="live-nav-link" class="live-nav-link">🥋 Liveresultat</a>
         </div>
     </nav>
 </header>
@@ -101,6 +103,76 @@
     </section>
 
     
+
+    <section id="live-results" class="panel live-results-section">
+        <h2 id="live-title">🥋 Liveresultat</h2>
+        <p id="live-description">
+            Se dagens matcher, vinnare och vinnargrepp.
+        </p>
+
+        <div class="live-filters">
+            <label for="live-tournament">Turnering</label>
+            <select id="live-tournament">
+                <option value="202611">November 2026</option>
+                <option value="202609">September 2026</option>
+                <option value="202607">Juli 2026</option>
+                <option value="202605">Maj 2026</option>
+                <option value="202603">Mars 2026</option>
+                <option value="202601">Januari 2026</option>
+            </select>
+
+            <label for="live-division">Division</label>
+            <select id="live-division">
+                <option value="Makuuchi">Makuuchi</option>
+                <option value="Juryo">Jūryō</option>
+                <option value="Makushita">Makushita</option>
+                <option value="Sandanme">Sandanme</option>
+                <option value="Jonidan">Jonidan</option>
+                <option value="Jonokuchi">Jonokuchi</option>
+            </select>
+
+            <label for="live-day">Turneringsdag</label>
+            <select id="live-day">
+                <option value="1">Dag 1</option>
+                <option value="2">Dag 2</option>
+                <option value="3">Dag 3</option>
+                <option value="4">Dag 4</option>
+                <option value="5">Dag 5</option>
+                <option value="6">Dag 6</option>
+                <option value="7">Dag 7</option>
+                <option value="8">Dag 8</option>
+                <option value="9">Dag 9</option>
+                <option value="10">Dag 10</option>
+                <option value="11">Dag 11</option>
+                <option value="12">Dag 12</option>
+                <option value="13">Dag 13</option>
+                <option value="14">Dag 14</option>
+                <option value="15">Dag 15</option>
+            </select>
+        </div>
+
+        <p id="live-status">Välj turnering, division och dag.</p>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Match</th>
+                        <th>Öst</th>
+                        <th>Väst</th>
+                        <th>Vinnare</th>
+                        <th>Vinnargrepp (kimarite)</th>
+                    </tr>
+                </thead>
+                <tbody id="live-results-body">
+                    <tr>
+                        <td colspan="5">Matchresultaten laddas senare.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
     <section class="youtube-section">
         <div class="youtube-card">
             <div class="youtube-content">
@@ -191,5 +263,6 @@
 </dialog>
 
 <script src="script.js"></script>
+<script src="live-results.js"></script>
 </body>
 </html>

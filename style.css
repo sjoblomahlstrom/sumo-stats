@@ -477,3 +477,66 @@ th {
     }
 }
 
+
+/* Stor och tydlig knapp för Liveresultat */
+#live-nav-link {
+    display: inline-block;
+    background: #16803c;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 16px 28px;
+    border-radius: 12px;
+    text-decoration: none;
+    margin: 8px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#live-nav-link:hover {
+    background: #0d5e2b;
+    transform: scale(1.05);
+}
+
+#live-nav-link:focus-visible {
+    outline: 3px solid white;
+    outline-offset: 3px;
+}
+
+/* Större resultattavla */
+.live-results-section {
+    width: 100%;
+    max-width: 1500px;
+    margin: 40px auto;
+    padding: 35px;
+    box-sizing: border-box;
+}
+
+.live-results-section h2 {
+    font-size: 32px;
+}
+
+.live-results-section table {
+    width: 100%;
+    font-size: 17px;
+}
+
+.live-results-section th,
+.live-results-section td {
+    padding: 16px 20px;
+}
+
+.live-filters select {
+    font-size: 17px;
+    padding: 12px;
+}
+
+@media (max-width: 768px) {
+    .live-results-section {
+        padding: 15px;
+    }
+
+    .live-results-section table {
+        font-size: 14px;
+    }
+}

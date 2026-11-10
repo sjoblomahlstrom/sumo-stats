@@ -6,7 +6,7 @@
       "name": "Onosato",
       "division": "Makuuchi",
       "rank": "Yokozuna 1 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -14,7 +14,7 @@
       "name": "Aonishiki",
       "division": "Makuuchi",
       "rank": "Ozeki 1 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -23,7 +23,7 @@
       "division": "Makuuchi",
       "rank": "Ozeki 2 East",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 615,
@@ -31,14 +31,14 @@
       "division": "Makuuchi",
       "rank": "Sekiwake 1 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 71,
       "name": "Churanoumi",
       "division": "Makuuchi",
       "rank": "Komusubi 1 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 2
     },
     {
@@ -47,7 +47,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 1 East",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 28,
@@ -55,7 +55,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 2 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 44,
@@ -63,14 +63,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 3 East",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 5,
       "name": "Takerufuji",
       "division": "Makuuchi",
       "rank": "Maegashira 4 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -79,14 +79,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 5 East",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8,
       "name": "Kotoshoho",
       "division": "Makuuchi",
       "rank": "Maegashira 6 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -94,7 +94,7 @@
       "name": "Wakamotoharu",
       "division": "Makuuchi",
       "rank": "Maegashira 7 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -103,14 +103,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 8 East",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 61,
       "name": "Oshoma",
       "division": "Makuuchi",
       "rank": "Maegashira 9 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -119,14 +119,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 10 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 37,
       "name": "Takanosho",
       "division": "Makuuchi",
       "rank": "Maegashira 11 East",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -135,7 +135,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 12 East",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8866,
@@ -143,14 +143,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 13 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 83,
       "name": "Tokihayate",
       "division": "Makuuchi",
       "rank": "Maegashira 14 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 2
     },
     {
@@ -158,7 +158,7 @@
       "name": "Tamawashi",
       "division": "Makuuchi",
       "rank": "Maegashira 15 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -167,7 +167,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 16 East",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 378,
@@ -175,7 +175,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 17 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 19,
@@ -183,14 +183,14 @@
       "division": "Makuuchi",
       "rank": "Yokozuna 1 West",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 20,
       "name": "Kotozakura",
       "division": "Makuuchi",
       "rank": "Ozeki 1 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -198,7 +198,7 @@
       "name": "Atamifuji",
       "division": "Makuuchi",
       "rank": "Sekiwake 1 West",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -206,7 +206,7 @@
       "name": "Yoshinofuji",
       "division": "Makuuchi",
       "rank": "Komusubi 1 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -214,7 +214,7 @@
       "name": "Fujiryoga",
       "division": "Makuuchi",
       "rank": "Maegashira 1 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -223,14 +223,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 2 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 3,
       "name": "Hakunofuji",
       "division": "Makuuchi",
       "rank": "Maegashira 3 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -239,7 +239,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 4 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 56,
@@ -247,7 +247,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 5 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 112,
@@ -255,14 +255,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 6 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 50,
       "name": "Kinbozan",
       "division": "Makuuchi",
       "rank": "Maegashira 7 West",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -270,7 +270,7 @@
       "name": "Nishikifuji",
       "division": "Makuuchi",
       "rank": "Maegashira 8 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 2
     },
     {
@@ -279,14 +279,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 9 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 41,
       "name": "Oho",
       "division": "Makuuchi",
       "rank": "Maegashira 10 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -295,7 +295,7 @@
       "division": "Makuuchi",
       "rank": "Maegashira 11 West",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 22,
@@ -303,14 +303,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 12 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8859,
       "name": "Asasuiryu",
       "division": "Makuuchi",
       "rank": "Maegashira 13 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -318,7 +318,7 @@
       "name": "Dewanoryu",
       "division": "Makuuchi",
       "rank": "Maegashira 14 West",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -327,14 +327,14 @@
       "division": "Makuuchi",
       "rank": "Maegashira 15 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8855,
       "name": "Kyokukaiyu",
       "division": "Makuuchi",
       "rank": "Maegashira 16 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -343,14 +343,14 @@
       "division": "Juryo",
       "rank": "Juryo 1 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 78,
       "name": "Kazekeno",
       "division": "Juryo",
       "rank": "Juryo 2 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -359,14 +359,14 @@
       "division": "Juryo",
       "rank": "Juryo 3 East",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8865,
       "name": "Kazuma",
       "division": "Juryo",
       "rank": "Juryo 4 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 2
     },
     {
@@ -375,7 +375,7 @@
       "division": "Juryo",
       "rank": "Juryo 5 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 49,
@@ -383,14 +383,14 @@
       "division": "Juryo",
       "rank": "Juryo 6 East",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 287,
       "name": "Tanji",
       "division": "Juryo",
       "rank": "Juryo 7 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -399,14 +399,14 @@
       "division": "Juryo",
       "rank": "Juryo 8 East",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 26,
       "name": "Mitakeumi",
       "division": "Juryo",
       "rank": "Juryo 9 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -414,7 +414,7 @@
       "name": "Enho",
       "division": "Juryo",
       "rank": "Juryo 10 East",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -423,14 +423,14 @@
       "division": "Juryo",
       "rank": "Juryo 11 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 9103,
       "name": "Asahifuji",
       "division": "Juryo",
       "rank": "Juryo 12 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -439,7 +439,7 @@
       "division": "Juryo",
       "rank": "Juryo 13 East",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 77,
@@ -447,7 +447,7 @@
       "division": "Juryo",
       "rank": "Juryo 14 East",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 8853,
@@ -455,14 +455,14 @@
       "division": "Juryo",
       "rank": "Juryo 1 West",
       "wins": 1,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 21,
       "name": "Tobizaru",
       "division": "Juryo",
       "rank": "Juryo 2 West",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -471,14 +471,14 @@
       "division": "Juryo",
       "rank": "Juryo 3 West",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 142,
       "name": "Kayo",
       "division": "Juryo",
       "rank": "Juryo 4 West",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -486,7 +486,7 @@
       "name": "Wakatakakage",
       "division": "Juryo",
       "rank": "Juryo 5 West",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -494,7 +494,7 @@
       "name": "Nabatame",
       "division": "Juryo",
       "rank": "Juryo 6 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 2
     },
     {
@@ -511,7 +511,7 @@
       "division": "Juryo",
       "rank": "Juryo 8 West",
       "wins": 0,
-      "losses": 2
+      "losses": 3
     },
     {
       "id": 98,
@@ -526,7 +526,7 @@
       "name": "Wakanosho",
       "division": "Juryo",
       "rank": "Juryo 10 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 2
     },
     {
@@ -535,14 +535,14 @@
       "division": "Juryo",
       "rank": "Juryo 11 West",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 101,
       "name": "Tamashoho",
       "division": "Juryo",
       "rank": "Juryo 12 West",
-      "wins": 2,
+      "wins": 3,
       "losses": 0
     },
     {
@@ -550,7 +550,7 @@
       "name": "Tokifudo",
       "division": "Juryo",
       "rank": "Juryo 13 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 1
     },
     {
@@ -559,7 +559,7 @@
       "division": "Juryo",
       "rank": "Juryo 14 West",
       "wins": 2,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8860,
@@ -574,7 +574,7 @@
       "name": "Nishikigi",
       "division": "Makushita",
       "rank": "Makushita 2 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -582,7 +582,7 @@
       "name": "Gojinyu",
       "division": "Makushita",
       "rank": "Makushita 3 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -591,7 +591,7 @@
       "division": "Makushita",
       "rank": "Makushita 4 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9115,
@@ -599,7 +599,7 @@
       "division": "Makushita",
       "rank": "Makushita 5 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 58,
@@ -614,7 +614,7 @@
       "name": "Ryusho",
       "division": "Makushita",
       "rank": "Makushita 7 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -623,14 +623,14 @@
       "division": "Makushita",
       "rank": "Makushita 8 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8856,
       "name": "Mita",
       "division": "Makushita",
       "rank": "Makushita 9 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -647,7 +647,7 @@
       "division": "Makushita",
       "rank": "Makushita 11 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8874,
@@ -711,7 +711,7 @@
       "division": "Makushita",
       "rank": "Makushita 19 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8876,
@@ -734,7 +734,7 @@
       "name": "Yumenofuji",
       "division": "Makushita",
       "rank": "Makushita 22 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -742,7 +742,7 @@
       "name": "Ikazuchido",
       "division": "Makushita",
       "rank": "Makushita 23 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -783,7 +783,7 @@
       "division": "Makushita",
       "rank": "Makushita 28 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 197,
@@ -791,7 +791,7 @@
       "division": "Makushita",
       "rank": "Makushita 29 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 194,
@@ -806,7 +806,7 @@
       "name": "Oyamada",
       "division": "Makushita",
       "rank": "Makushita 31 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -823,14 +823,14 @@
       "division": "Makushita",
       "rank": "Makushita 33 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 63,
       "name": "Takakento",
       "division": "Makushita",
       "rank": "Makushita 34 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -838,7 +838,7 @@
       "name": "Awanokuni",
       "division": "Makushita",
       "rank": "Makushita 35 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -870,7 +870,7 @@
       "name": "Tenrosei",
       "division": "Makushita",
       "rank": "Makushita 39 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -894,7 +894,7 @@
       "name": "Daimasakari",
       "division": "Makushita",
       "rank": "Makushita 42 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -919,14 +919,14 @@
       "division": "Makushita",
       "rank": "Makushita 45 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 181,
       "name": "Hinataryu",
       "division": "Makushita",
       "rank": "Makushita 46 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -935,7 +935,7 @@
       "division": "Makushita",
       "rank": "Makushita 47 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 376,
@@ -967,14 +967,14 @@
       "division": "Makushita",
       "rank": "Makushita 51 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 97,
       "name": "Asagyokusei",
       "division": "Makushita",
       "rank": "Makushita 52 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -982,7 +982,7 @@
       "name": "Tendozan",
       "division": "Makushita",
       "rank": "Makushita 53 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -991,14 +991,14 @@
       "division": "Makushita",
       "rank": "Makushita 54 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8861,
       "name": "Tokitenran",
       "division": "Makushita",
       "rank": "Makushita 55 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1007,7 +1007,7 @@
       "division": "Makushita",
       "rank": "Makushita 56 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 280,
@@ -1031,14 +1031,14 @@
       "division": "Makushita",
       "rank": "Makushita 59 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 613,
       "name": "Gonoumi",
       "division": "Makushita",
       "rank": "Makushita 60 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1047,14 +1047,14 @@
       "division": "Makushita",
       "rank": "Makushita 1 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8951,
       "name": "Ikarigata",
       "division": "Makushita",
       "rank": "Makushita 2 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1063,7 +1063,7 @@
       "division": "Makushita",
       "rank": "Makushita 3 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 91,
@@ -1086,7 +1086,7 @@
       "name": "Daikisho",
       "division": "Makushita",
       "rank": "Makushita 6 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1119,7 +1119,7 @@
       "division": "Makushita",
       "rank": "Makushita 10 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 120,
@@ -1134,7 +1134,7 @@
       "name": "Haruyama",
       "division": "Makushita",
       "rank": "Makushita 12 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1142,7 +1142,7 @@
       "name": "Gyotoku",
       "division": "Makushita",
       "rank": "Makushita 13 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1151,7 +1151,7 @@
       "division": "Makushita",
       "rank": "Makushita 14 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9085,
@@ -1159,14 +1159,14 @@
       "division": "Makushita",
       "rank": "Makushita 15 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8867,
       "name": "Daikosho",
       "division": "Makushita",
       "rank": "Makushita 16 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1174,7 +1174,7 @@
       "name": "Kurohimeyama",
       "division": "Makushita",
       "rank": "Makushita 17 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1183,7 +1183,7 @@
       "division": "Makushita",
       "rank": "Makushita 18 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 141,
@@ -1198,7 +1198,7 @@
       "name": "Tochimusashi",
       "division": "Makushita",
       "rank": "Makushita 20 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1207,7 +1207,7 @@
       "division": "Makushita",
       "rank": "Makushita 21 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 467,
@@ -1215,7 +1215,7 @@
       "division": "Makushita",
       "rank": "Makushita 22 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 612,
@@ -1254,7 +1254,7 @@
       "name": "Shosei",
       "division": "Makushita",
       "rank": "Makushita 27 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1278,7 +1278,7 @@
       "name": "Kaki",
       "division": "Makushita",
       "rank": "Makushita 30 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1303,7 +1303,7 @@
       "division": "Makushita",
       "rank": "Makushita 33 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 209,
@@ -1327,7 +1327,7 @@
       "division": "Makushita",
       "rank": "Makushita 36 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9136,
@@ -1335,14 +1335,14 @@
       "division": "Makushita",
       "rank": "Makushita 37 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 180,
       "name": "Kaishin",
       "division": "Makushita",
       "rank": "Makushita 38 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1359,7 +1359,7 @@
       "division": "Makushita",
       "rank": "Makushita 40 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 210,
@@ -1367,7 +1367,7 @@
       "division": "Makushita",
       "rank": "Makushita 41 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 95,
@@ -1390,7 +1390,7 @@
       "name": "Yoshiyasu",
       "division": "Makushita",
       "rank": "Makushita 44 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1423,14 +1423,14 @@
       "division": "Makushita",
       "rank": "Makushita 48 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 185,
       "name": "Chiyotora",
       "division": "Makushita",
       "rank": "Makushita 49 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1487,14 +1487,14 @@
       "division": "Makushita",
       "rank": "Makushita 56 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 586,
       "name": "Kazeeidai",
       "division": "Makushita",
       "rank": "Makushita 57 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1526,7 +1526,7 @@
       "name": "Naya",
       "division": "Sandanme",
       "rank": "Sandanme 1 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1574,7 +1574,7 @@
       "name": "Dairinzan",
       "division": "Sandanme",
       "rank": "Sandanme 7 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1607,7 +1607,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 11 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 331,
@@ -1623,7 +1623,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 13 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 506,
@@ -1638,7 +1638,7 @@
       "name": "Kyokutairyu",
       "division": "Sandanme",
       "rank": "Sandanme 15 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -1647,7 +1647,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 16 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9105,
@@ -1679,7 +1679,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 20 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 409,
@@ -1695,7 +1695,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 22 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 129,
@@ -1719,14 +1719,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 25 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9137,
       "name": "Kakizoe",
       "division": "Sandanme",
       "rank": "Sandanme 26 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1743,7 +1743,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 28 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 229,
@@ -1751,7 +1751,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 29 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 434,
@@ -1774,7 +1774,7 @@
       "name": "Miyanokaze",
       "division": "Sandanme",
       "rank": "Sandanme 32 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1790,7 +1790,7 @@
       "name": "Wakaikazuchi",
       "division": "Sandanme",
       "rank": "Sandanme 34 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1815,14 +1815,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 37 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 561,
       "name": "Minorufuji",
       "division": "Sandanme",
       "rank": "Sandanme 38 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1831,7 +1831,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 39 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 610,
@@ -1863,14 +1863,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 43 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 205,
       "name": "Hoshuzan",
       "division": "Sandanme",
       "rank": "Sandanme 44 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -1879,14 +1879,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 45 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 365,
       "name": "Kaishinmaru",
       "division": "Sandanme",
       "rank": "Sandanme 46 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1894,7 +1894,7 @@
       "name": "Tomiyutaka",
       "division": "Sandanme",
       "rank": "Sandanme 47 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1910,7 +1910,7 @@
       "name": "Hakuomaru",
       "division": "Sandanme",
       "rank": "Sandanme 49 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -1927,14 +1927,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 51 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 270,
       "name": "Yurikisho",
       "division": "Sandanme",
       "rank": "Sandanme 52 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1942,7 +1942,7 @@
       "name": "Asasubaru",
       "division": "Sandanme",
       "rank": "Sandanme 53 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -1958,7 +1958,7 @@
       "name": "Nojima",
       "division": "Sandanme",
       "rank": "Sandanme 55 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1966,7 +1966,7 @@
       "name": "Taniguchi",
       "division": "Sandanme",
       "rank": "Sandanme 56 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -1990,7 +1990,7 @@
       "name": "Ryuma",
       "division": "Sandanme",
       "rank": "Sandanme 59 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -1999,7 +1999,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 60 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 238,
@@ -2007,14 +2007,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 61 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 121,
       "name": "Fujiazuma",
       "division": "Sandanme",
       "rank": "Sandanme 62 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2022,7 +2022,7 @@
       "name": "Tenryuyama",
       "division": "Sandanme",
       "rank": "Sandanme 63 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2039,7 +2039,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 65 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 282,
@@ -2055,14 +2055,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 67 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9041,
       "name": "Hikarumusashi",
       "division": "Sandanme",
       "rank": "Sandanme 68 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2070,7 +2070,7 @@
       "name": "Fujiso",
       "division": "Sandanme",
       "rank": "Sandanme 69 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2079,14 +2079,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 70 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 421,
       "name": "Ishiazuma",
       "division": "Sandanme",
       "rank": "Sandanme 71 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2095,7 +2095,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 72 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 429,
@@ -2103,14 +2103,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 73 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 304,
       "name": "Hitachigo",
       "division": "Sandanme",
       "rank": "Sandanme 74 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2118,7 +2118,7 @@
       "name": "Tochimitsuru",
       "division": "Sandanme",
       "rank": "Sandanme 75 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2142,7 +2142,7 @@
       "name": "Tsukioka",
       "division": "Sandanme",
       "rank": "Sandanme 78 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2159,7 +2159,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 80 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 609,
@@ -2175,14 +2175,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 2 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 357,
       "name": "Tenshoma",
       "division": "Sandanme",
       "rank": "Sandanme 3 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2191,7 +2191,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 4 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8945,
@@ -2199,7 +2199,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 5 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 6,
@@ -2223,14 +2223,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 8 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9087,
       "name": "Yabugasaki",
       "division": "Sandanme",
       "rank": "Sandanme 9 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2238,7 +2238,7 @@
       "name": "Bushozan",
       "division": "Sandanme",
       "rank": "Sandanme 10 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2254,7 +2254,7 @@
       "name": "Oka",
       "division": "Sandanme",
       "rank": "Sandanme 12 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2270,7 +2270,7 @@
       "name": "Denuma",
       "division": "Sandanme",
       "rank": "Sandanme 14 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2279,14 +2279,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 15 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 130,
       "name": "Okinohama",
       "division": "Sandanme",
       "rank": "Sandanme 16 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2295,7 +2295,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 17 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 301,
@@ -2326,7 +2326,7 @@
       "name": "Chiyonoo",
       "division": "Sandanme",
       "rank": "Sandanme 21 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2342,7 +2342,7 @@
       "name": "Kyokutendo",
       "division": "Sandanme",
       "rank": "Sandanme 23 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2350,7 +2350,7 @@
       "name": "Tokinohira",
       "division": "Sandanme",
       "rank": "Sandanme 24 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2390,7 +2390,7 @@
       "name": "Wakanofuji",
       "division": "Sandanme",
       "rank": "Sandanme 29 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2399,7 +2399,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 30 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 516,
@@ -2415,7 +2415,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 32 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 592,
@@ -2431,14 +2431,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 34 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 585,
       "name": "Gonowaka",
       "division": "Sandanme",
       "rank": "Sandanme 35 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2470,7 +2470,7 @@
       "name": "Otsuna",
       "division": "Sandanme",
       "rank": "Sandanme 39 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2478,7 +2478,7 @@
       "name": "Oginohama",
       "division": "Sandanme",
       "rank": "Sandanme 40 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -2495,7 +2495,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 42 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 283,
@@ -2543,7 +2543,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 48 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8880,
@@ -2559,7 +2559,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 50 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8903,
@@ -2591,7 +2591,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 54 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9062,
@@ -2615,7 +2615,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 57 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 264,
@@ -2623,7 +2623,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 58 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 326,
@@ -2679,14 +2679,14 @@
       "division": "Sandanme",
       "rank": "Sandanme 65 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 96,
       "name": "Akinoyama",
       "division": "Sandanme",
       "rank": "Sandanme 66 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2767,7 +2767,7 @@
       "division": "Sandanme",
       "rank": "Sandanme 76 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8879,
@@ -2798,7 +2798,7 @@
       "name": "Soseizan",
       "division": "Sandanme",
       "rank": "Sandanme 80 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2815,7 +2815,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 2 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9122,
@@ -2838,7 +2838,7 @@
       "name": "Daitenshin",
       "division": "Jonidan",
       "rank": "Jonidan 5 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2870,7 +2870,7 @@
       "name": "Souga",
       "division": "Jonidan",
       "rank": "Jonidan 9 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2879,14 +2879,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 10 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 458,
       "name": "Shinseido",
       "division": "Jonidan",
       "rank": "Jonidan 11 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2895,7 +2895,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 12 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 358,
@@ -2911,7 +2911,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 14 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 523,
@@ -2927,14 +2927,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 16 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 533,
       "name": "Tsurunoumi",
       "division": "Jonidan",
       "rank": "Jonidan 17 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2943,7 +2943,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 18 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 80,
@@ -2958,7 +2958,7 @@
       "name": "Tsukubayama",
       "division": "Jonidan",
       "rank": "Jonidan 20 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2967,14 +2967,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 21 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 445,
       "name": "Satsumasho",
       "division": "Jonidan",
       "rank": "Jonidan 22 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -2998,7 +2998,7 @@
       "name": "Matsuzawa",
       "division": "Jonidan",
       "rank": "Jonidan 25 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3007,7 +3007,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 26 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 522,
@@ -3054,7 +3054,7 @@
       "name": "Shotaimu",
       "division": "Jonidan",
       "rank": "Jonidan 32 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3103,7 +3103,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 38 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9118,
@@ -3111,14 +3111,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 39 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9052,
       "name": "Kazekodai",
       "division": "Jonidan",
       "rank": "Jonidan 40 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3126,7 +3126,7 @@
       "name": "Kyokugosei",
       "division": "Jonidan",
       "rank": "Jonidan 41 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3135,7 +3135,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 42 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8948,
@@ -3151,7 +3151,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 44 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8930,
@@ -3175,7 +3175,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 47 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 450,
@@ -3199,7 +3199,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 50 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 349,
@@ -3215,7 +3215,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 52 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 277,
@@ -3231,7 +3231,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 54 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 477,
@@ -3247,7 +3247,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 56 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 543,
@@ -3263,7 +3263,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 58 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 233,
@@ -3295,14 +3295,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 62 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9064,
       "name": "Umeyama",
       "division": "Jonidan",
       "rank": "Jonidan 63 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3310,7 +3310,7 @@
       "name": "Kuwae",
       "division": "Jonidan",
       "rank": "Jonidan 64 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3335,7 +3335,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 67 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 563,
@@ -3399,14 +3399,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 75 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 565,
       "name": "Chiyoaoi",
       "division": "Jonidan",
       "rank": "Jonidan 76 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3503,7 +3503,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 88 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 444,
@@ -3518,7 +3518,7 @@
       "name": "Bishomaru",
       "division": "Jonidan",
       "rank": "Jonidan 90 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3527,7 +3527,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 91 East",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9078,
@@ -3542,7 +3542,7 @@
       "name": "Sachinoyama",
       "division": "Jonidan",
       "rank": "Jonidan 93 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3583,14 +3583,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 98 East",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9131,
       "name": "Kotoyoshino",
       "division": "Jonidan",
       "rank": "Jonidan 99 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3598,7 +3598,7 @@
       "name": "Toranomaru",
       "division": "Jonidan",
       "rank": "Jonidan 100 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3607,7 +3607,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 1 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 271,
@@ -3622,7 +3622,7 @@
       "name": "Hamadayama",
       "division": "Jonidan",
       "rank": "Jonidan 3 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3631,7 +3631,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 4 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8909,
@@ -3654,7 +3654,7 @@
       "name": "Kakusho",
       "division": "Jonidan",
       "rank": "Jonidan 7 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3663,7 +3663,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 8 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9055,
@@ -3702,7 +3702,7 @@
       "name": "Kumanoryu",
       "division": "Jonidan",
       "rank": "Jonidan 13 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3718,7 +3718,7 @@
       "name": "Amakaze",
       "division": "Jonidan",
       "rank": "Jonidan 15 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3767,7 +3767,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 21 West",
       "wins": 0,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 248,
@@ -3798,7 +3798,7 @@
       "name": "Shimanishiki",
       "division": "Jonidan",
       "rank": "Jonidan 25 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3807,14 +3807,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 26 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9094,
       "name": "Azuma",
       "division": "Jonidan",
       "rank": "Jonidan 27 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3823,7 +3823,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 28 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9090,
@@ -3831,14 +3831,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 29 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 408,
       "name": "Asasorai",
       "division": "Jonidan",
       "rank": "Jonidan 30 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3847,7 +3847,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 31 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8912,
@@ -3862,7 +3862,7 @@
       "name": "Akatora",
       "division": "Jonidan",
       "rank": "Jonidan 33 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3871,7 +3871,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 34 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 8923,
@@ -3879,14 +3879,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 35 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 426,
       "name": "Ryuseiyama",
       "division": "Jonidan",
       "rank": "Jonidan 36 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3894,7 +3894,7 @@
       "name": "Ibata",
       "division": "Jonidan",
       "rank": "Jonidan 37 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3911,14 +3911,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 39 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 9068,
       "name": "Hokutonada",
       "division": "Jonidan",
       "rank": "Jonidan 40 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3926,7 +3926,7 @@
       "name": "Tsurugifuji",
       "division": "Jonidan",
       "rank": "Jonidan 41 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -3935,14 +3935,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 42 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8890,
       "name": "Masarufuji",
       "division": "Jonidan",
       "rank": "Jonidan 43 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3982,7 +3982,7 @@
       "name": "Kaiyuma",
       "division": "Jonidan",
       "rank": "Jonidan 48 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -3990,7 +3990,7 @@
       "name": "Chiyotaisei",
       "division": "Jonidan",
       "rank": "Jonidan 49 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -4006,7 +4006,7 @@
       "name": "Kyokuhayate",
       "division": "Jonidan",
       "rank": "Jonidan 51 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -4022,7 +4022,7 @@
       "name": "Tosoumi",
       "division": "Jonidan",
       "rank": "Jonidan 53 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4038,7 +4038,7 @@
       "name": "Kazeoka",
       "division": "Jonidan",
       "rank": "Jonidan 55 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4054,7 +4054,7 @@
       "name": "Sumiyoshi",
       "division": "Jonidan",
       "rank": "Jonidan 57 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -4071,14 +4071,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 59 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 519,
       "name": "Wakahizen",
       "division": "Jonidan",
       "rank": "Jonidan 60 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4119,14 +4119,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 65 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 359,
       "name": "Sadanokuni",
       "division": "Jonidan",
       "rank": "Jonidan 66 West",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -4135,14 +4135,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 67 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 525,
       "name": "Okuni",
       "division": "Jonidan",
       "rank": "Jonidan 68 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4167,14 +4167,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 71 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 364,
       "name": "Daisho",
       "division": "Jonidan",
       "rank": "Jonidan 72 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4231,14 +4231,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 79 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 465,
       "name": "Koga",
       "division": "Jonidan",
       "rank": "Jonidan 80 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4247,7 +4247,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 81 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9063,
@@ -4262,7 +4262,7 @@
       "name": "Banju",
       "division": "Jonidan",
       "rank": "Jonidan 83 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4271,14 +4271,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 84 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9149,
       "name": "Chiyoshinkai",
       "division": "Jonidan",
       "rank": "Jonidan 85 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4286,7 +4286,7 @@
       "name": "Fujinoteru",
       "division": "Jonidan",
       "rank": "Jonidan 86 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4295,7 +4295,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 87 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 236,
@@ -4310,7 +4310,7 @@
       "name": "Tomimaru",
       "division": "Jonidan",
       "rank": "Jonidan 89 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4335,7 +4335,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 92 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 598,
@@ -4383,7 +4383,7 @@
       "division": "Jonidan",
       "rank": "Jonidan 98 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8932,
@@ -4399,14 +4399,14 @@
       "division": "Jonidan",
       "rank": "Jonidan 100 West",
       "wins": 1,
-      "losses": 0
+      "losses": 1
     },
     {
       "id": 499,
       "name": "Hirose",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 1 East",
-      "wins": 1,
+      "wins": 2,
       "losses": 0
     },
     {
@@ -4414,7 +4414,7 @@
       "name": "Ikazuchiarata",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 2 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4486,7 +4486,7 @@
       "name": "Terunosato",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 11 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4518,7 +4518,7 @@
       "name": "Moriurara",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 15 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4566,7 +4566,7 @@
       "name": "Onojo",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 21 East",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4583,7 +4583,7 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 1 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 485,
@@ -4598,7 +4598,7 @@
       "name": "Kotohiranuma",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 3 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4607,7 +4607,7 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 4 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9083,
@@ -4615,14 +4615,14 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 5 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 582,
       "name": "Sadanojo",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 6 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4639,7 +4639,7 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 8 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 8899,
@@ -4654,7 +4654,7 @@
       "name": "Kazenohana",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 10 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4671,7 +4671,7 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 12 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 595,
@@ -4679,7 +4679,7 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 13 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9114,
@@ -4703,14 +4703,14 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 16 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 591,
       "name": "Anzakura",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 17 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4718,7 +4718,7 @@
       "name": "Jokoki",
       "division": "Jonokuchi",
       "rank": "Jonokuchi 18 West",
-      "wins": 0,
+      "wins": 1,
       "losses": 1
     },
     {
@@ -4735,7 +4735,7 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 20 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     },
     {
       "id": 9133,
@@ -4743,7 +4743,7 @@
       "division": "Jonokuchi",
       "rank": "Jonokuchi 21 West",
       "wins": 0,
-      "losses": 1
+      "losses": 2
     }
   ]
 }
