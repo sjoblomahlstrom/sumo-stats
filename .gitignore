@@ -15,3 +15,13 @@ download_test_images.py
 *.log
 .env
 .env.*
+
+# Extra säkerhetskopior
+*.backup-*
+*.backup
+
+# ZIP-arkiv
+*.zip
+
+# Misslyckade datahämtningar
+*-failed.json

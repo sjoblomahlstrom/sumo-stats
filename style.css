@@ -540,3 +540,281 @@ th {
         font-size: 14px;
     }
 }
+
+/* Sumo Stats – Wrestler Comparison */
+
+.compare-section {
+    margin-top: 24px;
+    padding: 20px;
+    border: 1px solid rgba(180, 145, 85, 0.45);
+    border-radius: 14px;
+    background: var(--panel-bg, rgba(128, 128, 128, 0.06));
+}
+
+.compare-section[hidden] {
+    display: none !important;
+}
+
+.compare-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 18px;
+}
+
+.compare-heading h3 {
+    margin: 0;
+}
+
+#close-compare-btn {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    border: 1px solid rgba(180, 145, 85, 0.5);
+    border-radius: 50%;
+    background: transparent;
+    color: inherit;
+    font-size: 25px;
+    line-height: 1;
+    cursor: pointer;
+}
+
+#close-compare-btn:hover {
+    background: rgba(180, 145, 85, 0.18);
+}
+
+#compare-select {
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    margin: 10px 0 20px;
+    padding: 11px 12px;
+    border: 1px solid rgba(180, 145, 85, 0.5);
+    border-radius: 8px;
+    background: var(--panel-bg, transparent);
+    color: inherit;
+}
+
+.compare-section table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.compare-section th,
+.compare-section td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+    overflow-wrap: anywhere;
+}
+
+.compare-section thead th {
+    background: rgba(180, 145, 85, 0.14);
+    font-weight: 700;
+}
+
+.compare-section tbody tr:nth-child(even) {
+    background: rgba(128, 128, 128, 0.06);
+}
+
+.compare-section tbody td:first-child {
+    font-weight: 600;
+}
+
+@media (max-width: 600px) {
+    .compare-section {
+        padding: 12px;
+        margin-top: 16px;
+    }
+
+    .compare-section th,
+    .compare-section td {
+        padding: 9px 6px;
+        font-size: 13px;
+    }
+
+    #compare-select {
+        max-width: 100%;
+    }
+}
+
+
+/* Sumo Stats – Career Statistics */
+
+.career-stats {
+    margin: 24px 0;
+    padding: 20px;
+    border: 1px solid rgba(180, 145, 85, 0.45);
+    border-radius: 14px;
+    background: var(--panel-bg, rgba(128, 128, 128, 0.06));
+}
+
+.career-stats h3 {
+    margin: 0 0 18px;
+}
+
+.career-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
+}
+
+.career-stat {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 8px;
+    min-width: 0;
+    padding: 15px;
+    border: 1px solid rgba(180, 145, 85, 0.25);
+    border-radius: 10px;
+    background: rgba(180, 145, 85, 0.07);
+}
+
+.career-stat span {
+    font-size: 13px;
+    opacity: 0.8;
+}
+
+.career-stat strong {
+    font-size: 23px;
+    font-weight: 700;
+    overflow-wrap: anywhere;
+}
+
+#career-sansho {
+    font-size: 15px;
+}
+
+@media (max-width: 600px) {
+    .career-stats {
+        padding: 12px;
+    }
+
+    .career-stats-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+    }
+
+    .career-stat {
+        padding: 11px;
+    }
+
+    .career-stat strong {
+        font-size: 19px;
+    }
+}
+
+/* Dark theme for wrestler comparison search */
+#compare-search,
+#compare-select {
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    padding: 12px;
+    margin: 10px 0 14px;
+    background-color: #263244;
+    color: #ffffff;
+    border: 1px solid #756548;
+    border-radius: 8px;
+    font-size: 15px;
+    color-scheme: dark;
+}
+
+#compare-select option {
+    background-color: #263244;
+    color: #ffffff;
+}
+
+/* Clickable wrestler search results */
+#compare-search-results {
+    width: 100%;
+    max-width: 420px;
+    max-height: 250px;
+    overflow-y: auto;
+    background: #263244;
+    border: 1px solid #756548;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+#compare-search-results[hidden] {
+    display: none;
+}
+
+.compare-search-item {
+    display: block;
+    width: 100%;
+    padding: 12px 15px;
+    background: transparent;
+    color: #ffffff;
+    border: none;
+    border-bottom: 1px solid #3d4859;
+    text-align: left;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.compare-search-item:hover,
+.compare-search-item:focus {
+    background: #394b64;
+    color: #ffbd59;
+}
+
+#compare-search-results p {
+    padding: 12px;
+    color: #ffffff;
+}
+
+
+/* Responsive tournament tables */
+#top-wrestlers-section,
+#calendar-section {
+    min-width: 0;
+}
+
+#top-wrestlers-section .table-container,
+#calendar-section .table-container {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+#top-wrestlers-section table,
+#calendar-section table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#top-wrestlers-section th,
+#top-wrestlers-section td,
+#calendar-section th,
+#calendar-section td {
+    padding: 12px;
+}
+
+#calendar-section a {
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 600px) {
+    #top-wrestlers-section,
+    #calendar-section {
+        padding: 12px;
+    }
+
+    #top-wrestlers-section table,
+    #calendar-section table {
+        min-width: 480px;
+    }
+
+    #top-wrestlers-section th,
+    #top-wrestlers-section td,
+    #calendar-section th,
+    #calendar-section td {
+        padding: 9px;
+        font-size: 13px;
+    }
+}

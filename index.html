@@ -15,6 +15,7 @@
             
             <button id="sv-btn" class="active">Svenska</button>
             <button id="en-btn">English</button>
+            <button id="ja-btn" lang="ja">日本語</button>
             <a
                 id="youtube-nav-link"
                 class="youtube-nav-link"
@@ -104,6 +105,62 @@
 
     
 
+    <!-- Tournament Top 10 -->
+    <section id="top-wrestlers-section" class="panel">
+        <h2 id="top-wrestlers-title">🏆 Top 10 – Flest vinster</h2>
+
+        <p id="top-wrestlers-description">
+            De bästa brottarna i vald turnering och division.
+        </p>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th id="top-th-position">Placering</th>
+                        <th id="top-th-name">Sumobrottare</th>
+                        <th id="top-th-wins">Vinster</th>
+                        <th id="top-th-losses">Förluster</th>
+                    </tr>
+                </thead>
+
+                <tbody id="top-wrestlers-body">
+                    <tr>
+                        <td colspan="4">Laddar statistik...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Sumo Tournament Calendar -->
+    <section id="calendar-section" class="panel">
+        <h2 id="calendar-title">📅 Turneringskalender 2026</h2>
+
+        <p id="calendar-description">
+            Se årets officiella sumoturneringar, datum och biljettinformation.
+        </p>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th id="calendar-th-month">Månad</th>
+                        <th id="calendar-th-dates">Datum</th>
+                        <th id="calendar-th-location">Plats</th>
+                        <th id="calendar-th-tickets">Biljetter</th>
+                    </tr>
+                </thead>
+
+                <tbody id="calendar-body">
+                    <tr>
+                        <td colspan="4">Turneringskalendern laddas...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
     <section id="live-results" class="panel live-results-section">
         <h2 id="live-title">🥋 Liveresultat</h2>
         <p id="live-description">
@@ -111,7 +168,7 @@
         </p>
 
         <div class="live-filters">
-            <label for="live-tournament">Turnering</label>
+            <label id="live-tournament-label" for="live-tournament">Turnering</label>
             <select id="live-tournament">
                 <option value="202611">November 2026</option>
                 <option value="202609">September 2026</option>
@@ -121,7 +178,7 @@
                 <option value="202601">Januari 2026</option>
             </select>
 
-            <label for="live-division">Division</label>
+            <label id="live-division-label" for="live-division">Division</label>
             <select id="live-division">
                 <option value="Makuuchi">Makuuchi</option>
                 <option value="Juryo">Jūryō</option>
@@ -131,7 +188,7 @@
                 <option value="Jonokuchi">Jonokuchi</option>
             </select>
 
-            <label for="live-day">Turneringsdag</label>
+            <label id="live-day-label" for="live-day">Turneringsdag</label>
             <select id="live-day">
                 <option value="1">Dag 1</option>
                 <option value="2">Dag 2</option>
@@ -157,11 +214,11 @@
             <table>
                 <thead>
                     <tr>
-                        <th>Match</th>
-                        <th>Öst</th>
-                        <th>Väst</th>
-                        <th>Vinnare</th>
-                        <th>Vinnargrepp (kimarite)</th>
+                        <th id="live-th-match">Match</th>
+                        <th id="live-th-east">Öst</th>
+                        <th id="live-th-west">Väst</th>
+                        <th id="live-th-winner">Vinnare</th>
+                        <th id="live-th-kimarite">Vinnargrepp (kimarite)</th>
                     </tr>
                 </thead>
                 <tbody id="live-results-body">
@@ -241,7 +298,117 @@
 
             <p><strong id="profile-weight-label">Vikt:</strong>
                <span id="profile-weight"></span></p>
+
+            <p><strong id="profile-birthdate-label">Födelsedatum:</strong>
+               <span id="profile-birthdate"></span></p>
+
+            <p><strong id="profile-age-label">Ålder:</strong>
+               <span id="profile-age"></span></p>
+
+            <p><strong id="profile-birthplace-label">Födelseort:</strong>
+               <span id="profile-birthplace"></span></p>
+
+            <p><strong id="profile-debut-label">Professionell debut:</strong>
+               <span id="profile-debut"></span></p>
         </div>
+
+        <section id="career-stats-section" class="career-stats">
+            <h3 id="career-stats-title">Karriärstatistik</h3>
+
+            <div class="career-stats-grid">
+                <div class="career-stat">
+                    <span id="career-wins-label">Totala vinster</span>
+                    <strong id="career-wins">—</strong>
+                </div>
+
+                <div class="career-stat">
+                    <span id="career-losses-label">Totala förluster</span>
+                    <strong id="career-losses">—</strong>
+                </div>
+
+                <div class="career-stat">
+                    <span id="career-matches-label">Matcher</span>
+                    <strong id="career-matches">—</strong>
+                </div>
+
+                <div class="career-stat">
+                    <span id="career-basho-label">Turneringar</span>
+                    <strong id="career-basho">—</strong>
+                </div>
+
+                <div class="career-stat">
+                    <span id="career-yusho-label">Mästerskap (Yusho)</span>
+                    <strong id="career-yusho">—</strong>
+                </div>
+
+                <div class="career-stat">
+                    <span id="career-absence-label">Frånvarotillfällen</span>
+                    <strong id="career-absence">—</strong>
+                </div>
+
+                <div class="career-stat">
+                    <span id="career-sansho-label">Specialpriser</span>
+                    <strong id="career-sansho">—</strong>
+                </div>
+            </div>
+        </section>
+
+        <div class="profile-compare">
+            <button
+                id="compare-wrestler-btn"
+                type="button"
+            >
+                ⚔️ Jämför med annan brottare
+            </button>
+        </div>
+
+        <section id="compare-section" class="compare-section" hidden>
+            <div class="compare-heading">
+                <h3 id="compare-title">⚔️ Jämför brottare</h3>
+                <button
+                    id="close-compare-btn"
+                    type="button"
+                    aria-label="Stäng jämförelsen"
+                >×</button>
+            </div>
+
+            <label id="compare-select-label" for="compare-select">
+                Välj en annan brottare:
+            </label>
+
+            <input
+                type="search"
+                id="compare-search"
+                placeholder="Sök brottare..."
+                aria-label="Sök brottare att jämföra"
+                autocomplete="off"
+            >
+
+            <div
+                id="compare-search-results"
+                role="listbox"
+                aria-label="Sökresultat för brottare"
+                hidden
+            ></div>
+
+            <select id="compare-select">
+                <option value="">Välj brottare</option>
+            </select>
+
+            <div class="history-table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th id="compare-stat-header">Statistik</th>
+                            <th id="compare-first-name">Brottare 1</th>
+                            <th id="compare-second-name">Brottare 2</th>
+                        </tr>
+                    </thead>
+                    <tbody id="compare-results"></tbody>
+                </table>
+            </div>
+        </section>
+
         <section class="profile-history">
             <h3 id="profile-history-title">Turneringshistorik</h3>
 

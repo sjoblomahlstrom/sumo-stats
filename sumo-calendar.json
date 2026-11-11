@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "tournaments": [
+    {
+      "id": "202601",
+      "name": "Hatsu Basho",
+      "start": "2026-01-11",
+      "end": "2026-01-25",
+      "city": "Tokyo",
+      "venue": "Ryogoku Kokugikan"
+    },
+    {
+      "id": "202603",
+      "name": "Haru Basho",
+      "start": "2026-03-08",
+      "end": "2026-03-22",
+      "city": "Osaka",
+      "venue": "EDION Arena Osaka"
+    },
+    {
+      "id": "202605",
+      "name": "Natsu Basho",
+      "start": "2026-05-10",
+      "end": "2026-05-24",
+      "city": "Tokyo",
+      "venue": "Ryogoku Kokugikan"
+    },
+    {
+      "id": "202607",
+      "name": "Nagoya Basho",
+      "start": "2026-07-12",
+      "end": "2026-07-26",
+      "city": "Nagoya",
+      "venue": "IG Arena"
+    },
+    {
+      "id": "202609",
+      "name": "Aki Basho",
+      "start": "2026-09-13",
+      "end": "2026-09-27",
+      "city": "Tokyo",
+      "venue": "Ryogoku Kokugikan"
+    },
+    {
+      "id": "202611",
+      "name": "Kyushu Basho",
+      "start": "2026-11-08",
+      "end": "2026-11-22",
+      "city": "Fukuoka",
+      "venue": "Fukuoka Kokusai Center"
+    }
+  ]
+}
