@@ -5,6 +5,7 @@ import shutil
 import tempfile
 import urllib.request
 from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 parser = argparse.ArgumentParser()
@@ -15,12 +16,47 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-BASHO = "202611"
+# Välj aktuell turneringsmånad automatiskt.
+today_japan = datetime.now(ZoneInfo("Asia/Tokyo")).date()
+
+tournament_months = (1, 3, 5, 7, 9, 11)
+
+if today_japan.month not in tournament_months:
+    raise SystemExit(
+        "Ingen ordinarie sumoturnering denna månad."
+    )
+
+BASHO = f"{today_japan.year}{today_japan.month:02d}"
 
 DIVISIONS = [
     "Makuuchi", "Juryo", "Makushita",
     "Sandanme", "Jonidan", "Jonokuchi"
 ]
+
+tournament_url = f"https://www.sumo-api.com/api/basho/{BASHO}"
+tournament_req = urllib.request.Request(
+    tournament_url,
+    headers={"User-Agent": "SumoStats/1.0"}
+)
+
+with urllib.request.urlopen(tournament_req, timeout=30) as response:
+    tournament_info = json.load(response)
+
+if not tournament_info.get("startDate") or not tournament_info.get("endDate"):
+    raise SystemExit("STOPP: Turneringsdatum saknas i Sumo API.")
+
+start_date = datetime.fromisoformat(
+    tournament_info["startDate"].replace("Z", "+00:00")
+).date()
+
+end_date = datetime.fromisoformat(
+    tournament_info["endDate"].replace("Z", "+00:00")
+).date()
+
+if not start_date <= today_japan <= end_date:
+    raise SystemExit(
+        f"Ingen pågående turnering. Datum: {start_date} till {end_date}"
+    )
 
 path = Path(f"tournaments/{BASHO}.json")
 
@@ -50,18 +86,48 @@ for day in range(1, 16):
             with urllib.request.urlopen(req, timeout=30) as r:
                 matches = json.load(r).get("torikumi", [])
 
+            # Kontrollera att matchnumren är sammanhängande.
+            if matches:
+                numbers = [m.get("matchNo") for m in matches]
+
+                if (
+                    not all(type(n) is int and n > 0 for n in numbers)
+                    or sorted(numbers) != list(range(1, len(matches) + 1))
+                ):
+                    errors.append(
+                        f"Felaktiga matchnummer: {division}, dag {day}"
+                    )
+
             # Stoppa om en tidigare tävlingsdag saknar matchlista.
-            tournament_start = datetime.strptime(
-                BASHO + "08", "%Y%m%d"
-            ).replace(tzinfo=timezone.utc)
+            tournament_start = datetime.fromisoformat(
+                tournament_info["startDate"].replace("Z", "+00:00")
+            )
 
             match_date = tournament_start + timedelta(days=day - 1)
-            today = datetime.now(timezone.utc).date()
+            today = datetime.now(ZoneInfo("Asia/Tokyo")).date()
 
-            if match_date.date() < today and not matches:
-                errors.append(
-                    f"Saknade matcher: {division}, dag {day}"
-                )
+            if match_date.date() < today:
+                if not matches:
+                    errors.append(
+                        f"Saknade matcher: {division}, dag {day}"
+                    )
+                elif any(not m.get("winnerId") for m in matches):
+                    errors.append(
+                        f"Ofärdiga matcher: {division}, dag {day}"
+                    )
+
+            # Kontrollera att dagens matcher är avgjorda
+            # i samtliga sex divisioner.
+            if match_date.date() == today:
+                if not matches:
+                    errors.append(
+                        f"Dag {day}: Matchlista saknas för {division}."
+                    )
+                elif any(not m.get("winnerId") for m in matches):
+                    errors.append(
+                        f"Dag {day}: Alla matcher är inte avgjorda "
+                        f"i {division}."
+                    )
 
             for match in matches:
                 match_id = match.get("id")
@@ -73,6 +139,11 @@ for day in range(1, 16):
 
                 winner = match.get("winnerId")
                 if not winner:
+                    if match_date.date() <= today:
+                        errors.append(
+                            f"Match saknar vinnare: {division}, "
+                            f"dag {day}, match {match_id}"
+                        )
                     continue
 
                 east = match.get("eastId")
