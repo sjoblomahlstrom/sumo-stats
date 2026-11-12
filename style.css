@@ -988,3 +988,33 @@ th {
         padding: 12px 14px;
     }
 }
+
+/* Sumo AI – korrigera textkontrast */
+
+#ai-chat-messages {
+    background-color: #f1f5f9 !important;
+    color: #172033 !important;
+}
+
+#ai-chat-messages .ai-message-bot,
+#ai-chat-messages .ai-message-bot * {
+    color: #172033 !important;
+}
+
+#ai-chat-messages .ai-message-user,
+#ai-chat-messages .ai-message-user * {
+    color: #ffffff !important;
+}
+
+#ai-chat-messages .ai-message-user {
+    background-color: #2563eb !important;
+}
+
+#ai-chat-messages .ai-message-bot {
+    background-color: #ffffff !important;
+}
+
+#ai-chat-messages .ai-message-content {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
