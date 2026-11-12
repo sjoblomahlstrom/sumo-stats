@@ -11,8 +11,21 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function addMessage(sender, text) {
-        const message = document.createElement("p");
-        message.textContent = sender + ": " + text;
+        const message = document.createElement("div");
+        message.className = sender === "Du"
+            ? "ai-message ai-message-user"
+            : "ai-message ai-message-bot";
+
+        const label = document.createElement("strong");
+        label.className = "ai-message-label";
+        label.textContent = sender;
+
+        const content = document.createElement("div");
+        content.className = "ai-message-content";
+        content.textContent = text;
+
+        message.appendChild(label);
+        message.appendChild(content);
         messages.appendChild(message);
         messages.scrollTop = messages.scrollHeight;
     }

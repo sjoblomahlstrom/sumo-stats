@@ -900,3 +900,91 @@ th {
         width: 100%;
     }
 }
+
+/* Sumo AI – tydligare och mer lättläst chatt */
+
+.sumo-ai-section .ai-chat-messages {
+    background: #f8fafc;
+    color: #172033;
+    border: 1px solid #cbd5e1;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.sumo-ai-section .ai-chat-messages * {
+    color: #172033;
+}
+
+.sumo-ai-section .ai-chat-messages p {
+    margin: 0 0 14px;
+    line-height: 1.7;
+    overflow-wrap: anywhere;
+}
+
+.sumo-ai-section .ai-chat-messages strong {
+    font-weight: 700;
+}
+
+.sumo-ai-section .ai-chat-messages p:last-child {
+    margin-bottom: 0;
+}
+
+/* Sumo AI – moderna chattbubblor */
+
+.sumo-ai-section .ai-chat-messages {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    background: #f1f5f9;
+    padding: 20px;
+    border-radius: 14px;
+}
+
+.sumo-ai-section .ai-message {
+    max-width: 85%;
+    padding: 14px 18px;
+    border-radius: 14px;
+    overflow-wrap: anywhere;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.sumo-ai-section .ai-message-user {
+    align-self: flex-end;
+    background: #2563eb;
+    color: #ffffff;
+}
+
+.sumo-ai-section .ai-message-bot {
+    align-self: flex-start;
+    background: #ffffff;
+    color: #172033;
+    border: 1px solid #cbd5e1;
+}
+
+.sumo-ai-section .ai-message-user * {
+    color: #ffffff;
+}
+
+.sumo-ai-section .ai-message-bot * {
+    color: #172033;
+}
+
+.sumo-ai-section .ai-message-label {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.sumo-ai-section .ai-message-content {
+    white-space: pre-wrap;
+    line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+    .sumo-ai-section .ai-message {
+        max-width: 95%;
+        padding: 12px 14px;
+    }
+}
