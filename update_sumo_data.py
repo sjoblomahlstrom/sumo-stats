@@ -208,7 +208,7 @@ if args.apply:
                     ensure_ascii=False,
                     indent=2
                 )
-                temp.write("\\n")
+                temp.write("\n")
 
             os.replace(temp_name, path)
 
