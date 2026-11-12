@@ -27,6 +27,7 @@
                 ▶ NHK WORLD-JAPAN (YouTube) ↗
             </a>
 <a href="#live-results" id="live-nav-link" class="live-nav-link">🥋 Liveresultat</a>
+            <a href="#sumo-ai" id="ai-nav-link" class="live-nav-link">🤖 AI Assistant</a>
         </div>
     </nav>
 </header>
@@ -263,6 +264,47 @@
     </section>
 
 
+
+    <!-- Sumo AI Assistant -->
+    <section id="sumo-ai" class="panel sumo-ai-section">
+        <h2 id="ai-title">🤖 Sumo AI Assistant</h2>
+
+        <p id="ai-description">
+            Ställ frågor om sumobrottning, ranking och turneringar.
+        </p>
+
+        <div id="ai-chat-messages"
+             class="ai-chat-messages"
+             role="log"
+             aria-live="polite">
+            <p>
+                👋 Välkommen! Här kommer du snart
+                kunna prata med vår AI-assistent.
+            </p>
+        </div>
+
+        <form id="ai-chat-form">
+            <label for="ai-question">Din fråga</label>
+
+            <input
+                type="text"
+                id="ai-question"
+                placeholder="Fråga något om sumo..."
+                autocomplete="off"
+                maxlength="500"
+                required
+            >
+
+            <button type="submit" id="ai-send-btn" disabled>
+                Skicka
+            </button>
+        </form>
+
+        <p id="ai-status">
+            AI-funktionen är under utveckling.
+        </p>
+    </section>
+
 </main>
 
 <!-- Wrestler profile -->
@@ -431,5 +473,6 @@
 
 <script src="script.js"></script>
 <script src="live-results.js"></script>
+<script src="sumo-ai.js"></script>
 </body>
 </html>
