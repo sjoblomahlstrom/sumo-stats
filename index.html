@@ -26,6 +26,7 @@
             >
                 ▶ NHK WORLD-JAPAN (YouTube) ↗
             </a>
+<a href="#future-tournaments" id="future-nav-link" class="live-nav-link">📅 Kommande turneringar</a>
 <a href="#live-results" id="live-nav-link" class="live-nav-link">🥋 Liveresultat</a>
             <a href="#sumo-ai" id="ai-nav-link" class="live-nav-link">🤖 AI Assistant</a>
         </div>
@@ -158,6 +159,38 @@
                         <td colspan="4">Turneringskalendern laddas...</td>
                     </tr>
                 </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Future Sumo Tournaments 2027-2031 -->
+    <section id="future-tournaments" class="panel">
+        <h2 id="future-title">📅 Kommande turneringar 2027–2031</h2>
+
+        <p id="future-description">
+            Se planerade sumoturneringar under de kommande fem åren.
+        </p>
+
+        <label for="future-year" id="future-year-label">Välj år</label>
+        <select id="future-year">
+            <option value="2027">2027</option>
+            <option value="2028">2028</option>
+            <option value="2029">2029</option>
+            <option value="2030">2030</option>
+            <option value="2031">2031</option>
+        </select>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th id="future-th-month">Månad</th>
+                        <th id="future-th-name">Turnering</th>
+                        <th id="future-th-location">Stad</th>
+                        <th id="future-th-dates">Datum</th>
+                    </tr>
+                </thead>
+                <tbody id="future-body"></tbody>
             </table>
         </div>
     </section>
@@ -439,6 +472,7 @@
 
 <script src="script.js"></script>
 <script src="live-results.js"></script>
+<script src="future-tournaments.js"></script>
 <script src="sumo-ai.js"></script>
 </body>
 </html>

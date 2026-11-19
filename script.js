@@ -697,6 +697,62 @@ function updatePage() {
 
     document.documentElement.lang = currentLanguage;
 
+    // Translate future tournament calendar
+    const futureTranslations = {
+        sv: {
+            nav: "📅 Kommande turneringar",
+            title: "📅 Kommande turneringar 2027–2031",
+            description: "Se planerade sumoturneringar under de kommande fem åren.",
+            year: "Välj år",
+            month: "Månad",
+            name: "Turnering",
+            location: "Stad",
+            dates: "Datum"
+        },
+        en: {
+            nav: "📅 Upcoming tournaments",
+            title: "📅 Upcoming tournaments 2027–2031",
+            description: "Explore planned sumo tournaments over the next five years.",
+            year: "Select year",
+            month: "Month",
+            name: "Tournament",
+            location: "City",
+            dates: "Dates"
+        },
+        ja: {
+            nav: "📅 今後の本場所",
+            title: "📅 今後の本場所 2027–2031",
+            description: "今後5年間の大相撲本場所の予定をご覧ください。",
+            year: "年を選択",
+            month: "月",
+            name: "本場所",
+            location: "開催地",
+            dates: "日程"
+        }
+    };
+
+    const ft = futureTranslations[currentLanguage];
+
+    const futureElements = {
+        "future-nav-link": ft.nav,
+        "future-title": ft.title,
+        "future-description": ft.description,
+        "future-year-label": ft.year,
+        "future-th-month": ft.month,
+        "future-th-name": ft.name,
+        "future-th-location": ft.location,
+        "future-th-dates": ft.dates
+    };
+
+    for (const [id, value] of Object.entries(futureElements)) {
+        document.getElementById(id).textContent = value;
+    }
+
+    if (typeof renderFutureTournaments === "function") {
+        renderFutureTournaments();
+    }
+
+
     // Translate main website title
     const mainTitles = {
         sv: "Sumoranking och statistik",
