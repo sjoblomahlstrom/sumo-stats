@@ -752,9 +752,6 @@ function updatePage() {
     youtubeNav.textContent = navText.text;
     youtubeNav.title = navText.title;
 
-    document.getElementById("youtube-title").textContent = yt.title;
-    document.getElementById("youtube-description").textContent = yt.description;
-    document.getElementById("youtube-button-text").textContent = yt.button;
 
     document.getElementById("search-label").textContent = t.search;
     document.getElementById("wrestler-search").placeholder =
