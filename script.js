@@ -734,7 +734,7 @@ function updatePage() {
     const ft = futureTranslations[currentLanguage];
 
     const futureElements = {
-        "future-nav-link": ft.nav,
+        "future-select-link": ft.nav,
         "future-title": ft.title,
         "future-description": ft.description,
         "future-year-label": ft.year,

@@ -1018,3 +1018,44 @@ th {
     opacity: 1 !important;
     visibility: visible !important;
 }
+
+/* Tournament selector and future tournaments button */
+.tournament-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    column-gap: 20px;
+    row-gap: 12px;
+}
+
+#tournament-label {
+    flex-basis: 100%;
+    margin-bottom: 0;
+}
+
+.future-select-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 47px;
+    padding: 0 18px;
+    background-color: #222d40;
+    color: #ffbf47;
+    border: 1px solid #46536a;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.future-select-link:hover,
+.future-select-link:focus-visible {
+    background-color: #34435c;
+    border-color: #ffbf47;
+}
+
+@media (max-width: 650px) {
+    .future-select-link {
+        width: 100%;
+    }
+}
